@@ -1,0 +1,5 @@
+Region	OR	CI_lower	CI_upper
+Island (1116)	0.17	0.16	0.18
+Shore (3612)	0.64	0.62	0.66
+Shelf (1986)	0.99	0.95	1.04
+Open Sea (22286)	2.63	2.55	2.7

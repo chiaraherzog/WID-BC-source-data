@@ -1,0 +1,1801 @@
+WID-BC-index	type	set
+0.3215184315499	Breast	Breast cancer internal validation
+0.872300075067314	Breast	Breast cancer internal validation
+0.920939808373133	Breast	Breast cancer internal validation
+0.633045984410137	Breast	Breast cancer internal validation
+0.970431684984329	Breast	Breast cancer internal validation
+0.677184961787826	Breast	Breast cancer internal validation
+0.705097079941933	Breast	Breast cancer internal validation
+0.321008717161343	Breast	Breast cancer internal validation
+2.05942504918902	Breast	Breast cancer internal validation
+1.06614001283806	Breast	Breast cancer internal validation
+0.309092565088967	Breast	Breast cancer internal validation
+0.634931663072861	Breast	Breast cancer internal validation
+-0.73373491395931	Breast	Breast cancer internal validation
+-0.200817231686404	Breast	Breast cancer internal validation
+0.28905947446068	Breast	Breast cancer internal validation
+1.40154956160584	Breast	Breast cancer internal validation
+0.0537572516891795	Breast	Breast cancer internal validation
+0.227067868487832	Breast	Breast cancer internal validation
+-0.202977133625135	Breast	Breast cancer internal validation
+0.171738816506056	Breast	Breast cancer internal validation
+0.421913940107825	Breast	Breast cancer internal validation
+-0.168222806485006	Breast	Breast cancer internal validation
+0.0855032104145933	Breast	Breast cancer internal validation
+0.0472414826606113	Breast	Breast cancer internal validation
+0.627518593115136	Breast	Breast cancer internal validation
+0.858612330814324	Breast	Breast cancer internal validation
+0.0862411302449842	Breast	Breast cancer internal validation
+0.832923937997756	Breast	Breast cancer internal validation
+0.924115858409172	Breast	Breast cancer internal validation
+0.474639093637005	Breast	Breast cancer internal validation
+1.04217273201951	Breast	Breast cancer internal validation
+-0.476890299452239	Breast	Breast cancer internal validation
+0.332297184544044	Breast	Breast cancer internal validation
+0.0854948051027842	Breast	Breast cancer internal validation
+0.736556633949797	Breast	Breast cancer internal validation
+0.289612142685965	Breast	Breast cancer internal validation
+0.555845458861348	Breast	Breast cancer internal validation
+1.04121109598252	Breast	Breast cancer internal validation
+1.8469767249521	Breast	Breast cancer internal validation
+1.01519489461912	Breast	Breast cancer internal validation
+1.27561229401599	Breast	Breast cancer internal validation
+1.02970605358326	Breast	Breast cancer internal validation
+0.338865327852248	Breast	Breast cancer internal validation
+1.57791317787756	Breast	Breast cancer internal validation
+-0.403391530550129	Breast	Breast cancer internal validation
+0.553195902711928	Breast	Breast cancer internal validation
+0.370445106542995	Breast	Breast cancer internal validation
+-0.0129651923369476	Breast	Breast cancer internal validation
+0.753437764092183	Breast	Breast cancer internal validation
+0.566095703495079	Breast	Breast cancer internal validation
+1.03687185286211	Breast	Breast cancer internal validation
+0.686587642824041	Breast	Breast cancer internal validation
+0.937214956046755	Breast	Breast cancer internal validation
+0.219175370089781	Breast	Breast cancer internal validation
+0.564448995236108	Breast	Breast cancer internal validation
+0.789357767380339	Breast	Breast cancer internal validation
+0.00836762145618868	Breast	Breast cancer internal validation
+0.0100990909986375	Breast	Breast cancer internal validation
+0.402553725659426	Breast	Breast cancer internal validation
+0.177608221828664	Breast	Breast cancer internal validation
+0.507906953556068	Breast	Breast cancer internal validation
+0.361156618318832	Breast	Breast cancer internal validation
+0.571061894312546	Breast	Breast cancer internal validation
+0.423990677061629	Breast	Breast cancer internal validation
+0.359009497635272	Breast	Breast cancer internal validation
+0.305189132650262	Breast	Breast cancer internal validation
+0.100753990360876	Breast	Breast cancer internal validation
+1.21260980412224	Breast	Breast cancer internal validation
+1.01498414867475	Breast	Breast cancer internal validation
+0.169209468047008	Breast	Breast cancer internal validation
+0.0371711240265746	Breast	Breast cancer internal validation
+0.164300302482	Breast	Breast cancer internal validation
+0.318625764841879	Breast	Breast cancer internal validation
+-0.150162275123677	Breast	Breast cancer internal validation
+0.567514988754802	Breast	Breast cancer internal validation
+0.450928969774579	Breast	Breast cancer internal validation
+0.681621615072104	Breast	Breast cancer internal validation
+1.11677413966131	Breast	Breast cancer internal validation
+0.451523656247333	Breast	Breast cancer internal validation
+-0.483591604774232	Breast	Breast cancer internal validation
+0.675746147697652	Breast	Breast cancer internal validation
+0.455119048047233	Breast	Breast cancer internal validation
+0.313050482201103	Breast	Breast cancer internal validation
+0.0859085844136843	Breast	Breast cancer internal validation
+0.649250365469084	Breast	Breast cancer internal validation
+-0.366740759524238	Breast	Breast cancer internal validation
+0.455662727340545	Breast	Breast cancer internal validation
+-1.02737157448783	Breast	Breast cancer internal validation
+-0.18564669187087	Breast	Breast cancer internal validation
+-0.556727873678965	Breast	Breast cancer internal validation
+0.26397491386205	Breast	Breast cancer internal validation
+0.920520382035043	Breast	Breast cancer internal validation
+0.232952834300977	Breast	Breast cancer internal validation
+0.479377534330783	Breast	Breast cancer internal validation
+0.13910768978604	Breast	Breast cancer internal validation
+0.592106184215027	Breast	Breast cancer internal validation
+2.18944578127043	Breast	Breast cancer internal validation
+-0.0302263542388889	Breast	Breast cancer internal validation
+0.524863380728526	Breast	Breast cancer internal validation
+1.53574745269944	Breast	Breast cancer internal validation
+-0.230086837956877	Breast	Breast cancer internal validation
+0.180951689743864	Breast	Breast cancer internal validation
+-0.111546362791832	Breast	Breast cancer internal validation
+0.457657485511613	Breast	Breast cancer internal validation
+0.102849117322599	Breast	Breast cancer internal validation
+0.804357147072218	Breast	Breast cancer internal validation
+0.612701730882244	Breast	Breast cancer internal validation
+-0.0941679727290822	Breast	Breast cancer internal validation
+-0.0166555229722222	Breast	Breast cancer internal validation
+0.658201574550852	Breast	Breast cancer internal validation
+-0.0383366067054804	Breast	Breast cancer internal validation
+0.439571784400733	Breast	Breast cancer internal validation
+-0.743881363530076	Control	Breast cancer internal validation
+-0.882898440395577	Control	Breast cancer internal validation
+-0.237306241502074	Control	Breast cancer internal validation
+-0.612195691187768	Control	Breast cancer internal validation
+-0.0267491930335274	Control	Breast cancer internal validation
+0.312268431496757	Control	Breast cancer internal validation
+0.262743115103116	Control	Breast cancer internal validation
+0.277214939303598	Control	Breast cancer internal validation
+-0.567651777720604	Control	Breast cancer internal validation
+-0.478132135916309	Control	Breast cancer internal validation
+0.153254059805053	Control	Breast cancer internal validation
+-0.259502689664079	Control	Breast cancer internal validation
+-0.254679721080463	Control	Breast cancer internal validation
+-0.28494174190359	Control	Breast cancer internal validation
+-0.323283151200456	Control	Breast cancer internal validation
+-0.451586768621736	Control	Breast cancer internal validation
+-0.0844159129756592	Control	Breast cancer internal validation
+-0.274597121346044	Control	Breast cancer internal validation
+0.211569569953156	Control	Breast cancer internal validation
+-0.379721650543771	Control	Breast cancer internal validation
+-0.0522109816194738	Control	Breast cancer internal validation
+-0.385326749348871	Control	Breast cancer internal validation
+-0.731443103114823	Control	Breast cancer internal validation
+0.88954437359273	Control	Breast cancer internal validation
+-0.0366102591168435	Control	Breast cancer internal validation
+0.278638532811838	Control	Breast cancer internal validation
+0.0604934439672088	Control	Breast cancer internal validation
+0.574993038401107	Control	Breast cancer internal validation
+0.065748393641733	Control	Breast cancer internal validation
+-0.403991868881727	Control	Breast cancer internal validation
+-0.641367422819088	Control	Breast cancer internal validation
+0.365211437102559	Control	Breast cancer internal validation
+-0.732225991062564	Control	Breast cancer internal validation
+-0.434640683394424	Control	Breast cancer internal validation
+-1.09019380127999	Control	Breast cancer internal validation
+-0.131477994129874	Control	Breast cancer internal validation
+0.0767854867068647	Control	Breast cancer internal validation
+0.0738917845514497	Control	Breast cancer internal validation
+-0.00521169323805777	Control	Breast cancer internal validation
+-0.786521433181342	Control	Breast cancer internal validation
+-0.013367339384292	Control	Breast cancer internal validation
+0.0778190004101887	Control	Breast cancer internal validation
+-0.464256523674451	Control	Breast cancer internal validation
+-0.257555275182805	Control	Breast cancer internal validation
+0.919092972317711	Control	Breast cancer internal validation
+-1.49632255665899	Control	Breast cancer internal validation
+-0.814086903069808	Control	Breast cancer internal validation
+-0.875096541743326	Control	Breast cancer internal validation
+0.750794830153833	Control	Breast cancer internal validation
+-0.204317444496935	Control	Breast cancer internal validation
+-1.31514750371564	Control	Breast cancer internal validation
+-0.237991647522358	Control	Breast cancer internal validation
+-1.53150834500034	Control	Breast cancer internal validation
+-0.00334549629258175	Control	Breast cancer internal validation
+-0.442222163207109	Control	Breast cancer internal validation
+-0.252380236176464	Control	Breast cancer internal validation
+0.0248886575260189	Control	Breast cancer internal validation
+0.113262801846543	Control	Breast cancer internal validation
+-0.569684892178928	Control	Breast cancer internal validation
+0.16826881191547	Control	Breast cancer internal validation
+-0.197298060228166	Control	Breast cancer internal validation
+-0.0152744973632943	Control	Breast cancer internal validation
+-0.125321207041506	Control	Breast cancer internal validation
+-0.651402464157769	Control	Breast cancer internal validation
+-0.399299860206172	Control	Breast cancer internal validation
+-0.593151234264702	Control	Breast cancer internal validation
+-0.184341867819824	Control	Breast cancer internal validation
+0.457223920370279	Control	Breast cancer internal validation
+-0.64921578558101	Control	Breast cancer internal validation
+0.615594890707416	Control	Breast cancer internal validation
+0.497933286276048	Control	Breast cancer internal validation
+0.393030930434972	Control	Breast cancer internal validation
+0.27470870905896	Control	Breast cancer internal validation
+-0.634046966733274	Control	Breast cancer internal validation
+0.440988347004688	Control	Breast cancer internal validation
+-0.585093392878137	Control	Breast cancer internal validation
+0.0992893695040286	Control	Breast cancer internal validation
+0.578161740458859	Control	Breast cancer internal validation
+0.232144718276475	Control	Breast cancer internal validation
+-0.202279788316053	Control	Breast cancer internal validation
+0.555198228322949	Control	Breast cancer internal validation
+0.562444861009367	Control	Breast cancer internal validation
+-0.352347655102371	Control	Breast cancer internal validation
+-0.515047861259032	Control	Breast cancer internal validation
+-1.03957497317253	Control	Breast cancer internal validation
+-0.0925468797822283	Control	Breast cancer internal validation
+0.646576196006771	Control	Breast cancer internal validation
+-0.157659118951524	Control	Breast cancer internal validation
+-0.186696612825785	Control	Breast cancer internal validation
+0.00213190536709286	Control	Breast cancer internal validation
+-0.710534855552808	Control	Breast cancer internal validation
+-1.1305668769203	Control	Breast cancer internal validation
+-0.511267682734815	Control	Breast cancer internal validation
+0.121957929969653	Control	Breast cancer internal validation
+0.484460435541283	Control	Breast cancer internal validation
+-0.859277056435688	Control	Breast cancer internal validation
+-0.471145790805571	Control	Breast cancer internal validation
+1.61654341863949	Control	Breast cancer internal validation
+-1.01703624302223	Control	Breast cancer internal validation
+0.760569930651689	Control	Breast cancer internal validation
+0.207153006393948	Control	Breast cancer internal validation
+-0.775500997571701	Control	Breast cancer internal validation
+-0.561776265406792	Control	Breast cancer internal validation
+-0.224599964206712	Control	Breast cancer internal validation
+0.141597645850714	Control	Breast cancer internal validation
+-0.184087510798444	Control	Breast cancer internal validation
+0.115080525379773	Control	Breast cancer internal validation
+0.625169056008832	Control	Breast cancer internal validation
+-0.392417554007568	Control	Breast cancer internal validation
+-0.239004352366586	Control	Breast cancer internal validation
+-0.878588318709928	Control	Breast cancer internal validation
+-0.189456825700819	Control	Breast cancer internal validation
+-0.490925998547264	Control	Breast cancer internal validation
+0.23111208855014	Control	Breast cancer internal validation
+-0.978566284655411	Control	Breast cancer internal validation
+0.640720621051752	Control	Breast cancer internal validation
+0.111657909810362	Control	Breast cancer internal validation
+-0.0210765108045142	Control	Breast cancer internal validation
+-0.227478131575769	Control	Breast cancer internal validation
+-1.091446409332	Control	Breast cancer internal validation
+-0.373401776488614	Control	Breast cancer internal validation
+-0.107679004486352	Control	Breast cancer internal validation
+0.0212238088923058	Control	Breast cancer internal validation
+-0.407933143726947	Control	Breast cancer internal validation
+-0.0536647425920819	Control	Breast cancer internal validation
+-0.160130672256647	Control	Breast cancer internal validation
+-0.539663501869694	Control	Breast cancer internal validation
+-0.285472853630711	Control	Breast cancer internal validation
+-0.16099740117638	Control	Breast cancer internal validation
+-0.366069261834361	Control	Breast cancer internal validation
+-0.278932211462047	Control	Breast cancer internal validation
+-0.534794746168265	Control	Breast cancer internal validation
+-0.0782980950703662	Control	Breast cancer internal validation
+-0.368218209264839	Control	Breast cancer internal validation
+-0.243652006155173	Control	Breast cancer internal validation
+0.207189498606074	Control	Breast cancer internal validation
+-0.4434080066427	Control	Breast cancer internal validation
+0.0951533981024789	Control	Breast cancer internal validation
+-0.361701213763904	Control	Breast cancer internal validation
+-0.258984279631421	Control	Breast cancer internal validation
+0.127194969846988	Control	Breast cancer internal validation
+0.299121680573701	Control	Breast cancer internal validation
+-0.0597566391856471	Control	Breast cancer internal validation
+-0.0783143234188013	Control	Breast cancer internal validation
+-0.00180806114773298	Control	Breast cancer internal validation
+-0.54837288180189	Control	Breast cancer internal validation
+-0.0941163123653993	Control	Breast cancer internal validation
+-0.294373598142355	Control	Breast cancer internal validation
+0.60025036744697	Control	Breast cancer internal validation
+-0.798636663888287	Control	Breast cancer internal validation
+-0.200363767796272	Control	Breast cancer internal validation
+-0.789093892952099	Control	Breast cancer internal validation
+-0.798667037139339	Control	Breast cancer internal validation
+-0.621566691430113	Control	Breast cancer internal validation
+-0.739069551171503	Control	Breast cancer internal validation
+-0.764219783615614	Control	Breast cancer internal validation
+-0.608505272619626	Control	Breast cancer internal validation
+-0.809099026858295	Control	Breast cancer internal validation
+-0.861935552339043	Control	Breast cancer internal validation
+-0.426784603001436	Control	Breast cancer internal validation
+-0.45263360048011	Control	Breast cancer internal validation
+-0.361781521332167	Control	Breast cancer internal validation
+-0.516644504972459	Control	Breast cancer internal validation
+-0.567851397410015	Control	Breast cancer internal validation
+-0.457185420202218	Control	Breast cancer internal validation
+0.340954105250796	Control	Breast cancer internal validation
+-0.27945622273359	Control	Breast cancer internal validation
+0.0946350619564707	Control	Breast cancer internal validation
+0.242831172859644	Control	Breast cancer internal validation
+-0.772416117132466	Control	Breast cancer internal validation
+-0.409534716738011	Control	Breast cancer internal validation
+0.00284083683042109	Control	Breast cancer internal validation
+-1.01990557332456	Control	Breast cancer internal validation
+-1.11170089495594	Control	Breast cancer internal validation
+-0.805204137342698	Control	Breast cancer internal validation
+-0.623566362633326	Control	Breast cancer internal validation
+-0.127103471422663	Control	Breast cancer internal validation
+-0.870528204984338	Control	Breast cancer internal validation
+-0.799435549636001	Control	Breast cancer internal validation
+-1.05348781433004	Control	Breast cancer internal validation
+-0.672124679364744	Control	Breast cancer internal validation
+-0.800370757299353	Control	Breast cancer internal validation
+-0.359455577794845	Control	Breast cancer internal validation
+-1.03101807860591	Control	Breast cancer internal validation
+-1.17176837988011	Control	Breast cancer internal validation
+0.28468643308114	Control	Breast cancer internal validation
+-0.540407040939235	Control	Breast cancer internal validation
+-0.842267095406909	Control	Breast cancer internal validation
+0.124381907391191	Control	Breast cancer internal validation
+-0.447088746240826	Control	Breast cancer internal validation
+-1.33345349862435	Control	Breast cancer internal validation
+-0.245151307379304	Control	Breast cancer internal validation
+-0.362804610072337	Control	Breast cancer internal validation
+-0.336378409651446	Control	Breast cancer internal validation
+0.541414905881504	Control	Breast cancer internal validation
+-0.79163052308189	Control	Breast cancer internal validation
+-1.04785638250741	Control	Breast cancer internal validation
+-0.318756756486488	Control	Breast cancer internal validation
+0.010822330614171	Control	Breast cancer internal validation
+-0.236657816162087	Control	Breast cancer internal validation
+0.55565176537153	Control	Breast cancer internal validation
+1.0501201690602	Control	Breast cancer internal validation
+-0.186380556050657	Control	Breast cancer internal validation
+0.0124098338045531	Control	Breast cancer internal validation
+-0.665565644134098	Control	Breast cancer internal validation
+-1.16626112803231	Control	Breast cancer internal validation
+-0.728437608665239	Control	Breast cancer internal validation
+0.244463795284353	Control	Breast cancer internal validation
+-0.422043526108829	Control	Breast cancer internal validation
+-0.620495072151053	Control	Breast cancer internal validation
+-0.37838395083771	Control	Breast cancer internal validation
+0.29471200324187	Control	Breast cancer internal validation
+-0.298313130164006	Control	Breast cancer internal validation
+-0.262890961496628	Control	Breast cancer internal validation
+0.229671125737377	Control	Breast cancer internal validation
+-0.529894336715378	Control	Breast cancer internal validation
+-0.49369242078417	Control	Breast cancer internal validation
+0.204902669419634	Control	Breast cancer internal validation
+-0.84149102968025	Control	Breast cancer internal validation
+-0.680625158313535	Control	Breast cancer internal validation
+-0.36829933538823	Control	Breast cancer internal validation
+-0.409546410941447	Control	Breast cancer internal validation
+0.959243577135698	Control	Breast cancer internal validation
+-0.739513710874324	Control	Breast cancer internal validation
+0.498422477815776	Control	Breast cancer internal validation
+-0.487451510192532	Control	Breast cancer internal validation
+-0.417084923694365	Control	Breast cancer internal validation
+0.105242575206256	Control	Breast cancer internal validation
+-0.0442362941206668	Control	Breast cancer internal validation
+-0.456854053044462	Control	Breast cancer internal validation
+-0.150959502630402	Control	Breast cancer internal validation
+0.5091702629005	Control	Breast cancer internal validation
+0.21609170184699	Control	Breast cancer internal validation
+-0.281591794227754	Control	Breast cancer internal validation
+-0.708914722741649	Control	Breast cancer internal validation
+-0.158938377430944	Control	Breast cancer internal validation
+0.0546610347623123	Control	Breast cancer internal validation
+0.00671109182257911	Control	Breast cancer internal validation
+-0.140007048699289	Control	Breast cancer internal validation
+-0.740702730945822	Control	Breast cancer internal validation
+-0.450196957666406	Control	Breast cancer internal validation
+-0.853272400756767	Control	Breast cancer internal validation
+0.0868911291967856	Control	Breast cancer internal validation
+-0.619416229909323	Control	Breast cancer internal validation
+-1.0151498655126	Control	Breast cancer internal validation
+0.00750691463509397	Control	Breast cancer internal validation
+-0.0941441021459656	Control	Breast cancer internal validation
+-0.206509334720358	Control	Breast cancer internal validation
+0.0814390342786182	Control	Breast cancer internal validation
+-0.286395709324848	Control	Breast cancer internal validation
+-0.0220725948243167	Control	Breast cancer internal validation
+0.261654763167025	Control	Breast cancer internal validation
+-0.58356834864617	Control	Breast cancer internal validation
+-0.437461502818775	Control	Breast cancer internal validation
+-0.641003870535927	Control	Breast cancer internal validation
+-0.578208396579105	Control	Breast cancer internal validation
+0.338065838267753	Control	Breast cancer internal validation
+-0.906666777188903	Control	Breast cancer internal validation
+0.664446270518744	Control	Breast cancer internal validation
+-0.42370795231856	Control	Breast cancer internal validation
+-0.254864704980818	Control	Breast cancer internal validation
+-0.525700441132021	Control	Breast cancer internal validation
+-1.42714266735606	Control	Breast cancer internal validation
+-0.449033705558508	Control	Breast cancer internal validation
+-0.13680222279451	Control	Breast cancer internal validation
+0.199455819830279	Control	Breast cancer internal validation
+-0.58396769072192	Control	Breast cancer internal validation
+-0.522254664312944	Control	Breast cancer internal validation
+-0.952627023822131	Control	Breast cancer internal validation
+-0.512566271365154	Control	Breast cancer internal validation
+0.548478057203914	Control	Breast cancer internal validation
+-0.100247341417293	Control	Breast cancer internal validation
+-0.0312390638359914	Control	Breast cancer internal validation
+0.0299495924696459	Control	Breast cancer internal validation
+-0.497787837453984	Control	Breast cancer internal validation
+-0.276200738549374	Control	Breast cancer internal validation
+0.0422045348897261	Control	Breast cancer internal validation
+0.134797272547807	Control	Breast cancer internal validation
+-0.506559703566394	Control	Breast cancer internal validation
+0.297256540572118	Control	Breast cancer internal validation
+-0.441040220441743	Control	Breast cancer internal validation
+0.0861467123413297	Control	Breast cancer internal validation
+-0.581326863918045	Control	Breast cancer internal validation
+-0.441356740459078	Control	Breast cancer internal validation
+-0.904850432604768	Control	Breast cancer internal validation
+-0.723049916353067	Control	Breast cancer internal validation
+-0.39858867981701	Control	Breast cancer internal validation
+-0.27021734944873	Control	Breast cancer internal validation
+0.749975935388246	Control	Breast cancer internal validation
+0.0537433608086711	Control	Breast cancer internal validation
+-0.993748760351089	Control	Breast cancer internal validation
+0.885263528410732	Control	Breast cancer internal validation
+-0.521561729521858	Control	Breast cancer internal validation
+-0.498265017039676	Control	Breast cancer internal validation
+-0.597948122380237	Control	Breast cancer internal validation
+0.466386979487825	Control	Breast cancer internal validation
+0.00723372770659607	Control	Breast cancer internal validation
+-0.551457077472062	Control	Breast cancer external validation
+-0.398622149654517	Control	Breast cancer external validation
+0.803593729859852	Breast	Breast cancer external validation
+-0.795292596910349	Control	Breast cancer external validation
+-0.851725895120242	Breast	Breast cancer external validation
+0.849976810040548	Breast	Breast cancer external validation
+0.59211238498691	Control	Breast cancer external validation
+0.833894368079361	Breast	Breast cancer external validation
+-0.642917591935392	Control	Breast cancer external validation
+0.138586054869095	Control	Breast cancer external validation
+-0.104651007001954	Breast	Breast cancer external validation
+-0.466055360919239	Control	Breast cancer external validation
+-1.10122167967889	Breast	Breast cancer external validation
+0.750888131387621	Control	Breast cancer external validation
+0.959610975601036	Breast	Breast cancer external validation
+-0.311249637899732	Control	Breast cancer external validation
+0.62588595514472	Breast	Breast cancer external validation
+0.733611924741499	Breast	Breast cancer external validation
+-0.114311793353751	Control	Breast cancer external validation
+0.0103727848017173	Control	Breast cancer external validation
+-0.20720478949541	Control	Breast cancer external validation
+-0.372585774865282	Control	Breast cancer external validation
+0.956661240014256	Breast	Breast cancer external validation
+0.840944523623338	Breast	Breast cancer external validation
+-0.855469961760492	Control	Breast cancer external validation
+0.107678464452699	Breast	Breast cancer external validation
+-0.342367474771833	Control	Breast cancer external validation
+0.474329592474126	Breast	Breast cancer external validation
+-3.20307984749895	Control	Breast cancer external validation
+-0.0255190732197846	Control	Breast cancer external validation
+0.560853082223194	Breast	Breast cancer external validation
+-0.908924543950294	Control	Breast cancer external validation
+0.698357232254714	Breast	Breast cancer external validation
+-1.0830840215806	Breast	Breast cancer external validation
+0.339754007048626	Control	Breast cancer external validation
+0.345391260748126	Control	Breast cancer external validation
+0.515124109546098	Breast	Breast cancer external validation
+-1.21782044504109	Control	Breast cancer external validation
+0.548658471727455	Breast	Breast cancer external validation
+-0.660832561367484	Control	Breast cancer external validation
+0.0658583277223205	Breast	Breast cancer external validation
+-0.249659732063969	Control	Breast cancer external validation
+-0.0154009710933118	Breast	Breast cancer external validation
+-1.42092226794368	Control	Breast cancer external validation
+0.615980018047353	Breast	Breast cancer external validation
+0.123844774156906	Control	Breast cancer external validation
+-0.135074818658089	Breast	Breast cancer external validation
+0.773912843671425	Breast	Breast cancer external validation
+-0.309003689103518	Control	Breast cancer external validation
+0.845075413348492	Breast	Breast cancer external validation
+0.314246956615944	Control	Breast cancer external validation
+0.332401032791794	Control	Breast cancer external validation
+0.293047901756276	Breast	Breast cancer external validation
+0.668485440541636	Breast	Breast cancer external validation
+0.889998521956703	Breast	Breast cancer external validation
+0.0838969806126838	Control	Breast cancer external validation
+-0.487248895994164	Control	Breast cancer external validation
+0.332494543683824	Breast	Breast cancer external validation
+0.979337893587623	Control	Breast cancer external validation
+-0.170154816601014	Breast	Breast cancer external validation
+-0.475234988220919	Control	Breast cancer external validation
+1.08377399971478	Breast	Breast cancer external validation
+-0.711138076102777	Control	Breast cancer external validation
+0.589150579010559	Breast	Breast cancer external validation
+-0.786209949350464	Control	Breast cancer external validation
+0.512058276816422	Breast	Breast cancer external validation
+-0.888319209259952	Control	Breast cancer external validation
+-0.0846463731895947	Breast	Breast cancer external validation
+0.427977509170012	Control	Breast cancer external validation
+0.0661259652569948	Control	Breast cancer external validation
+0.600328411281881	Breast	Breast cancer external validation
+0.175352347239446	Control	Breast cancer external validation
+-0.831182910711615	Control	Breast cancer external validation
+0.325308097060911	Breast	Breast cancer external validation
+-0.11656251504656	Control	Breast cancer external validation
+0.671038232062924	Breast	Breast cancer external validation
+0.422483368846872	Breast	Breast cancer external validation
+-1.15376654879521	Control	Breast cancer external validation
+1.12647906421686	Breast	Breast cancer external validation
+-0.567192254472701	Control	Breast cancer external validation
+0.157388383841221	Breast	Breast cancer external validation
+0.0665636970084218	Control	Breast cancer external validation
+1.61763729440295	Breast	Breast cancer external validation
+-0.13800038235082	Control	Breast cancer external validation
+0.390125308969872	Breast	Breast cancer external validation
+0.321214382384026	Breast	Breast cancer external validation
+0.0650335173664305	Control	Breast cancer external validation
+0.187290063356945	Breast	Breast cancer external validation
+-0.845599280872244	Control	Breast cancer external validation
+0.789639962407093	Breast	Breast cancer external validation
+0.0213301928744247	Control	Breast cancer external validation
+-0.0129174363737295	Control	Breast cancer external validation
+-0.579394927879378	Control	Breast cancer external validation
+-0.932420382706986	Control	Breast cancer external validation
+0.0538658712391623	Control	Breast cancer external validation
+-0.465062442911229	Control	Breast cancer external validation
+-0.726797375018911	Control	Breast cancer external validation
+-0.409856925997201	Control	Breast cancer external validation
+-0.0630513314524876	Control	Breast cancer external validation
+1.30846793201568	Control	Breast cancer external validation
+-0.351817087947245	Control	Breast cancer external validation
+-0.611029680325905	Control	Breast cancer external validation
+-0.401241437798033	Control	Breast cancer external validation
+1.99726444904991	Control	Breast cancer external validation
+0.170920652773421	Control	Breast cancer external validation
+1.46658547799519	Control	Breast cancer external validation
+-0.344061358954514	Control	Breast cancer external validation
+-1.66651079319503	Control	Breast cancer external validation
+-0.579990265895295	Control	Breast cancer external validation
+-0.0205134500800236	Control	Breast cancer external validation
+-0.274127319754338	Control	Breast cancer external validation
+-0.115618076387011	Control	Breast cancer external validation
+-0.109373210947466	Control	Breast cancer external validation
+0.191368836145348	Control	Breast cancer external validation
+0.0132437311485007	Control	Breast cancer external validation
+-0.919039051325236	Control	Breast cancer external validation
+-0.765227196668361	Control	Breast cancer external validation
+-0.70105119120084	Control	Breast cancer external validation
+-0.0851719101208748	Control	Breast cancer external validation
+-0.706138628508063	Control	Breast cancer external validation
+-0.184504706250369	Control	Breast cancer external validation
+0.596196647873655	Control	Breast cancer external validation
+-0.0434995321871635	Control	Breast cancer external validation
+1.37542071282143	Control	Breast cancer external validation
+-0.539182294216501	Control	Breast cancer external validation
+0.7780960690208	Breast	Breast cancer external validation
+-0.600162259421691	Control	Breast cancer external validation
+-0.268402225689505	Control	Breast cancer external validation
+1.01190162467518	Breast	Breast cancer external validation
+0.748479063986487	Control	Breast cancer external validation
+-0.436780914274578	Control	Breast cancer external validation
+0.251276790945663	Breast	Breast cancer external validation
+0.681763416946981	Breast	Breast cancer external validation
+-0.469126282698974	Control	Breast cancer external validation
+0.439716768085054	Breast	Breast cancer external validation
+-0.478616928446376	Breast	Breast cancer external validation
+0.81855051819537	Control	Breast cancer external validation
+-0.334239811904789	Breast	Breast cancer external validation
+-0.509597013553895	Control	Breast cancer external validation
+-0.231124647761521	Breast	Breast cancer external validation
+-0.534029493144209	Control	Breast cancer external validation
+0.699347416083979	Breast	Breast cancer external validation
+1.27416575547436	Control	Breast cancer external validation
+-0.0173799188564609	Control	Breast cancer external validation
+0.015385546280431	Breast	Breast cancer external validation
+0.979925803048605	Control	Breast cancer external validation
+-0.252544933072008	Breast	Breast cancer external validation
+0.0960573336472332	Control	Breast cancer external validation
+-0.208157654655452	Breast	Breast cancer external validation
+-0.789727307634748	Control	Breast cancer external validation
+-2.08507334387996	Control	Breast cancer external validation
+-0.362060350952057	Control	Breast cancer external validation
+-0.00198378446249914	Control	Breast cancer external validation
+-0.400116228056965	Control	Breast cancer external validation
+-1.31189699258042	Control	Breast cancer external validation
+0.0329884692938947	Control	Breast cancer external validation
+-0.908066795153153	Control	Breast cancer external validation
+0.456602414634543	Control	Breast cancer external validation
+0.0312183417767311	Breast	Breast cancer external validation
+0.193514341928614	Control	Breast cancer external validation
+0.628039104842552	Breast	Breast cancer external validation
+0.00650871238904396	Control	Breast cancer external validation
+-0.911948026070044	Control	Breast cancer external validation
+-0.313781485579584	Breast	Breast cancer external validation
+-0.170701215863577	Breast	Breast cancer external validation
+1.22721485309488	Breast	Breast cancer external validation
+0.622800804095273	Breast	Breast cancer external validation
+-0.314042956397716	Control	Breast cancer external validation
+0.332039166710519	Breast	Breast cancer external validation
+0.536961569441697	Breast	Breast cancer external validation
+-0.473377098743224	Control	Breast cancer external validation
+0.213724888153521	Control	Breast cancer external validation
+-0.908710306195637	Control	Breast cancer external validation
+0.383469039374096	Breast	Breast cancer external validation
+-0.617145261533889	Control	Breast cancer external validation
+-1.30973322535487	Control	Breast cancer external validation
+-1.08359093711237	Control	Breast cancer external validation
+-0.0603465232546978	Breast	Breast cancer external validation
+0.159445256014678	Breast	Breast cancer external validation
+-0.765760703296541	Control	Breast cancer external validation
+0.852841129704134	Breast	Breast cancer external validation
+0.13287117587168	Control	Breast cancer external validation
+0.486513215498555	Breast	Breast cancer external validation
+-0.571758981705353	Control	Breast cancer external validation
+-0.147202458918488	Control	Breast cancer external validation
+-1.97362688345894	Control	Breast cancer external validation
+0.774071888287364	Breast	Breast cancer external validation
+-1.59915790774818	Control	Breast cancer external validation
+-0.362226381386835	Control	Breast cancer external validation
+0.955861464309223	Control	Breast cancer external validation
+-2.11874528799599	Control	Breast cancer external validation
+0.316296447882638	Control	Breast cancer external validation
+-0.351232942141795	Control	Breast cancer external validation
+-0.0781415436979515	Control	Breast cancer external validation
+-0.031828502321828	Control	Breast cancer external validation
+-0.287691543533484	Control	Breast cancer external validation
+-0.0172470906534972	Control	Breast cancer external validation
+-0.28458621498514	Control	Breast cancer external validation
+-0.952259453178415	Control	Breast cancer external validation
+0.665807948447543	Control	Breast cancer external validation
+-0.0578913539853428	Control	Breast cancer external validation
+-0.626718587455499	Control	Breast cancer external validation
+-0.795624708880121	Control	Breast cancer external validation
+1.29777465783794	Breast	Breast cancer external validation
+0.895127628946396	Breast	Breast cancer external validation
+-0.224968178090338	Control	Breast cancer external validation
+-0.0469671977455255	Control	Breast cancer external validation
+1.11751186606458	Breast	Breast cancer external validation
+0.26973394687985	Breast	Breast cancer external validation
+0.363362061496764	Control	Breast cancer external validation
+-0.930826543428099	Control	Breast cancer external validation
+-1.13633165010794	Control	Breast cancer external validation
+3.02256513061818	Breast	Breast cancer external validation
+-0.117294101863744	Control	Breast cancer external validation
+0.366512756931773	Breast	Breast cancer external validation
+-0.847188008086743	Control	Breast cancer external validation
+-0.316315989331965	Control	Breast cancer external validation
+0.635193013522365	Control	Breast cancer external validation
+-0.12164247253837	Control	Breast cancer external validation
+0.752439541908332	Breast	Breast cancer external validation
+-0.360308166057134	Control	Breast cancer external validation
+1.31791711804599	Breast	Breast cancer external validation
+0.333000726785936	Breast	Breast cancer external validation
+-0.722188100224524	Breast	Breast cancer external validation
+0.960030393186267	Breast	Breast cancer external validation
+0.702218630772072	Breast	Breast cancer external validation
+0.920175591459541	Breast	Breast cancer external validation
+0.230096582854355	Control	Breast cancer external validation
+-0.0414796589253387	Control	Breast cancer external validation
+0.71523091900294	Control	Breast cancer external validation
+-0.329818602764871	Control	Breast cancer external validation
+0.632799376912615	Breast	Breast cancer external validation
+0.676030223503237	Breast	Breast cancer external validation
+0.266886925487624	Breast	Breast cancer external validation
+0.824258675963991	Breast	Breast cancer external validation
+-0.71695642102969	Control	Breast cancer external validation
+-0.259761533861164	Control	Breast cancer external validation
+0.765610978426118	Breast	Breast cancer external validation
+-0.636105242207744	Control	Breast cancer external validation
+0.607990596448591	Control	Breast cancer external validation
+0.738533073013251	Breast	Breast cancer external validation
+-0.979793460714919	Breast	Breast cancer external validation
+-0.473434732057082	Control	Breast cancer external validation
+0.212453105214204	Breast	Breast cancer external validation
+-0.895554003044666	Control	Breast cancer external validation
+0.256162392328965	Control	Breast cancer external validation
+0.173813868309454	Control	Breast cancer external validation
+-0.251986797882579	Control	Breast cancer external validation
+-0.671352653271794	Control	Breast cancer external validation
+-0.420905942041446	Breast	Breast cancer external validation
+0.353791862326245	Control	Breast cancer external validation
+0.429766993621081	Breast	Breast cancer external validation
+0.638196722117682	Breast	Breast cancer external validation
+0.549154418052265	Breast	Breast cancer external validation
+0.100116172258621	Control	Breast cancer external validation
+-0.320559331871622	Control	Breast cancer external validation
+-0.447885907403718	Control	Breast cancer external validation
+-0.187862123897607	Control	Breast cancer external validation
+0.43723974715069	Breast	Breast cancer external validation
+0.326597923914534	Breast	Breast cancer external validation
+-0.110304778649095	Breast	Breast cancer external validation
+-0.897369398028743	Control	Breast cancer external validation
+-0.632349274048237	Control	Breast cancer external validation
+-0.450940451723655	Control	Breast cancer external validation
+0.613572175283725	Breast	Breast cancer external validation
+-0.241774205716484	Breast	Breast cancer external validation
+0.758559803470254	Control	Breast cancer external validation
+-0.353296098645198	Control	Breast cancer external validation
+0.90302541554782	Breast	Breast cancer external validation
+0.94012465408025	Breast	Breast cancer external validation
+-0.0218909798726818	Control	Breast cancer external validation
+-0.4550168327834	Control	Breast cancer external validation
+-0.795788080063432	Breast	Breast cancer external validation
+-0.232897565127993	Control	Breast cancer external validation
+0.180044544661147	Control	Breast cancer external validation
+0.926790142966897	Breast	Breast cancer external validation
+0.0289668470539334	Control	Breast cancer external validation
+-0.747605285183259	Control	Breast cancer external validation
+0.183410534044097	Breast	Breast cancer external validation
+0.717045318012609	Breast	Breast cancer external validation
+-1.24185756267543	Control	Breast cancer external validation
+0.319347365645927	Breast	Breast cancer external validation
+0.647958467079329	Control	Breast cancer external validation
+0.57992835711771	Breast	Breast cancer external validation
+0.0974249373631754	Control	Breast cancer external validation
+1.0637198745251	Breast	Breast cancer external validation
+0.788403197013459	Breast	Breast cancer external validation
+-0.162758515066025	Control	Breast cancer external validation
+0.812757975420866	Breast	Breast cancer external validation
+0.620986568560111	Control	Breast cancer external validation
+0.0324764805485228	Breast	Breast cancer external validation
+-0.036117657504991	Control	Breast cancer external validation
+-0.0775604787830909	Control	Breast cancer external validation
+-0.439100688858636	Control	Breast cancer external validation
+-0.723960950807181	Control	Breast cancer external validation
+-0.585628559713458	Control	Breast cancer external validation
+0.137406085998485	Control	Breast cancer external validation
+0.156438658592752	Control	Breast cancer external validation
+-0.25365612813596	Control	Breast cancer external validation
+-0.459036453522826	Control	Breast cancer external validation
+-0.0350217884951111	Control	Breast cancer external validation
+-0.331777325848465	Control	Breast cancer external validation
+0.0951459540716194	Control	Breast cancer external validation
+-0.312891977854402	Control	Breast cancer external validation
+0.116614310841029	Control	Breast cancer external validation
+-0.105631358638519	Control	Breast cancer external validation
+-0.27486236801995	Control	Breast cancer external validation
+0.758564219960301	Control	Breast cancer external validation
+-0.510672439021211	Control	Breast cancer external validation
+-0.49056364658246	Control	Breast cancer external validation
+-0.608876565024952	Control	Breast cancer external validation
+-0.261891542171636	Control	Breast cancer external validation
+-0.0856604244379962	Control	Breast cancer external validation
+-0.239868009126807	Control	Breast cancer external validation
+0.231228011896366	Control	Breast cancer external validation
+-0.22890469331273	Control	Breast cancer external validation
+-0.231758100867939	Control	Breast cancer external validation
+-0.442020581941105	Control	Breast cancer external validation
+-0.862411247725651	Control	Breast cancer external validation
+0.352556220223477	Control	Breast cancer external validation
+-0.232018040385407	Control	Breast cancer external validation
+-0.430728163757102	Control	Breast cancer external validation
+-0.341494813456759	Control	Breast cancer external validation
+-0.472934730919913	Control	Breast cancer external validation
+-0.183686687911885	Control	Breast cancer external validation
+-0.648239305334692	Control	Breast cancer external validation
+-0.393537526830585	Control	Breast cancer external validation
+-0.00721311807873277	Control	Breast cancer external validation
+-0.466503473668226	Control	Breast cancer external validation
+-0.917241644671924	Control	Breast cancer external validation
+-0.320635975401036	Control	Breast cancer external validation
+-0.66095279826652	Control	Breast cancer external validation
+0.50687555400979	Control	Breast cancer external validation
+0.216837999820903	Control	Breast cancer external validation
+-0.142834476097752	Control	Breast cancer external validation
+-0.803911643148626	Control	Breast cancer external validation
+-1.60446638912814	Control	Breast cancer external validation
+-2.77387972881393	Breast	Breast cancer external validation
+-0.285916861922094	Ovarian cancer	Ovarian cancer
+-0.101730808510628	Ovarian cancer	Ovarian cancer
+0.742205126197539	Ovarian cancer	Ovarian cancer
+1.1366613427369	Ovarian cancer	Ovarian cancer
+0.177703040938239	Ovarian cancer	Ovarian cancer
+0.671275673928523	Ovarian cancer	Ovarian cancer
+0.770945558248807	Ovarian cancer	Ovarian cancer
+0.552414465441018	Ovarian cancer	Ovarian cancer
+0.947384260324681	Ovarian cancer	Ovarian cancer
+0.337911785587174	Ovarian cancer	Ovarian cancer
+0.020348012374666	Ovarian cancer	Ovarian cancer
+0.981027617158543	Ovarian cancer	Ovarian cancer
+-0.407173586610506	Ovarian cancer	Ovarian cancer
+-0.286423625687068	Ovarian cancer	Ovarian cancer
+0.952920555608223	Ovarian cancer	Ovarian cancer
+-0.336699722038667	Ovarian cancer	Ovarian cancer
+0.599108931948279	Ovarian cancer	Ovarian cancer
+0.219807844899021	Ovarian cancer	Ovarian cancer
+-0.224097699591156	Ovarian cancer	Ovarian cancer
+0.858674106438182	Ovarian cancer	Ovarian cancer
+-1.00721521126554	Ovarian cancer	Ovarian cancer
+0.602837419107438	Ovarian cancer	Ovarian cancer
+0.0878850872917375	Ovarian cancer	Ovarian cancer
+0.320188925182791	Ovarian cancer	Ovarian cancer
+-0.297215595217665	Ovarian cancer	Ovarian cancer
+0.118846863755394	Ovarian cancer	Ovarian cancer
+0.113628220690722	Ovarian cancer	Ovarian cancer
+0.516281317147217	Ovarian cancer	Ovarian cancer
+0.135228502937393	Ovarian cancer	Ovarian cancer
+-1.23382045308502	Ovarian cancer	Ovarian cancer
+0.105059304426696	Ovarian cancer	Ovarian cancer
+-0.548955831572777	Ovarian cancer	Ovarian cancer
+-1.04922316949385	Ovarian cancer	Ovarian cancer
+-0.367711760039175	Ovarian cancer	Ovarian cancer
+-0.290621623349301	Ovarian cancer	Ovarian cancer
+0.854849987018264	Ovarian cancer	Ovarian cancer
+-0.038409852549432	Ovarian cancer	Ovarian cancer
+0.00805223552584234	Ovarian cancer	Ovarian cancer
+0.288076607649306	Ovarian cancer	Ovarian cancer
+0.425274255086389	Ovarian cancer	Ovarian cancer
+0.517844739388998	Ovarian cancer	Ovarian cancer
+-0.606144544698238	Ovarian cancer	Ovarian cancer
+-0.52572170912422	Ovarian cancer	Ovarian cancer
+0.912622984079896	Ovarian cancer	Ovarian cancer
+-0.089491684131115	Ovarian cancer	Ovarian cancer
+0.491667282257249	Ovarian cancer	Ovarian cancer
+0.643806309793113	Ovarian cancer	Ovarian cancer
+-0.752901975030629	Ovarian cancer	Ovarian cancer
+1.03729912774534	Ovarian cancer	Ovarian cancer
+-0.614646447113833	Ovarian cancer	Ovarian cancer
+-0.11955589302105	Ovarian cancer	Ovarian cancer
+0.901679154945691	Ovarian cancer	Ovarian cancer
+-0.644417895191631	Ovarian cancer	Ovarian cancer
+0.728757842640858	Ovarian cancer	Ovarian cancer
+-0.0326784599546987	Ovarian cancer	Ovarian cancer
+0.685695699589769	Ovarian cancer	Ovarian cancer
+-0.25198189190762	Ovarian cancer	Ovarian cancer
+-0.113442265580811	Ovarian cancer	Ovarian cancer
+-0.104307792692307	Ovarian cancer	Ovarian cancer
+0.388618865161312	Ovarian cancer	Ovarian cancer
+0.270633113343858	Ovarian cancer	Ovarian cancer
+0.0442057385432823	Ovarian cancer	Ovarian cancer
+-0.167708056293925	Ovarian cancer	Ovarian cancer
+0.428697922612524	Ovarian cancer	Ovarian cancer
+-0.262279115184197	Ovarian cancer	Ovarian cancer
+-0.14575143204046	Ovarian cancer	Ovarian cancer
+0.218918798738008	Ovarian cancer	Ovarian cancer
+-0.107415294461384	Ovarian cancer	Ovarian cancer
+0.393360348391816	Ovarian cancer	Ovarian cancer
+0.410305280153393	Ovarian cancer	Ovarian cancer
+0.212746635428996	Ovarian cancer	Ovarian cancer
+0.217230102722512	Ovarian cancer	Ovarian cancer
+-0.304209857849123	Ovarian cancer	Ovarian cancer
+0.250245737027043	Ovarian cancer	Ovarian cancer
+0.0141570076878172	Ovarian cancer	Ovarian cancer
+0.714708250115452	Ovarian cancer	Ovarian cancer
+0.693863622792787	Ovarian cancer	Ovarian cancer
+-0.633108314271466	Ovarian cancer	Ovarian cancer
+0.0192779709145938	Ovarian cancer	Ovarian cancer
+0.591134171961573	Ovarian cancer	Ovarian cancer
+0.510110339823848	Ovarian cancer	Ovarian cancer
+0.518141423135399	Ovarian cancer	Ovarian cancer
+0.589945283417476	Ovarian cancer	Ovarian cancer
+0.139536238791741	Ovarian cancer	Ovarian cancer
+-0.573204087097206	Ovarian cancer	Ovarian cancer
+-0.0922480956568174	Ovarian cancer	Ovarian cancer
+0.463417177404432	Ovarian cancer	Ovarian cancer
+0.590215226610849	Ovarian cancer	Ovarian cancer
+0.621806514674146	Ovarian cancer	Ovarian cancer
+0.216032083334118	Ovarian cancer	Ovarian cancer
+-0.000437459483697707	Ovarian cancer	Ovarian cancer
+-0.660867465526901	Ovarian cancer	Ovarian cancer
+-0.363506846661011	Ovarian cancer	Ovarian cancer
+0.359170364461096	Ovarian cancer	Ovarian cancer
+-0.772920926629547	Ovarian cancer	Ovarian cancer
+-0.110964673349006	Ovarian cancer	Ovarian cancer
+-0.0165839950116088	Ovarian cancer	Ovarian cancer
+0.244538672141243	Ovarian cancer	Ovarian cancer
+0.57799339888425	Ovarian cancer	Ovarian cancer
+1.06757822197254	Ovarian cancer	Ovarian cancer
+-0.246375559205922	Ovarian cancer	Ovarian cancer
+-0.222520384708925	Ovarian cancer	Ovarian cancer
+0.190423025371321	Ovarian cancer	Ovarian cancer
+0.165443846801736	Ovarian cancer	Ovarian cancer
+0.595989672351645	Ovarian cancer	Ovarian cancer
+0.0280285129564346	Ovarian cancer	Ovarian cancer
+0.240588552207088	Ovarian cancer	Ovarian cancer
+0.675554840386705	Ovarian cancer	Ovarian cancer
+-0.0834737882902914	Ovarian cancer	Ovarian cancer
+0.619420835969607	Ovarian cancer	Ovarian cancer
+-0.167857530820657	Ovarian cancer	Ovarian cancer
+-0.695944165736641	Ovarian cancer	Ovarian cancer
+-0.718654588370966	Ovarian cancer	Ovarian cancer
+0.431706742216901	Ovarian cancer	Ovarian cancer
+-0.577767061892821	Ovarian cancer	Ovarian cancer
+-0.568476470149526	Ovarian cancer	Ovarian cancer
+-0.129901232603654	Ovarian cancer	Ovarian cancer
+1.13125685184544	Ovarian cancer	Ovarian cancer
+0.401264354489142	Ovarian cancer	Ovarian cancer
+-0.201773775571535	Ovarian cancer	Ovarian cancer
+-0.543534993392074	Ovarian cancer	Ovarian cancer
+-0.301405547432564	Ovarian cancer	Ovarian cancer
+-0.0166810202945902	Ovarian cancer	Ovarian cancer
+-1.41424168234604	Ovarian cancer	Ovarian cancer
+0.440022549984286	Ovarian cancer	Ovarian cancer
+-0.173722262341834	Ovarian cancer	Ovarian cancer
+0.572899926017518	Ovarian cancer	Ovarian cancer
+0.740973212364045	Ovarian cancer	Ovarian cancer
+-0.32983184013773	Ovarian cancer	Ovarian cancer
+-0.23391216682702	Ovarian cancer	Ovarian cancer
+1.45198415336308	Ovarian cancer	Ovarian cancer
+0.210333154580826	Ovarian cancer	Ovarian cancer
+0.512123268458476	Ovarian cancer	Ovarian cancer
+-0.309608504007773	Ovarian cancer	Ovarian cancer
+0.104675593384457	Ovarian cancer	Ovarian cancer
+1.6236898965992	Ovarian cancer	Ovarian cancer
+0.202057330504784	Ovarian cancer	Ovarian cancer
+0.407385847279405	Ovarian cancer	Ovarian cancer
+0.520904991886781	Ovarian cancer	Ovarian cancer
+-0.590786183927366	Ovarian cancer	Ovarian cancer
+0.373173314563526	Ovarian cancer	Ovarian cancer
+0.908648836559716	Ovarian cancer	Ovarian cancer
+0.447348982090409	Ovarian cancer	Ovarian cancer
+1.04923746965857	Ovarian cancer	Ovarian cancer
+-0.685359400584315	Ovarian cancer	Ovarian cancer
+1.25469397069897	Ovarian cancer	Ovarian cancer
+0.309283200631582	Ovarian cancer	Ovarian cancer
+-0.118233747967534	Ovarian cancer	Ovarian cancer
+0.337949518592696	Ovarian cancer	Ovarian cancer
+-0.792417035450082	Ovarian cancer	Ovarian cancer
+0.195627391468265	Ovarian cancer	Ovarian cancer
+0.651619485373422	Ovarian cancer	Ovarian cancer
+0.830142163369509	Ovarian cancer	Ovarian cancer
+-0.460883099025561	Ovarian cancer	Ovarian cancer
+-0.30126604290405	Ovarian cancer	Ovarian cancer
+0.827943980036037	Ovarian cancer	Ovarian cancer
+-0.225954375739891	Ovarian cancer	Ovarian cancer
+0.70755064573901	Ovarian cancer	Ovarian cancer
+-0.808043478525211	Ovarian cancer	Ovarian cancer
+0.321229890162956	Ovarian cancer	Ovarian cancer
+-0.0279453881502866	Ovarian cancer	Ovarian cancer
+0.0447061180109731	Ovarian cancer	Ovarian cancer
+0.116472571370441	Ovarian cancer	Ovarian cancer
+0.29163857048136	Ovarian cancer	Ovarian cancer
+0.291080267422805	Ovarian cancer	Ovarian cancer
+-0.706263840837587	Ovarian cancer	Ovarian cancer
+0.0504718295243508	Ovarian cancer	Ovarian cancer
+-0.0355522756673581	Ovarian cancer	Ovarian cancer
+0.289674917035972	Ovarian cancer	Ovarian cancer
+-0.189445184789515	Ovarian cancer	Ovarian cancer
+0.183443916100038	Ovarian cancer	Ovarian cancer
+0.352930220487727	Ovarian cancer	Ovarian cancer
+-0.724019970348213	Ovarian cancer	Ovarian cancer
+0.198070516810155	Ovarian cancer	Ovarian cancer
+0.874464815782197	Ovarian cancer	Ovarian cancer
+1.193402520406	Ovarian cancer	Ovarian cancer
+1.53098404139861	Ovarian cancer	Ovarian cancer
+-0.822559814516693	Ovarian cancer	Ovarian cancer
+0.257318497583269	Ovarian cancer	Ovarian cancer
+-0.000138394849758209	Ovarian cancer	Ovarian cancer
+0.561102453665617	Ovarian cancer	Ovarian cancer
+0.906295158916592	Ovarian cancer	Ovarian cancer
+1.02416515502829	Ovarian cancer	Ovarian cancer
+-0.353319571491367	Ovarian cancer	Ovarian cancer
+-0.121722454319809	Ovarian cancer	Ovarian cancer
+1.28757352517082	Ovarian cancer	Ovarian cancer
+0.204894163239612	Ovarian cancer	Ovarian cancer
+0.319592226129915	Ovarian cancer	Ovarian cancer
+0.969277818553507	Ovarian cancer	Ovarian cancer
+-0.59354475156426	Ovarian cancer	Ovarian cancer
+0.259496852616865	Ovarian cancer	Ovarian cancer
+-0.00638524549383967	Ovarian cancer	Ovarian cancer
+0.0769981839350295	Ovarian cancer	Ovarian cancer
+0.109250312448684	Ovarian cancer	Ovarian cancer
+-0.734522935815658	Ovarian cancer	Ovarian cancer
+0.0663914156936512	Ovarian cancer	Ovarian cancer
+-0.681532249270387	Ovarian cancer	Ovarian cancer
+-0.324813848945791	Ovarian cancer	Ovarian cancer
+-0.806717825561761	Ovarian cancer	Ovarian cancer
+-0.437119603525534	Ovarian cancer	Ovarian cancer
+0.255970461237483	Ovarian cancer	Ovarian cancer
+-0.389050516527862	Ovarian cancer	Ovarian cancer
+-1.05929101885608	Ovarian cancer	Ovarian cancer
+-0.0174495137487407	Ovarian cancer	Ovarian cancer
+0.460562711674259	Ovarian cancer	Ovarian cancer
+-0.506678407202112	Ovarian cancer	Ovarian cancer
+-0.151752028924766	Ovarian cancer	Ovarian cancer
+-0.305638774475615	Ovarian cancer	Ovarian cancer
+-0.0591008618608096	Ovarian cancer	Ovarian cancer
+-0.0797095070430026	Ovarian cancer	Ovarian cancer
+0.250350368987684	Ovarian cancer	Ovarian cancer
+-0.576044576202932	Ovarian cancer	Ovarian cancer
+-0.24495544878077	Ovarian cancer	Ovarian cancer
+-0.247642892900871	Ovarian cancer	Ovarian cancer
+-0.658823500226061	Ovarian cancer	Ovarian cancer
+-0.444351673731504	Ovarian cancer	Ovarian cancer
+-0.791329007917737	Ovarian cancer	Ovarian cancer
+0.943349314723063	Ovarian cancer	Ovarian cancer
+0.255709900984971	Ovarian cancer	Ovarian cancer
+-0.0018034513996507	Ovarian cancer	Ovarian cancer
+0.0712030758657809	Ovarian cancer	Ovarian cancer
+0.557413377968783	Ovarian cancer	Ovarian cancer
+0.493410182544992	Ovarian cancer	Ovarian cancer
+-0.13472976789474	Ovarian cancer	Ovarian cancer
+0.133632840020515	Ovarian cancer	Ovarian cancer
+0.881464019248823	Ovarian cancer	Ovarian cancer
+1.91748293281864	Ovarian cancer	Ovarian cancer
+0.0687565134411115	Ovarian cancer	Ovarian cancer
+1.23271445614496	Ovarian cancer	Ovarian cancer
+0.699650959368734	Ovarian cancer	Ovarian cancer
+-1.0622970664339	Ovarian cancer	Ovarian cancer
+-0.425180897999354	Ovarian cancer	Ovarian cancer
+-0.692697272088306	Ovarian cancer	Ovarian cancer
+0.843415325514058	Ovarian cancer	Ovarian cancer
+-0.375811823678023	Ovarian cancer	Ovarian cancer
+0.659728964452945	Ovarian cancer	Ovarian cancer
+-0.425141219624354	Ovarian cancer	Ovarian cancer
+0.950396939410443	Ovarian cancer	Ovarian cancer
+-0.770470306710214	Ovarian cancer	Ovarian cancer
+0.135251034518269	Ovarian cancer	Ovarian cancer
+0.121500673636994	Ovarian cancer	Ovarian cancer
+-0.242393678023792	Ovarian cancer	Ovarian cancer
+-0.743881363530076	Control	Ovarian cancer
+-0.882898440395577	Control	Ovarian cancer
+-0.237306241502074	Control	Ovarian cancer
+-0.612195691187768	Control	Ovarian cancer
+-0.0267491930335274	Control	Ovarian cancer
+0.312268431496757	Control	Ovarian cancer
+0.262743115103116	Control	Ovarian cancer
+0.277214939303598	Control	Ovarian cancer
+-0.567651777720604	Control	Ovarian cancer
+-0.478132135916309	Control	Ovarian cancer
+0.153254059805053	Control	Ovarian cancer
+-0.259502689664079	Control	Ovarian cancer
+-0.254679721080463	Control	Ovarian cancer
+-0.28494174190359	Control	Ovarian cancer
+-0.323283151200456	Control	Ovarian cancer
+-0.451586768621736	Control	Ovarian cancer
+-0.0844159129756592	Control	Ovarian cancer
+-0.274597121346044	Control	Ovarian cancer
+0.211569569953156	Control	Ovarian cancer
+-0.379721650543771	Control	Ovarian cancer
+-0.0522109816194738	Control	Ovarian cancer
+-0.385326749348871	Control	Ovarian cancer
+-0.731443103114823	Control	Ovarian cancer
+0.88954437359273	Control	Ovarian cancer
+-0.0366102591168435	Control	Ovarian cancer
+0.278638532811838	Control	Ovarian cancer
+0.0604934439672088	Control	Ovarian cancer
+0.574993038401107	Control	Ovarian cancer
+0.065748393641733	Control	Ovarian cancer
+-0.403991868881727	Control	Ovarian cancer
+-0.641367422819088	Control	Ovarian cancer
+0.365211437102559	Control	Ovarian cancer
+-0.732225991062564	Control	Ovarian cancer
+-0.434640683394424	Control	Ovarian cancer
+-1.09019380127999	Control	Ovarian cancer
+-0.131477994129874	Control	Ovarian cancer
+0.0767854867068647	Control	Ovarian cancer
+0.0738917845514497	Control	Ovarian cancer
+-0.00521169323805777	Control	Ovarian cancer
+-0.786521433181342	Control	Ovarian cancer
+-0.013367339384292	Control	Ovarian cancer
+0.0778190004101887	Control	Ovarian cancer
+-0.464256523674451	Control	Ovarian cancer
+-0.257555275182805	Control	Ovarian cancer
+0.919092972317711	Control	Ovarian cancer
+-1.49632255665899	Control	Ovarian cancer
+-0.814086903069808	Control	Ovarian cancer
+-0.875096541743326	Control	Ovarian cancer
+0.750794830153833	Control	Ovarian cancer
+-0.204317444496935	Control	Ovarian cancer
+-1.31514750371564	Control	Ovarian cancer
+-0.237991647522358	Control	Ovarian cancer
+-1.53150834500034	Control	Ovarian cancer
+-0.00334549629258175	Control	Ovarian cancer
+-0.442222163207109	Control	Ovarian cancer
+-0.252380236176464	Control	Ovarian cancer
+0.0248886575260189	Control	Ovarian cancer
+0.113262801846543	Control	Ovarian cancer
+-0.569684892178928	Control	Ovarian cancer
+0.16826881191547	Control	Ovarian cancer
+-0.197298060228166	Control	Ovarian cancer
+-0.0152744973632943	Control	Ovarian cancer
+-0.125321207041506	Control	Ovarian cancer
+-0.651402464157769	Control	Ovarian cancer
+-0.399299860206172	Control	Ovarian cancer
+-0.593151234264702	Control	Ovarian cancer
+-0.184341867819824	Control	Ovarian cancer
+0.457223920370279	Control	Ovarian cancer
+-0.64921578558101	Control	Ovarian cancer
+0.615594890707416	Control	Ovarian cancer
+0.497933286276048	Control	Ovarian cancer
+0.393030930434972	Control	Ovarian cancer
+0.27470870905896	Control	Ovarian cancer
+-0.634046966733274	Control	Ovarian cancer
+0.440988347004688	Control	Ovarian cancer
+-0.585093392878137	Control	Ovarian cancer
+0.0992893695040286	Control	Ovarian cancer
+0.578161740458859	Control	Ovarian cancer
+0.232144718276475	Control	Ovarian cancer
+-0.202279788316053	Control	Ovarian cancer
+0.555198228322949	Control	Ovarian cancer
+0.562444861009367	Control	Ovarian cancer
+-0.352347655102371	Control	Ovarian cancer
+-0.515047861259032	Control	Ovarian cancer
+-1.03957497317253	Control	Ovarian cancer
+-0.0925468797822283	Control	Ovarian cancer
+0.646576196006771	Control	Ovarian cancer
+-0.157659118951524	Control	Ovarian cancer
+-0.186696612825785	Control	Ovarian cancer
+0.00213190536709286	Control	Ovarian cancer
+-0.710534855552808	Control	Ovarian cancer
+-1.1305668769203	Control	Ovarian cancer
+-0.511267682734815	Control	Ovarian cancer
+0.121957929969653	Control	Ovarian cancer
+0.484460435541283	Control	Ovarian cancer
+-0.859277056435688	Control	Ovarian cancer
+-0.471145790805571	Control	Ovarian cancer
+1.61654341863949	Control	Ovarian cancer
+-1.01703624302223	Control	Ovarian cancer
+0.760569930651689	Control	Ovarian cancer
+0.207153006393948	Control	Ovarian cancer
+-0.775500997571701	Control	Ovarian cancer
+-0.561776265406792	Control	Ovarian cancer
+-0.224599964206712	Control	Ovarian cancer
+0.141597645850714	Control	Ovarian cancer
+-0.184087510798444	Control	Ovarian cancer
+0.115080525379773	Control	Ovarian cancer
+0.625169056008832	Control	Ovarian cancer
+-0.392417554007568	Control	Ovarian cancer
+-0.239004352366586	Control	Ovarian cancer
+-0.878588318709928	Control	Ovarian cancer
+-0.189456825700819	Control	Ovarian cancer
+-0.490925998547264	Control	Ovarian cancer
+0.23111208855014	Control	Ovarian cancer
+-0.978566284655411	Control	Ovarian cancer
+0.640720621051752	Control	Ovarian cancer
+0.111657909810362	Control	Ovarian cancer
+-0.0210765108045142	Control	Ovarian cancer
+-0.227478131575769	Control	Ovarian cancer
+-1.091446409332	Control	Ovarian cancer
+-0.373401776488614	Control	Ovarian cancer
+-0.107679004486352	Control	Ovarian cancer
+0.0212238088923058	Control	Ovarian cancer
+-0.407933143726947	Control	Ovarian cancer
+-0.0536647425920819	Control	Ovarian cancer
+-0.160130672256647	Control	Ovarian cancer
+-0.539663501869694	Control	Ovarian cancer
+-0.285472853630711	Control	Ovarian cancer
+-0.16099740117638	Control	Ovarian cancer
+-0.366069261834361	Control	Ovarian cancer
+-0.278932211462047	Control	Ovarian cancer
+-0.534794746168265	Control	Ovarian cancer
+-0.0782980950703662	Control	Ovarian cancer
+-0.368218209264839	Control	Ovarian cancer
+-0.243652006155173	Control	Ovarian cancer
+0.207189498606074	Control	Ovarian cancer
+-0.4434080066427	Control	Ovarian cancer
+0.0951533981024789	Control	Ovarian cancer
+-0.361701213763904	Control	Ovarian cancer
+-0.258984279631421	Control	Ovarian cancer
+0.127194969846988	Control	Ovarian cancer
+0.299121680573701	Control	Ovarian cancer
+-0.0597566391856471	Control	Ovarian cancer
+-0.0783143234188013	Control	Ovarian cancer
+-0.00180806114773298	Control	Ovarian cancer
+-0.54837288180189	Control	Ovarian cancer
+-0.0941163123653993	Control	Ovarian cancer
+-0.294373598142355	Control	Ovarian cancer
+0.60025036744697	Control	Ovarian cancer
+-0.798636663888287	Control	Ovarian cancer
+-0.200363767796272	Control	Ovarian cancer
+-0.789093892952099	Control	Ovarian cancer
+-0.798667037139339	Control	Ovarian cancer
+-0.621566691430113	Control	Ovarian cancer
+-0.739069551171503	Control	Ovarian cancer
+-0.764219783615614	Control	Ovarian cancer
+-0.608505272619626	Control	Ovarian cancer
+-0.809099026858295	Control	Ovarian cancer
+-0.861935552339043	Control	Ovarian cancer
+-0.426784603001436	Control	Ovarian cancer
+-0.45263360048011	Control	Ovarian cancer
+-0.361781521332167	Control	Ovarian cancer
+-0.516644504972459	Control	Ovarian cancer
+-0.567851397410015	Control	Ovarian cancer
+-0.457185420202218	Control	Ovarian cancer
+0.340954105250796	Control	Ovarian cancer
+-0.27945622273359	Control	Ovarian cancer
+0.0946350619564707	Control	Ovarian cancer
+0.242831172859644	Control	Ovarian cancer
+-0.772416117132466	Control	Ovarian cancer
+-0.409534716738011	Control	Ovarian cancer
+0.00284083683042109	Control	Ovarian cancer
+-1.01990557332456	Control	Ovarian cancer
+-1.11170089495594	Control	Ovarian cancer
+-0.805204137342698	Control	Ovarian cancer
+-0.623566362633326	Control	Ovarian cancer
+-0.127103471422663	Control	Ovarian cancer
+-0.870528204984338	Control	Ovarian cancer
+-0.799435549636001	Control	Ovarian cancer
+-1.05348781433004	Control	Ovarian cancer
+-0.672124679364744	Control	Ovarian cancer
+-0.800370757299353	Control	Ovarian cancer
+-0.359455577794845	Control	Ovarian cancer
+-1.03101807860591	Control	Ovarian cancer
+-1.17176837988011	Control	Ovarian cancer
+0.28468643308114	Control	Ovarian cancer
+-0.540407040939235	Control	Ovarian cancer
+-0.842267095406909	Control	Ovarian cancer
+0.124381907391191	Control	Ovarian cancer
+-0.447088746240826	Control	Ovarian cancer
+-1.33345349862435	Control	Ovarian cancer
+-0.245151307379304	Control	Ovarian cancer
+-0.362804610072337	Control	Ovarian cancer
+-0.336378409651446	Control	Ovarian cancer
+0.541414905881504	Control	Ovarian cancer
+-0.79163052308189	Control	Ovarian cancer
+-1.04785638250741	Control	Ovarian cancer
+-0.318756756486488	Control	Ovarian cancer
+0.010822330614171	Control	Ovarian cancer
+-0.236657816162087	Control	Ovarian cancer
+0.55565176537153	Control	Ovarian cancer
+1.0501201690602	Control	Ovarian cancer
+-0.186380556050657	Control	Ovarian cancer
+0.0124098338045531	Control	Ovarian cancer
+-0.665565644134098	Control	Ovarian cancer
+-1.16626112803231	Control	Ovarian cancer
+-0.728437608665239	Control	Ovarian cancer
+0.244463795284353	Control	Ovarian cancer
+-0.422043526108829	Control	Ovarian cancer
+-0.620495072151053	Control	Ovarian cancer
+-0.37838395083771	Control	Ovarian cancer
+0.29471200324187	Control	Ovarian cancer
+-0.298313130164006	Control	Ovarian cancer
+-0.262890961496628	Control	Ovarian cancer
+0.229671125737377	Control	Ovarian cancer
+-0.529894336715378	Control	Ovarian cancer
+-0.49369242078417	Control	Ovarian cancer
+0.204902669419634	Control	Ovarian cancer
+-0.84149102968025	Control	Ovarian cancer
+-0.680625158313535	Control	Ovarian cancer
+-0.36829933538823	Control	Ovarian cancer
+-0.409546410941447	Control	Ovarian cancer
+0.959243577135698	Control	Ovarian cancer
+-0.739513710874324	Control	Ovarian cancer
+0.498422477815776	Control	Ovarian cancer
+-0.487451510192532	Control	Ovarian cancer
+-0.417084923694365	Control	Ovarian cancer
+0.105242575206256	Control	Ovarian cancer
+-0.0442362941206668	Control	Ovarian cancer
+-0.456854053044462	Control	Ovarian cancer
+-0.150959502630402	Control	Ovarian cancer
+0.5091702629005	Control	Ovarian cancer
+0.21609170184699	Control	Ovarian cancer
+-0.281591794227754	Control	Ovarian cancer
+-0.708914722741649	Control	Ovarian cancer
+-0.158938377430944	Control	Ovarian cancer
+0.0546610347623123	Control	Ovarian cancer
+0.00671109182257911	Control	Ovarian cancer
+-0.140007048699289	Control	Ovarian cancer
+-0.740702730945822	Control	Ovarian cancer
+-0.450196957666406	Control	Ovarian cancer
+-0.853272400756767	Control	Ovarian cancer
+0.0868911291967856	Control	Ovarian cancer
+-0.619416229909323	Control	Ovarian cancer
+-1.0151498655126	Control	Ovarian cancer
+0.00750691463509397	Control	Ovarian cancer
+-0.0941441021459656	Control	Ovarian cancer
+-0.206509334720358	Control	Ovarian cancer
+0.0814390342786182	Control	Ovarian cancer
+-0.286395709324848	Control	Ovarian cancer
+-0.0220725948243167	Control	Ovarian cancer
+0.261654763167025	Control	Ovarian cancer
+-0.58356834864617	Control	Ovarian cancer
+-0.437461502818775	Control	Ovarian cancer
+-0.641003870535927	Control	Ovarian cancer
+-0.578208396579105	Control	Ovarian cancer
+0.338065838267753	Control	Ovarian cancer
+-0.906666777188903	Control	Ovarian cancer
+0.664446270518744	Control	Ovarian cancer
+-0.42370795231856	Control	Ovarian cancer
+-0.254864704980818	Control	Ovarian cancer
+-0.525700441132021	Control	Ovarian cancer
+-1.42714266735606	Control	Ovarian cancer
+-0.449033705558508	Control	Ovarian cancer
+-0.13680222279451	Control	Ovarian cancer
+0.199455819830279	Control	Ovarian cancer
+-0.58396769072192	Control	Ovarian cancer
+-0.522254664312944	Control	Ovarian cancer
+-0.952627023822131	Control	Ovarian cancer
+-0.512566271365154	Control	Ovarian cancer
+0.548478057203914	Control	Ovarian cancer
+-0.100247341417293	Control	Ovarian cancer
+-0.0312390638359914	Control	Ovarian cancer
+0.0299495924696459	Control	Ovarian cancer
+-0.497787837453984	Control	Ovarian cancer
+-0.276200738549374	Control	Ovarian cancer
+0.0422045348897261	Control	Ovarian cancer
+0.134797272547807	Control	Ovarian cancer
+-0.506559703566394	Control	Ovarian cancer
+0.297256540572118	Control	Ovarian cancer
+-0.441040220441743	Control	Ovarian cancer
+0.0861467123413297	Control	Ovarian cancer
+-0.581326863918045	Control	Ovarian cancer
+-0.441356740459078	Control	Ovarian cancer
+-0.904850432604768	Control	Ovarian cancer
+-0.723049916353067	Control	Ovarian cancer
+-0.39858867981701	Control	Ovarian cancer
+-0.27021734944873	Control	Ovarian cancer
+0.749975935388246	Control	Ovarian cancer
+0.0537433608086711	Control	Ovarian cancer
+-0.993748760351089	Control	Ovarian cancer
+0.885263528410732	Control	Ovarian cancer
+-0.521561729521858	Control	Ovarian cancer
+-0.498265017039676	Control	Ovarian cancer
+-0.597948122380237	Control	Ovarian cancer
+0.466386979487825	Control	Ovarian cancer
+0.00723372770659607	Control	Ovarian cancer
+-0.160626976833324	Endometrial	Endometrial cancer
+0.093037045924174	Endometrial	Endometrial cancer
+1.65769466960496	Endometrial	Endometrial cancer
+-0.656007115790408	Endometrial	Endometrial cancer
+0.823537829795693	Endometrial	Endometrial cancer
+-0.242273825269487	Endometrial	Endometrial cancer
+-0.201391227623644	Endometrial	Endometrial cancer
+-0.475093172716487	Endometrial	Endometrial cancer
+0.0630306409991004	Endometrial	Endometrial cancer
+-0.0754535787097612	Endometrial	Endometrial cancer
+-0.65400715542886	Endometrial	Endometrial cancer
+-0.371032463970081	Endometrial	Endometrial cancer
+-0.0420536903044756	Endometrial	Endometrial cancer
+0.387259192380028	Endometrial	Endometrial cancer
+-0.273341481184179	Endometrial	Endometrial cancer
+0.0715679212050922	Endometrial	Endometrial cancer
+-0.842921937720969	Endometrial	Endometrial cancer
+-0.817643040738764	Endometrial	Endometrial cancer
+0.227717050082039	Endometrial	Endometrial cancer
+-0.329258197225657	Endometrial	Endometrial cancer
+-0.492965041767443	Endometrial	Endometrial cancer
+-0.27005246543433	Endometrial	Endometrial cancer
+-1.03810449981945	Endometrial	Endometrial cancer
+0.56378046560547	Endometrial	Endometrial cancer
+-0.330339881077438	Endometrial	Endometrial cancer
+-0.161043253070782	Endometrial	Endometrial cancer
+-0.319008227435823	Endometrial	Endometrial cancer
+0.488851155099139	Endometrial	Endometrial cancer
+-0.0231597022095598	Endometrial	Endometrial cancer
+0.318257800889264	Endometrial	Endometrial cancer
+0.50833281513029	Endometrial	Endometrial cancer
+-0.0710333195356066	Endometrial	Endometrial cancer
+-0.754684759364436	Endometrial	Endometrial cancer
+1.04344466195679	Endometrial	Endometrial cancer
+0.255601117970518	Endometrial	Endometrial cancer
+0.613303482344399	Endometrial	Endometrial cancer
+0.281924805492984	Endometrial	Endometrial cancer
+-0.790952034330997	Endometrial	Endometrial cancer
+-0.479513920667122	Endometrial	Endometrial cancer
+-0.0428541980525955	Endometrial	Endometrial cancer
+-0.540099383829455	Endometrial	Endometrial cancer
+0.440076714881908	Endometrial	Endometrial cancer
+-0.725278504707439	Endometrial	Endometrial cancer
+-0.784868747281612	Endometrial	Endometrial cancer
+-0.225282265941096	Endometrial	Endometrial cancer
+0.415313628009195	Endometrial	Endometrial cancer
+0.259466888804053	Endometrial	Endometrial cancer
+-0.2503034085514	Endometrial	Endometrial cancer
+-0.277245441577312	Endometrial	Endometrial cancer
+-0.510006399025678	Endometrial	Endometrial cancer
+0.471636386103753	Endometrial	Endometrial cancer
+0.286727566836931	Endometrial	Endometrial cancer
+0.0312412692033004	Endometrial	Endometrial cancer
+-0.0263092970610656	Endometrial	Endometrial cancer
+-0.0368930143383195	Endometrial	Endometrial cancer
+-0.820409940208926	Endometrial	Endometrial cancer
+-0.054543938031736	Endometrial	Endometrial cancer
+-0.479590598204713	Endometrial	Endometrial cancer
+0.628878850443763	Endometrial	Endometrial cancer
+-0.262156226791632	Endometrial	Endometrial cancer
+-0.399845085587312	Endometrial	Endometrial cancer
+1.22231028601501	Endometrial	Endometrial cancer
+-0.0735812374352514	Endometrial	Endometrial cancer
+-0.358346027435546	Endometrial	Endometrial cancer
+0.559521287726939	Endometrial	Endometrial cancer
+0.281092569766243	Endometrial	Endometrial cancer
+0.261138550093646	Endometrial	Endometrial cancer
+0.35493123845514	Endometrial	Endometrial cancer
+0.0232350944559713	Endometrial	Endometrial cancer
+-0.690019849985198	Endometrial	Endometrial cancer
+0.536974343349303	Endometrial	Endometrial cancer
+-1.47538548983797	Endometrial	Endometrial cancer
+0.869616024275203	Endometrial	Endometrial cancer
+-1.29155095559262	Endometrial	Endometrial cancer
+-0.40653343359335	Endometrial	Endometrial cancer
+0.503677195801078	Endometrial	Endometrial cancer
+-0.644652156220851	Endometrial	Endometrial cancer
+0.290978000929319	Endometrial	Endometrial cancer
+-0.603401546679595	Endometrial	Endometrial cancer
+-0.12141881566217	Endometrial	Endometrial cancer
+-0.688754617475515	Endometrial	Endometrial cancer
+-1.29348413454311	Endometrial	Endometrial cancer
+-0.253333128025744	Endometrial	Endometrial cancer
+-0.240706143521174	Endometrial	Endometrial cancer
+-0.88140588370185	Endometrial	Endometrial cancer
+-0.76473392123511	Endometrial	Endometrial cancer
+-0.0837725317747714	Endometrial	Endometrial cancer
+0.113926491751354	Endometrial	Endometrial cancer
+0.866704092446042	Endometrial	Endometrial cancer
+-0.920295453651695	Endometrial	Endometrial cancer
+-0.965033227202352	Endometrial	Endometrial cancer
+0.79211422839945	Endometrial	Endometrial cancer
+-0.231986224727506	Endometrial	Endometrial cancer
+0.46661332900467	Endometrial	Endometrial cancer
+0.140245623576422	Endometrial	Endometrial cancer
+1.11445518612984	Endometrial	Endometrial cancer
+-0.956833383664674	Endometrial	Endometrial cancer
+-0.644670284887052	Endometrial	Endometrial cancer
+0.038928886056886	Endometrial	Endometrial cancer
+-0.329526550818733	Endometrial	Endometrial cancer
+-0.504644027758924	Endometrial	Endometrial cancer
+0.181253650305627	Endometrial	Endometrial cancer
+0.334138617069677	Endometrial	Endometrial cancer
+0.430447923540268	Endometrial	Endometrial cancer
+-0.495852807938475	Endometrial	Endometrial cancer
+0.298247506013176	Endometrial	Endometrial cancer
+-0.0724225859428969	Endometrial	Endometrial cancer
+0.136961593879992	Endometrial	Endometrial cancer
+-0.0224159939259126	Endometrial	Endometrial cancer
+-0.569056166551127	Endometrial	Endometrial cancer
+0.638859343682103	Endometrial	Endometrial cancer
+1.03741313472884	Endometrial	Endometrial cancer
+-0.087201274957217	Endometrial	Endometrial cancer
+-0.426598598864135	Endometrial	Endometrial cancer
+-0.0416053208934809	Endometrial	Endometrial cancer
+0.163163627778166	Endometrial	Endometrial cancer
+-0.262414157581068	Endometrial	Endometrial cancer
+-0.059164108703362	Endometrial	Endometrial cancer
+1.23006453138558	Endometrial	Endometrial cancer
+0.246121188687354	Endometrial	Endometrial cancer
+-0.339113665145375	Endometrial	Endometrial cancer
+-0.126318367535109	Endometrial	Endometrial cancer
+1.17406180092164	Endometrial	Endometrial cancer
+-0.396409751401684	Endometrial	Endometrial cancer
+-0.476483742590312	Endometrial	Endometrial cancer
+0.042131367350208	Endometrial	Endometrial cancer
+0.0559185536225144	Endometrial	Endometrial cancer
+0.613952659071001	Endometrial	Endometrial cancer
+-0.434936285728593	Endometrial	Endometrial cancer
+0.344770487465087	Endometrial	Endometrial cancer
+0.230366691517039	Endometrial	Endometrial cancer
+-0.109183417596464	Endometrial	Endometrial cancer
+0.203177270215951	Endometrial	Endometrial cancer
+-0.436435629991567	Endometrial	Endometrial cancer
+-0.27903050513571	Endometrial	Endometrial cancer
+-0.627010258381473	Endometrial	Endometrial cancer
+-0.652769998957703	Endometrial	Endometrial cancer
+-0.518842883079566	Endometrial	Endometrial cancer
+-0.0428842063849767	Endometrial	Endometrial cancer
+0.246418023788193	Endometrial	Endometrial cancer
+-0.833107816959775	Endometrial	Endometrial cancer
+-0.267996304287709	Endometrial	Endometrial cancer
+-0.685269942833099	Endometrial	Endometrial cancer
+-0.00659529607651692	Endometrial	Endometrial cancer
+0.00878785639788652	Endometrial	Endometrial cancer
+1.26827606289113	Endometrial	Endometrial cancer
+-0.722582574698465	Endometrial	Endometrial cancer
+-0.168115193918481	Endometrial	Endometrial cancer
+-0.211057725734877	Endometrial	Endometrial cancer
+-0.68443249073624	Endometrial	Endometrial cancer
+0.337821740988087	Endometrial	Endometrial cancer
+0.11797316997689	Endometrial	Endometrial cancer
+0.874573913189996	Endometrial	Endometrial cancer
+-0.345100657595131	Endometrial	Endometrial cancer
+0.415072628402624	Endometrial	Endometrial cancer
+-0.0529858079506217	Endometrial	Endometrial cancer
+-0.0794369959292005	Endometrial	Endometrial cancer
+-0.0187194625155619	Endometrial	Endometrial cancer
+-0.219789614606052	Endometrial	Endometrial cancer
+-0.474064677837041	Endometrial	Endometrial cancer
+0.681956466086815	Endometrial	Endometrial cancer
+0.0599770907024689	Endometrial	Endometrial cancer
+0.34899714131385	Endometrial	Endometrial cancer
+0.114067782425841	Endometrial	Endometrial cancer
+-0.900483673076168	Endometrial	Endometrial cancer
+-0.682455430285363	Endometrial	Endometrial cancer
+-0.162599618370671	Endometrial	Endometrial cancer
+0.502582548318544	Endometrial	Endometrial cancer
+-0.500549522619053	Endometrial	Endometrial cancer
+-0.247260662035411	Endometrial	Endometrial cancer
+0.543301686463441	Endometrial	Endometrial cancer
+0.297334793642664	Endometrial	Endometrial cancer
+-0.500912609356076	Endometrial	Endometrial cancer
+-0.941649012830911	Endometrial	Endometrial cancer
+-0.542784144922952	Endometrial	Endometrial cancer
+0.730851013115309	Endometrial	Endometrial cancer
+0.39172004472129	Endometrial	Endometrial cancer
+-0.994867637773531	Endometrial	Endometrial cancer
+-0.802453151514807	Endometrial	Endometrial cancer
+-0.486742388261708	Endometrial	Endometrial cancer
+-0.301269405322424	Endometrial	Endometrial cancer
+0.351590426444395	Endometrial	Endometrial cancer
+-1.10798671023873	Endometrial	Endometrial cancer
+-0.742192136256427	Endometrial	Endometrial cancer
+-0.305495807332027	Endometrial	Endometrial cancer
+-0.708075178035656	Endometrial	Endometrial cancer
+0.00873254618738683	Endometrial	Endometrial cancer
+0.1979056317828	Endometrial	Endometrial cancer
+-0.366665143109733	Endometrial	Endometrial cancer
+0.372199799150574	Endometrial	Endometrial cancer
+-0.096676253944348	Endometrial	Endometrial cancer
+0.330669664783682	Endometrial	Endometrial cancer
+-0.19210560672568	Endometrial	Endometrial cancer
+-0.383619894149801	Endometrial	Endometrial cancer
+-0.18778511062694	Endometrial	Endometrial cancer
+-0.485896936380508	Endometrial	Endometrial cancer
+0.260369857487916	Endometrial	Endometrial cancer
+0.354935178220004	Endometrial	Endometrial cancer
+-0.805447408616281	Endometrial	Endometrial cancer
+-0.342367777411148	Endometrial	Endometrial cancer
+0.0423962525531866	Endometrial	Endometrial cancer
+-0.223500569343541	Endometrial	Endometrial cancer
+0.60731543453251	Endometrial	Endometrial cancer
+-0.0187986211337308	Endometrial	Endometrial cancer
+-0.174982655852034	Endometrial	Endometrial cancer
+-0.25542265029183	Endometrial	Endometrial cancer
+-0.32480483235892	Endometrial	Endometrial cancer
+-0.443670846236429	Endometrial	Endometrial cancer
+-0.522212065332993	Endometrial	Endometrial cancer
+-0.194511259507097	Endometrial	Endometrial cancer
+0.202854487919895	Endometrial	Endometrial cancer
+0.488146385654406	Endometrial	Endometrial cancer
+0.0844727141593605	Endometrial	Endometrial cancer
+0.197312742218223	Endometrial	Endometrial cancer
+-0.789107629417626	Endometrial	Endometrial cancer
+-0.266303611101466	Endometrial	Endometrial cancer
+-0.44221686327904	Endometrial	Endometrial cancer
+-0.743881363530076	Control	Endometrial cancer
+-0.882898440395577	Control	Endometrial cancer
+-0.237306241502074	Control	Endometrial cancer
+-0.612195691187768	Control	Endometrial cancer
+-0.0267491930335274	Control	Endometrial cancer
+0.312268431496757	Control	Endometrial cancer
+0.262743115103116	Control	Endometrial cancer
+0.277214939303598	Control	Endometrial cancer
+-0.567651777720604	Control	Endometrial cancer
+-0.478132135916309	Control	Endometrial cancer
+0.153254059805053	Control	Endometrial cancer
+-0.259502689664079	Control	Endometrial cancer
+-0.254679721080463	Control	Endometrial cancer
+-0.28494174190359	Control	Endometrial cancer
+-0.323283151200456	Control	Endometrial cancer
+-0.451586768621736	Control	Endometrial cancer
+-0.0844159129756592	Control	Endometrial cancer
+-0.274597121346044	Control	Endometrial cancer
+0.211569569953156	Control	Endometrial cancer
+-0.379721650543771	Control	Endometrial cancer
+-0.0522109816194738	Control	Endometrial cancer
+-0.385326749348871	Control	Endometrial cancer
+-0.731443103114823	Control	Endometrial cancer
+0.88954437359273	Control	Endometrial cancer
+-0.0366102591168435	Control	Endometrial cancer
+0.278638532811838	Control	Endometrial cancer
+0.0604934439672088	Control	Endometrial cancer
+0.574993038401107	Control	Endometrial cancer
+0.065748393641733	Control	Endometrial cancer
+-0.403991868881727	Control	Endometrial cancer
+-0.641367422819088	Control	Endometrial cancer
+0.365211437102559	Control	Endometrial cancer
+-0.732225991062564	Control	Endometrial cancer
+-0.434640683394424	Control	Endometrial cancer
+-1.09019380127999	Control	Endometrial cancer
+-0.131477994129874	Control	Endometrial cancer
+0.0767854867068647	Control	Endometrial cancer
+0.0738917845514497	Control	Endometrial cancer
+-0.00521169323805777	Control	Endometrial cancer
+-0.786521433181342	Control	Endometrial cancer
+-0.013367339384292	Control	Endometrial cancer
+0.0778190004101887	Control	Endometrial cancer
+-0.464256523674451	Control	Endometrial cancer
+-0.257555275182805	Control	Endometrial cancer
+0.919092972317711	Control	Endometrial cancer
+-1.49632255665899	Control	Endometrial cancer
+-0.814086903069808	Control	Endometrial cancer
+-0.875096541743326	Control	Endometrial cancer
+0.750794830153833	Control	Endometrial cancer
+-0.204317444496935	Control	Endometrial cancer
+-1.31514750371564	Control	Endometrial cancer
+-0.237991647522358	Control	Endometrial cancer
+-1.53150834500034	Control	Endometrial cancer
+-0.00334549629258175	Control	Endometrial cancer
+-0.442222163207109	Control	Endometrial cancer
+-0.252380236176464	Control	Endometrial cancer
+0.0248886575260189	Control	Endometrial cancer
+0.113262801846543	Control	Endometrial cancer
+-0.569684892178928	Control	Endometrial cancer
+0.16826881191547	Control	Endometrial cancer
+-0.197298060228166	Control	Endometrial cancer
+-0.0152744973632943	Control	Endometrial cancer
+-0.125321207041506	Control	Endometrial cancer
+-0.651402464157769	Control	Endometrial cancer
+-0.399299860206172	Control	Endometrial cancer
+-0.593151234264702	Control	Endometrial cancer
+-0.184341867819824	Control	Endometrial cancer
+0.457223920370279	Control	Endometrial cancer
+-0.64921578558101	Control	Endometrial cancer
+0.615594890707416	Control	Endometrial cancer
+0.497933286276048	Control	Endometrial cancer
+0.393030930434972	Control	Endometrial cancer
+0.27470870905896	Control	Endometrial cancer
+-0.634046966733274	Control	Endometrial cancer
+0.440988347004688	Control	Endometrial cancer
+-0.585093392878137	Control	Endometrial cancer
+0.0992893695040286	Control	Endometrial cancer
+0.578161740458859	Control	Endometrial cancer
+0.232144718276475	Control	Endometrial cancer
+-0.202279788316053	Control	Endometrial cancer
+0.555198228322949	Control	Endometrial cancer
+0.562444861009367	Control	Endometrial cancer
+-0.352347655102371	Control	Endometrial cancer
+-0.515047861259032	Control	Endometrial cancer
+-1.03957497317253	Control	Endometrial cancer
+-0.0925468797822283	Control	Endometrial cancer
+0.646576196006771	Control	Endometrial cancer
+-0.157659118951524	Control	Endometrial cancer
+-0.186696612825785	Control	Endometrial cancer
+0.00213190536709286	Control	Endometrial cancer
+-0.710534855552808	Control	Endometrial cancer
+-1.1305668769203	Control	Endometrial cancer
+-0.511267682734815	Control	Endometrial cancer
+0.121957929969653	Control	Endometrial cancer
+0.484460435541283	Control	Endometrial cancer
+-0.859277056435688	Control	Endometrial cancer
+-0.471145790805571	Control	Endometrial cancer
+1.61654341863949	Control	Endometrial cancer
+-1.01703624302223	Control	Endometrial cancer
+0.760569930651689	Control	Endometrial cancer
+0.207153006393948	Control	Endometrial cancer
+-0.775500997571701	Control	Endometrial cancer
+-0.561776265406792	Control	Endometrial cancer
+-0.224599964206712	Control	Endometrial cancer
+0.141597645850714	Control	Endometrial cancer
+-0.184087510798444	Control	Endometrial cancer
+0.115080525379773	Control	Endometrial cancer
+0.625169056008832	Control	Endometrial cancer
+-0.392417554007568	Control	Endometrial cancer
+-0.239004352366586	Control	Endometrial cancer
+-0.878588318709928	Control	Endometrial cancer
+-0.189456825700819	Control	Endometrial cancer
+-0.490925998547264	Control	Endometrial cancer
+0.23111208855014	Control	Endometrial cancer
+-0.978566284655411	Control	Endometrial cancer
+0.640720621051752	Control	Endometrial cancer
+0.111657909810362	Control	Endometrial cancer
+-0.0210765108045142	Control	Endometrial cancer
+-0.227478131575769	Control	Endometrial cancer
+-1.091446409332	Control	Endometrial cancer
+-0.373401776488614	Control	Endometrial cancer
+-0.107679004486352	Control	Endometrial cancer
+0.0212238088923058	Control	Endometrial cancer
+-0.407933143726947	Control	Endometrial cancer
+-0.0536647425920819	Control	Endometrial cancer
+-0.160130672256647	Control	Endometrial cancer
+-0.539663501869694	Control	Endometrial cancer
+-0.285472853630711	Control	Endometrial cancer
+-0.16099740117638	Control	Endometrial cancer
+-0.366069261834361	Control	Endometrial cancer
+-0.278932211462047	Control	Endometrial cancer
+-0.534794746168265	Control	Endometrial cancer
+-0.0782980950703662	Control	Endometrial cancer
+-0.368218209264839	Control	Endometrial cancer
+-0.243652006155173	Control	Endometrial cancer
+0.207189498606074	Control	Endometrial cancer
+-0.4434080066427	Control	Endometrial cancer
+0.0951533981024789	Control	Endometrial cancer
+-0.361701213763904	Control	Endometrial cancer
+-0.258984279631421	Control	Endometrial cancer
+0.127194969846988	Control	Endometrial cancer
+0.299121680573701	Control	Endometrial cancer
+-0.0597566391856471	Control	Endometrial cancer
+-0.0783143234188013	Control	Endometrial cancer
+-0.00180806114773298	Control	Endometrial cancer
+-0.54837288180189	Control	Endometrial cancer
+-0.0941163123653993	Control	Endometrial cancer
+-0.294373598142355	Control	Endometrial cancer
+0.60025036744697	Control	Endometrial cancer
+-0.798636663888287	Control	Endometrial cancer
+-0.200363767796272	Control	Endometrial cancer
+-0.789093892952099	Control	Endometrial cancer
+-0.798667037139339	Control	Endometrial cancer
+-0.621566691430113	Control	Endometrial cancer
+-0.739069551171503	Control	Endometrial cancer
+-0.764219783615614	Control	Endometrial cancer
+-0.608505272619626	Control	Endometrial cancer
+-0.809099026858295	Control	Endometrial cancer
+-0.861935552339043	Control	Endometrial cancer
+-0.426784603001436	Control	Endometrial cancer
+-0.45263360048011	Control	Endometrial cancer
+-0.361781521332167	Control	Endometrial cancer
+-0.516644504972459	Control	Endometrial cancer
+-0.567851397410015	Control	Endometrial cancer
+-0.457185420202218	Control	Endometrial cancer
+0.340954105250796	Control	Endometrial cancer
+-0.27945622273359	Control	Endometrial cancer
+0.0946350619564707	Control	Endometrial cancer
+0.242831172859644	Control	Endometrial cancer
+-0.772416117132466	Control	Endometrial cancer
+-0.409534716738011	Control	Endometrial cancer
+0.00284083683042109	Control	Endometrial cancer
+-1.01990557332456	Control	Endometrial cancer
+-1.11170089495594	Control	Endometrial cancer
+-0.805204137342698	Control	Endometrial cancer
+-0.623566362633326	Control	Endometrial cancer
+-0.127103471422663	Control	Endometrial cancer
+-0.870528204984338	Control	Endometrial cancer
+-0.799435549636001	Control	Endometrial cancer
+-1.05348781433004	Control	Endometrial cancer
+-0.672124679364744	Control	Endometrial cancer
+-0.800370757299353	Control	Endometrial cancer
+-0.359455577794845	Control	Endometrial cancer
+-1.03101807860591	Control	Endometrial cancer
+-1.17176837988011	Control	Endometrial cancer
+0.28468643308114	Control	Endometrial cancer
+-0.540407040939235	Control	Endometrial cancer
+-0.842267095406909	Control	Endometrial cancer
+0.124381907391191	Control	Endometrial cancer
+-0.447088746240826	Control	Endometrial cancer
+-1.33345349862435	Control	Endometrial cancer
+-0.245151307379304	Control	Endometrial cancer
+-0.362804610072337	Control	Endometrial cancer
+-0.336378409651446	Control	Endometrial cancer
+0.541414905881504	Control	Endometrial cancer
+-0.79163052308189	Control	Endometrial cancer
+-1.04785638250741	Control	Endometrial cancer
+-0.318756756486488	Control	Endometrial cancer
+0.010822330614171	Control	Endometrial cancer
+-0.236657816162087	Control	Endometrial cancer
+0.55565176537153	Control	Endometrial cancer
+1.0501201690602	Control	Endometrial cancer
+-0.186380556050657	Control	Endometrial cancer
+0.0124098338045531	Control	Endometrial cancer
+-0.665565644134098	Control	Endometrial cancer
+-1.16626112803231	Control	Endometrial cancer
+-0.728437608665239	Control	Endometrial cancer
+0.244463795284353	Control	Endometrial cancer
+-0.422043526108829	Control	Endometrial cancer
+-0.620495072151053	Control	Endometrial cancer
+-0.37838395083771	Control	Endometrial cancer
+0.29471200324187	Control	Endometrial cancer
+-0.298313130164006	Control	Endometrial cancer
+-0.262890961496628	Control	Endometrial cancer
+0.229671125737377	Control	Endometrial cancer
+-0.529894336715378	Control	Endometrial cancer
+-0.49369242078417	Control	Endometrial cancer
+0.204902669419634	Control	Endometrial cancer
+-0.84149102968025	Control	Endometrial cancer
+-0.680625158313535	Control	Endometrial cancer
+-0.36829933538823	Control	Endometrial cancer
+-0.409546410941447	Control	Endometrial cancer
+0.959243577135698	Control	Endometrial cancer
+-0.739513710874324	Control	Endometrial cancer
+0.498422477815776	Control	Endometrial cancer
+-0.487451510192532	Control	Endometrial cancer
+-0.417084923694365	Control	Endometrial cancer
+0.105242575206256	Control	Endometrial cancer
+-0.0442362941206668	Control	Endometrial cancer
+-0.456854053044462	Control	Endometrial cancer
+-0.150959502630402	Control	Endometrial cancer
+0.5091702629005	Control	Endometrial cancer
+0.21609170184699	Control	Endometrial cancer
+-0.281591794227754	Control	Endometrial cancer
+-0.708914722741649	Control	Endometrial cancer
+-0.158938377430944	Control	Endometrial cancer
+0.0546610347623123	Control	Endometrial cancer
+0.00671109182257911	Control	Endometrial cancer
+-0.140007048699289	Control	Endometrial cancer
+-0.740702730945822	Control	Endometrial cancer
+-0.450196957666406	Control	Endometrial cancer
+-0.853272400756767	Control	Endometrial cancer
+0.0868911291967856	Control	Endometrial cancer
+-0.619416229909323	Control	Endometrial cancer
+-1.0151498655126	Control	Endometrial cancer
+0.00750691463509397	Control	Endometrial cancer
+-0.0941441021459656	Control	Endometrial cancer
+-0.206509334720358	Control	Endometrial cancer
+0.0814390342786182	Control	Endometrial cancer
+-0.286395709324848	Control	Endometrial cancer
+-0.0220725948243167	Control	Endometrial cancer
+0.261654763167025	Control	Endometrial cancer
+-0.58356834864617	Control	Endometrial cancer
+-0.437461502818775	Control	Endometrial cancer
+-0.641003870535927	Control	Endometrial cancer
+-0.578208396579105	Control	Endometrial cancer
+0.338065838267753	Control	Endometrial cancer
+-0.906666777188903	Control	Endometrial cancer
+0.664446270518744	Control	Endometrial cancer
+-0.42370795231856	Control	Endometrial cancer
+-0.254864704980818	Control	Endometrial cancer
+-0.525700441132021	Control	Endometrial cancer
+-1.42714266735606	Control	Endometrial cancer
+-0.449033705558508	Control	Endometrial cancer
+-0.13680222279451	Control	Endometrial cancer
+0.199455819830279	Control	Endometrial cancer
+-0.58396769072192	Control	Endometrial cancer
+-0.522254664312944	Control	Endometrial cancer
+-0.952627023822131	Control	Endometrial cancer
+-0.512566271365154	Control	Endometrial cancer
+0.548478057203914	Control	Endometrial cancer
+-0.100247341417293	Control	Endometrial cancer
+-0.0312390638359914	Control	Endometrial cancer
+0.0299495924696459	Control	Endometrial cancer
+-0.497787837453984	Control	Endometrial cancer
+-0.276200738549374	Control	Endometrial cancer
+0.0422045348897261	Control	Endometrial cancer
+0.134797272547807	Control	Endometrial cancer
+-0.506559703566394	Control	Endometrial cancer
+0.297256540572118	Control	Endometrial cancer
+-0.441040220441743	Control	Endometrial cancer
+0.0861467123413297	Control	Endometrial cancer
+-0.581326863918045	Control	Endometrial cancer
+-0.441356740459078	Control	Endometrial cancer
+-0.904850432604768	Control	Endometrial cancer
+-0.723049916353067	Control	Endometrial cancer
+-0.39858867981701	Control	Endometrial cancer
+-0.27021734944873	Control	Endometrial cancer
+0.749975935388246	Control	Endometrial cancer
+0.0537433608086711	Control	Endometrial cancer
+-0.993748760351089	Control	Endometrial cancer
+0.885263528410732	Control	Endometrial cancer
+-0.521561729521858	Control	Endometrial cancer
+-0.498265017039676	Control	Endometrial cancer
+-0.597948122380237	Control	Endometrial cancer
+0.466386979487825	Control	Endometrial cancer
+0.00723372770659607	Control	Endometrial cancer

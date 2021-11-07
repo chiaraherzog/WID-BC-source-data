@@ -1,0 +1,870 @@
+WID-BC-index	subtype
+-0.950332830657837	Ovarian Teratoma
+-0.764094210928525	Healthy volunteer
+-0.240304170993373	Benign breast changes
+-0.610924005931907	Healthy volunteer
+-0.465477438379908	Healthy volunteer
+-0.873695655937891	Healthy volunteer
+-0.72294254566222	Healthy volunteer
+-0.857081053487682	Healthy volunteer
+-0.488916788110228	Healthy volunteer
+-0.941743468044687	Healthy volunteer
+-0.519756233526913	Ovarian Fibroma
+-0.645731515325901	Healthy volunteer
+-0.569947556703748	Healthy volunteer
+-0.844497418143022	Healthy volunteer
+-0.859707029677294	Healthy volunteer
+-0.717521659770729	Healthy volunteer
+-0.603180432008759	Healthy volunteer
+-0.604044813929537	Healthy volunteer
+-0.41295163183814	Healthy volunteer
+-0.597262970123656	Healthy volunteer
+-0.405965804344157	Healthy volunteer
+-0.433526470632438	Healthy volunteer
+-0.581439515046464	Healthy volunteer
+-1.19621942149767	Healthy volunteer
+-0.432125328799936	Healthy volunteer
+-0.316250098607861	Healthy volunteer
+-0.36320904872131	Healthy volunteer
+-0.398052389521428	Healthy volunteer
+-0.499762748667878	Healthy volunteer
+-0.849045667122388	Benign adnexal cyst
+-0.881834132662639	Benign adnexal cyst
+-0.441423730694722	Healthy volunteer
+-0.634513643814729	Uterine Fibroids
+-0.15372563997521	Healthy volunteer
+-0.403695646159123	Healthy volunteer
+-0.757104183866309	Healthy volunteer
+-0.406882070736054	Endometriosis
+-0.576252026589382	Healthy volunteer
+-0.420063657275237	Healthy volunteer
+-0.478825203580464	Healthy volunteer
+-0.342427861853615	Healthy volunteer
+-0.555702013475387	Benign adnexal cyst
+-0.336066157802016	Benign adnexal cyst
+-0.787426871036672	Healthy volunteer
+-0.317496245465327	Benign breast changes
+-0.652000793626951	Healthy volunteer
+-0.853023739866625	Healthy volunteer
+-0.355766366368989	Healthy volunteer
+-0.400572973431036	Healthy volunteer
+-0.268553721917425	Ovarian Fibroma
+-0.543032973064679	Healthy volunteer
+-0.544893723080552	Healthy volunteer
+-0.451367612096205	Endometriosis
+-0.548422578297718	Healthy volunteer
+-0.291646235613907	Healthy volunteer
+-0.245410975449739	Unspecified gynaecological problems
+-0.440161587657287	Healthy volunteer
+-0.691041912216347	Pelvic floor dysfunction
+-0.699326999781454	Healthy volunteer
+-0.379562348818688	Healthy volunteer
+-0.27144375260158	Healthy volunteer
+-0.220452818027789	Healthy volunteer
+-0.687147200705269	Unspecified gynaecological problems
+-0.234263451419192	Healthy volunteer
+-0.76053209003903	Healthy volunteer
+-0.822846817289319	Benign endometrial changes
+-0.34089466853078	Healthy volunteer
+-1.1769128341095	Healthy volunteer
+-0.254500771095961	Healthy volunteer
+-0.778302153085047	Healthy volunteer
+-0.656416453558917	Pelvic floor dysfunction
+-0.698570714580552	Healthy volunteer
+-1.20374592951416	Healthy volunteer
+-0.343943402260116	Pelvic floor dysfunction
+-0.462375334687637	Healthy volunteer
+-0.438881358935674	Uterine Fibroids
+-0.717863163069766	Healthy volunteer
+-0.333867781442769	Healthy volunteer
+-0.581719838358878	Pelvic floor dysfunction
+-1.14275570709724	Healthy volunteer
+-0.523938213952313	Healthy volunteer
+-0.913162780892282	Pelvic floor dysfunction
+-0.343904201714957	Healthy volunteer
+-0.800151868139343	Unspecified gynaecological problems
+-0.665786829989689	Healthy volunteer
+-0.274390986337232	Healthy volunteer
+-0.583964003151157	Unspecified gynaecological problems
+-0.850901125092415	Healthy volunteer
+-0.319543950826338	Healthy volunteer
+-0.422014963936542	Healthy volunteer
+-0.456230731817293	Healthy volunteer
+-0.482139407568463	Healthy volunteer
+-0.273655079375059	Healthy volunteer
+-0.800909099749451	Healthy volunteer
+-1.31876932410337	Pelvic floor dysfunction
+-0.987793041990351	Healthy volunteer
+-0.373714981755185	Healthy volunteer
+-1.20004198391855	Endometriosis
+-0.700478615168798	Healthy volunteer
+-0.793478940120838	Healthy volunteer
+-0.704340148216913	Healthy volunteer
+-0.449313031164674	Unspecified gynaecological problems
+-0.415282283405545	Benign adnexal cyst
+-0.519550135993995	Endometriosis
+-0.86886284980848	Healthy volunteer
+-0.780105049153913	Uterine Fibroids
+-0.751611601431825	Unspecified gynaecological problems
+-0.50862812498201	Unspecified gynaecological problems
+-0.847548469251554	Healthy volunteer
+-0.501890841909375	Healthy volunteer
+-0.659380901893883	Unspecified gynaecological problems
+-1.15692100945077	Pelvic floor dysfunction
+-1.77047632326154	Healthy volunteer
+-0.996680541191989	Healthy volunteer
+-0.741556281213467	Benign adnexal cyst
+-0.998566083866632	Healthy volunteer
+-0.407035575810034	Healthy volunteer
+-0.624626327972243	Benign endometrial changes
+-0.342785286414782	Healthy volunteer
+-0.430126099843796	Healthy volunteer
+-0.329403395532205	Healthy volunteer
+-0.299445248204409	Healthy volunteer
+-0.255527742716054	Healthy volunteer
+-0.310663572071335	Healthy volunteer
+-0.446051183998297	Ovarian Teratoma
+-0.488257099647249	Healthy volunteer
+-0.327802881825887	Healthy volunteer
+-0.711733785111911	Benign endometrial changes
+-0.826600874608846	Benign endometrial changes
+-0.521005669143425	Healthy volunteer
+-0.503570749866337	Healthy volunteer
+-0.320358714808039	Healthy volunteer
+-0.764281612730721	Healthy volunteer
+-0.242968424438962	Healthy volunteer
+-0.986775839659578	Pelvic floor dysfunction
+-0.620565910018051	Unspecified gynaecological problems
+-0.645624953442129	Healthy volunteer
+-0.742889583309488	Healthy volunteer
+-0.53226459403772	Healthy volunteer
+-0.594059538479015	Ovarian Fibroma
+-0.735300949521349	Healthy volunteer
+-0.919128395148741	Unspecified gynaecological problems
+-0.374508485180802	Healthy volunteer
+-0.183065055423238	Healthy volunteer
+-0.68694149739166	Healthy volunteer
+-0.461552807822753	Healthy volunteer
+-0.426574040071425	Healthy volunteer
+-0.29632662256038	Pelvic floor dysfunction
+-0.310144520986901	Healthy volunteer
+-0.775513454087498	Healthy volunteer
+-0.432013143485475	Healthy volunteer
+-0.598770925616693	Unspecified gynaecological problems
+-0.334781307562156	Healthy volunteer
+-0.472494654275289	Benign adnexal cyst
+-1.36759936667481	Healthy volunteer
+-0.719968462926516	Healthy volunteer
+-0.731613030031392	Endometriosis
+-0.308327598811178	Uterine Fibroids
+-0.404671131318381	Healthy volunteer
+-0.786100153117092	Healthy volunteer
+-0.50218355382888	Unspecified gynaecological problems
+-0.50722668956285	Healthy volunteer
+-0.446745935497987	Healthy volunteer
+-0.434114186060854	Healthy volunteer
+-1.1216059792296	Healthy volunteer
+-0.420634067505989	Benign adnexal cyst
+-0.912908621566125	Healthy volunteer
+-0.536842873274049	Healthy volunteer
+-0.60208344099097	Healthy volunteer
+-0.240963007707885	Benign adnexal cyst
+-0.375196450821387	Healthy volunteer
+-0.365448572885456	Healthy volunteer
+-0.37516116779527	Healthy volunteer
+-1.26348089587888	Benign endometrial changes
+-0.283154363380469	Healthy volunteer
+-0.343490041138826	Uterine Fibroids
+-0.468747349182132	Healthy volunteer
+-0.325683421293653	Healthy volunteer
+-0.423092646079664	Healthy volunteer
+-0.646450743570937	Healthy volunteer
+-0.80417359854468	Healthy volunteer
+-0.431452583009156	Healthy volunteer
+-0.491766827186604	Healthy volunteer
+-0.458557609984919	Benign adnexal cyst
+-0.653294460396728	Healthy volunteer
+-0.790339798989519	Healthy volunteer
+-0.715044530966616	Healthy volunteer
+-0.501299896651801	Pelvic floor dysfunction
+-0.331332763113801	Healthy volunteer
+-0.983858467134352	Healthy volunteer
+-0.551478341719614	Healthy volunteer
+-0.499539878681552	Healthy volunteer
+-0.465943926873742	Healthy volunteer
+-0.705416493030142	Healthy volunteer
+-0.324574442730754	Healthy volunteer
+-1.19148412033991	Healthy volunteer
+-0.438260990706715	Healthy volunteer
+-0.517851848485091	Benign breast changes
+-1.33952581106979	Healthy volunteer
+-0.324706039272644	Ovarian Teratoma
+-0.584356773206742	Healthy volunteer
+-0.771793316174265	Healthy volunteer
+-0.509004057442335	Healthy volunteer
+-0.349040718773717	Unspecified gynaecological problems
+-0.576647914289076	Healthy volunteer
+-1.04741582760709	Healthy volunteer
+-0.761132025062398	Ovarian Fibroma
+-0.562448375718025	Healthy volunteer
+-0.327057783107915	Healthy volunteer
+-0.980721612937055	Healthy volunteer
+-0.62933264203002	Ovarian Fibroma
+-0.767428125147483	Healthy volunteer
+-0.372561065918122	Healthy volunteer
+-0.630545356907711	Healthy volunteer
+-0.520107030458537	Benign adnexal cyst
+-1.08110684987507	Benign adnexal cyst
+-0.336322537560313	Healthy volunteer
+-0.510603590608318	Healthy volunteer
+-0.808270245403699	Healthy volunteer
+-0.480875897841403	Healthy volunteer
+-0.567599948649066	Healthy volunteer
+-0.980435254516644	Endometriosis
+-0.535436814682551	Healthy volunteer
+-0.794622293151895	Healthy volunteer
+-0.547733992868237	Healthy volunteer
+-0.785535491630517	Healthy volunteer
+-1.71756578720665	Healthy volunteer
+-0.417255001071832	Healthy volunteer
+-0.428245896390621	Healthy volunteer
+-0.925908997196757	Benign endometrial changes
+-0.226468107211431	Healthy volunteer
+-1.02783007522339	Healthy volunteer
+-0.428650939474195	Healthy volunteer
+-0.609253437969949	Unspecified gynaecological problems
+-0.509308462589822	Healthy volunteer
+-0.589997106965673	Healthy volunteer
+-0.368471171872008	Healthy volunteer
+-0.4029772075505	Healthy volunteer
+-0.297834973279385	Healthy volunteer
+-0.405132552393908	Healthy volunteer
+-0.606951625538219	Healthy volunteer
+-0.522924964745609	Healthy volunteer
+-0.63331051605386	Healthy volunteer
+-0.473493717566318	Benign adnexal cyst
+-0.522367725740334	Healthy volunteer
+-1.08335384901077	Healthy volunteer
+-0.626597407776752	Healthy volunteer
+-0.37646253991461	Healthy volunteer
+-0.293622619654099	Endometriosis
+-0.689595633697488	Ovarian Fibroma
+-0.865676439267121	Healthy volunteer
+-0.521097215774221	Endometriosis
+-0.518032264120669	Healthy volunteer
+-0.628596942237622	Healthy volunteer
+-0.757697638431332	Healthy volunteer
+-0.713004413308096	Healthy volunteer
+-0.623892787719407	Uterine Fibroids
+-0.453808220322962	Healthy volunteer
+-0.354351153422052	Healthy volunteer
+-0.343138035036983	Healthy volunteer
+-0.523474970137866	Uterine Fibroids
+-0.354739153072964	Healthy volunteer
+-0.496313408299186	Healthy volunteer
+-0.769204281524164	Healthy volunteer
+-0.332227362298972	Healthy volunteer
+-0.307311840788122	Healthy volunteer
+-0.262449941916238	Endometriosis
+-0.644347409056734	Healthy volunteer
+-0.227856256732522	Healthy volunteer
+-0.513089979558187	Healthy volunteer
+-0.532307521313418	Ovarian Fibroma
+-0.406053999270912	Healthy volunteer
+-0.647678322529076	Healthy volunteer
+-0.364551946321713	Healthy volunteer
+-0.348740653779391	Healthy volunteer
+-0.604693617776267	Healthy volunteer
+-0.834345026172974	Healthy volunteer
+-0.755473947520587	Healthy volunteer
+-0.496188242618298	Healthy volunteer
+-0.660043515402373	Healthy volunteer
+-0.491765760038871	Benign adnexal cyst
+-0.574630170974776	Healthy volunteer
+-0.791463910209979	Healthy volunteer
+-0.850998827285736	Healthy volunteer
+-0.27001900958916	Benign adnexal cyst
+-0.281716883464475	Healthy volunteer
+-0.216483071400532	Uterine Fibroids
+-0.520846807536251	Endometriosis
+-0.394681760938358	Healthy volunteer
+-0.532978939956864	Healthy volunteer
+-0.306625188974433	Healthy volunteer
+-0.735956507719742	Ovarian Fibroma
+-0.595140850623271	Healthy volunteer
+-0.852982992295863	Healthy volunteer
+-0.560969646477731	Healthy volunteer
+-0.87766920026319	Healthy volunteer
+-0.526410953399105	Healthy volunteer
+-0.744338150247151	Healthy volunteer
+-0.437879342369745	Uterine Fibroids
+-0.811012159428929	Healthy volunteer
+-0.591989619931497	Healthy volunteer
+-0.695297393961538	Healthy volunteer
+-0.90623588580062	Healthy volunteer
+-0.344773843768526	Healthy volunteer
+-0.343121736374365	Uterine Fibroids
+-0.537624024874884	Healthy volunteer
+-0.530991214305116	Healthy volunteer
+-0.69056188769343	Healthy volunteer
+-0.634105383071076	Healthy volunteer
+-0.559794562949429	Healthy volunteer
+-1.10164886053577	Healthy volunteer
+-0.405607170340138	Ovarian Fibroma
+-0.649761805476624	Endometriosis
+-0.469390304680421	Healthy volunteer
+-0.234656679065297	Healthy volunteer
+-0.787087900050669	Uterine Fibroids
+-0.293963871062384	Uterine Fibroids
+-0.633846293855821	Endometriosis
+-0.664121044576877	Healthy volunteer
+-1.07477708174716	Healthy volunteer
+-0.751595687970725	Healthy volunteer
+-1.06425695219157	Pelvic floor dysfunction
+-0.248992412505696	Healthy volunteer
+-0.21986364864986	Healthy volunteer
+-0.582524373269564	Endometriosis
+-0.865125945433639	Healthy volunteer
+-0.452815678690017	Healthy volunteer
+-0.516471539576357	Healthy volunteer
+-0.352034820409298	Healthy volunteer
+-0.352067818312973	Healthy volunteer
+-0.600449549793237	Healthy volunteer
+-0.54616068282564	Healthy volunteer
+-0.414394448313694	Healthy volunteer
+-0.221695894442934	Healthy volunteer
+-1.12904992441523	Pelvic floor dysfunction
+-0.302431573341376	Pelvic floor dysfunction
+-0.310929782096224	Healthy volunteer
+-0.53998676400308	Healthy volunteer
+-0.231172418497197	Healthy volunteer
+-1.03253650269222	Uterine Fibroids
+-0.886409992594825	Benign endometrial changes
+-0.350746077816954	Healthy volunteer
+-0.698612913569319	Healthy volunteer
+-0.221725191992732	Benign adnexal cyst
+-0.592040376146816	Uterine Fibroids
+-0.765119267279235	Unspecified gynaecological problems
+-0.273613593880626	Healthy volunteer
+-0.490644980329056	Healthy volunteer
+-0.467341058100206	Pelvic floor dysfunction
+-0.475058319220301	Healthy volunteer
+-0.146169043494933	Healthy volunteer
+-1.03267168241329	Healthy volunteer
+-0.707310628858787	Healthy volunteer
+-1.26023609897294	Healthy volunteer
+-0.410119453123025	Healthy volunteer
+-0.209488057345707	Benign endometrial changes
+-1.37642403453941	Healthy volunteer
+-0.527482293649909	Healthy volunteer
+-0.963519302572499	Ovarian Teratoma
+-0.464267066913901	Healthy volunteer
+-0.484683442108708	Healthy volunteer
+-0.567911955625332	Healthy volunteer
+-0.361256792666496	Healthy volunteer
+-0.931097021408529	Healthy volunteer
+-0.985456292208598	Benign endometrial changes
+-1.16888484982246	Benign adnexal cyst
+-1.26245507423304	Benign endometrial changes
+-0.564009327671049	Unspecified gynaecological problems
+-0.0854980660039915	Benign endometrial changes
+-1.01748821142219	Healthy volunteer
+-0.825217352004903	Benign adnexal cyst
+-0.895358963799139	Pelvic floor dysfunction
+-0.611095345275185	Healthy volunteer
+-0.164184068548274	Healthy volunteer
+-0.243667671069732	Healthy volunteer
+-0.200441848040544	Healthy volunteer
+-0.487375189614149	Healthy volunteer
+-0.320619555561508	Healthy volunteer
+-1.06665155447459	Unspecified gynaecological problems
+-0.361087582949342	Healthy volunteer
+-0.402087217002595	Pelvic floor dysfunction
+-1.18325415683282	Benign endometrial changes
+-0.501212196462278	Healthy volunteer
+-0.817456481826136	Benign adnexal cyst
+-0.650944217130445	Unspecified gynaecological problems
+-0.54866713010238	Pelvic floor dysfunction
+-0.363645984616665	Unspecified gynaecological problems
+-0.717024166893646	Unspecified gynaecological problems
+-0.581411080976474	Healthy volunteer
+-0.748382863213498	Benign breast changes
+-0.252334765295192	Healthy volunteer
+-1.1206288123833	Healthy volunteer
+-0.951335596871949	Healthy volunteer
+-0.585877105348522	Pelvic floor dysfunction
+-0.610635895921295	Healthy volunteer
+-0.95005168247068	Healthy volunteer
+-0.635589550145849	Unspecified gynaecological problems
+-0.467726467945208	Healthy volunteer
+-0.34962110770476	Healthy volunteer
+-0.585072120148846	Healthy volunteer
+-0.505867266358539	Healthy volunteer
+-0.443582967766723	Healthy volunteer
+-0.457127578044422	Healthy volunteer
+-1.03737981320816	Endometriosis
+-0.395140025686978	Healthy volunteer
+-0.59598316946117	Healthy volunteer
+-0.301409252615798	Healthy volunteer
+-0.943951173875284	Healthy volunteer
+-0.966271620609456	Pelvic floor dysfunction
+-0.333709148585761	Healthy volunteer
+-0.733872327517516	Healthy volunteer
+-0.318642250707314	Healthy volunteer
+-0.650879776220083	Benign adnexal cyst
+-0.881726986383188	Healthy volunteer
+-0.660206365130854	Healthy volunteer
+-0.645291602806306	Pelvic floor dysfunction
+-0.729685538157626	Healthy volunteer
+-0.54014275364386	Benign adnexal cyst
+-0.625586377787093	Pelvic floor dysfunction
+-1.02714762865912	Healthy volunteer
+-0.86944258343641	Benign adnexal cyst
+-0.837779133428675	Healthy volunteer
+-0.868943659542889	Healthy volunteer
+-1.00732399737679	Healthy volunteer
+-0.610239067230009	Healthy volunteer
+-0.788000310500773	Pelvic floor dysfunction
+-0.509062096418988	Healthy volunteer
+-0.23921532770829	Healthy volunteer
+-0.690668094035438	Healthy volunteer
+-0.529082723994521	Healthy volunteer
+-0.788827236117326	Healthy volunteer
+-0.433287224918445	Healthy volunteer
+-0.193440865747618	Healthy volunteer
+-0.345666075875211	Healthy volunteer
+-0.462302802809938	Benign adnexal cyst
+-0.585667720949936	Healthy volunteer
+-0.471673456089358	Healthy volunteer
+-0.644379133195731	Healthy volunteer
+-0.521338951825451	Healthy volunteer
+-0.553435362505768	Healthy volunteer
+-0.695992777436318	Healthy volunteer
+-0.341338200965116	Pelvic floor dysfunction
+-0.613032208011768	Benign adnexal cyst
+-0.572714274220073	Healthy volunteer
+-1.25996935063578	Benign endometrial changes
+-0.283310131073192	Healthy volunteer
+-0.369608517563608	Healthy volunteer
+-0.502983755043855	Healthy volunteer
+-0.364195516712834	Unspecified gynaecological problems
+-0.355697184643827	Benign endometrial changes
+-0.314698178680324	Healthy volunteer
+-0.233691461755472	Healthy volunteer
+-0.945847426650107	Unspecified gynaecological problems
+-0.414703923083422	Healthy volunteer
+-0.854266970529265	Benign endometrial changes
+-0.223807226284909	Healthy volunteer
+-0.358819218523329	Healthy volunteer
+-0.736570370183918	Healthy volunteer
+-0.524123893065488	Healthy volunteer
+-0.469593855557072	Healthy volunteer
+-0.470424627225654	Endometriosis
+-0.341418226808072	Benign adnexal cyst
+-0.672100043082506	Pelvic floor dysfunction
+-0.385202213322503	Healthy volunteer
+-0.369690693878204	Uterine Fibroids
+-0.667384640173076	Endometriosis
+-0.597241149239131	Healthy volunteer
+-0.404215974666198	Healthy volunteer
+-0.690887885188406	Benign adnexal cyst
+-1.02000679327026	Benign adnexal cyst
+-0.454172276735986	Healthy volunteer
+-0.59084627239126	Pelvic floor dysfunction
+-0.287111515073228	Healthy volunteer
+-0.52893887850471	Uterine Fibroids
+-1.13841028562013	Benign adnexal cyst
+-0.51145163584354	Benign adnexal cyst
+-0.697640353473117	Healthy volunteer
+-0.45008334156812	Healthy volunteer
+-0.625105774817426	Uterine Fibroids
+-0.561547711990669	Uterine Fibroids
+-0.387256158338329	Healthy volunteer
+-0.410062671999173	Healthy volunteer
+-0.292592580793545	Benign breast changes
+-0.688688816408972	Healthy volunteer
+-0.676593116013463	Uterine Fibroids
+-0.289488214608484	Uterine Fibroids
+-0.635938140533158	Benign adnexal cyst
+-0.663229069675994	Benign adnexal cyst
+-0.721082284419024	Uterine Fibroids
+-0.329218215595883	Benign breast changes
+-0.71361032905174	Uterine Fibroids
+-0.607608205818771	Healthy volunteer
+-0.354344586818408	Healthy volunteer
+-1.05323249316098	Uterine Fibroids
+-0.47502503899138	Ovarian Fibroma
+-0.383124342231632	Healthy volunteer
+-1.2190581370419	Healthy volunteer
+-0.750640392077329	Healthy volunteer
+-0.500092730243522	Healthy volunteer
+-0.38977291464523	Uterine Fibroids
+-1.13637178311855	Healthy volunteer
+-1.2714096560544	Healthy volunteer
+-0.883734069702833	Healthy volunteer
+-0.631371831824415	Healthy volunteer
+-0.226890517600287	Ovarian Fibroma
+-0.965370464154494	Healthy volunteer
+-0.947827303809801	Healthy volunteer
+-0.393955022832812	Uterine Fibroids
+-0.352199883750005	Healthy volunteer
+-0.940495444526407	Benign adnexal cyst
+-1.15868777766361	Uterine Fibroids
+-0.86074298367648	Healthy volunteer
+-0.609106902423707	Uterine Fibroids
+-0.602965597400348	Healthy volunteer
+-0.440146618003159	Healthy volunteer
+-0.822097090403914	Healthy volunteer
+-0.513100757225076	Unspecified gynaecological problems
+-0.40753349098031	Healthy volunteer
+-0.45125976380531	Healthy volunteer
+-0.545785554810397	Healthy volunteer
+-0.58978103521376	Healthy volunteer
+-0.483108497652892	Healthy volunteer
+-0.601291957869375	Healthy volunteer
+-0.572609648232415	Uterine Fibroids
+-0.910062166531658	Healthy volunteer
+-0.743085168200202	Healthy volunteer
+-0.65397329996197	Healthy volunteer
+-0.376221908854064	Uterine Fibroids
+-0.730371884111296	Healthy volunteer
+-0.116864984159233	Ovarian Fibroma
+-0.565097992693305	Healthy volunteer
+-0.966441207557374	Endometriosis
+-0.275010829716959	Healthy volunteer
+-0.347831789033378	Benign adnexal cyst
+-0.403945562792369	Benign adnexal cyst
+-0.365058128480144	Healthy volunteer
+-0.930830315549602	Ovarian Fibroma
+-0.534157031232103	Uterine Fibroids
+-0.519378854805314	Healthy volunteer
+-1.35687674068949	Healthy volunteer
+-0.691599195537327	Healthy volunteer
+-0.370147283877468	Benign endometrial changes
+-0.569252855084466	Healthy volunteer
+-0.436104077044161	Uterine Fibroids
+-0.549736099345075	Uterine Fibroids
+-1.05966174170347	Benign endometrial changes
+-0.416434694259505	Healthy volunteer
+-0.487198681397722	Healthy volunteer
+-0.337012855913416	Healthy volunteer
+-0.577304843643002	Healthy volunteer
+-0.508249560648853	Healthy volunteer
+-0.57212692395398	Uterine Fibroids
+-0.779430296326035	Healthy volunteer
+-0.420254480974195	Healthy volunteer
+-1.06600316259978	Healthy volunteer
+-0.76371588669289	Healthy volunteer
+-0.476596884470665	Healthy volunteer
+-0.34102902702672	Benign adnexal cyst
+-0.404659532863655	Ovarian Fibroma
+-0.843401859401077	Healthy volunteer
+-1.15363208494538	Healthy volunteer
+-0.979525222571668	Benign breast changes
+-0.232951387426327	Healthy volunteer
+-0.753219981974778	Healthy volunteer
+-0.546421181317136	Healthy volunteer
+-0.959325197304455	Benign adnexal cyst
+-0.414060156988242	Uterine Fibroids
+-0.624289424371777	Healthy volunteer
+-0.609392889277381	Benign endometrial changes
+-0.392272142460889	Benign adnexal cyst
+-0.757932212870644	Healthy volunteer
+-0.890761082251236	Healthy volunteer
+-0.743881363530076	Healthy volunteer
+-0.882898440395577	Healthy volunteer
+-0.237306241502074	Ovarian Fibroma
+-0.612195691187768	Healthy volunteer
+-0.0267491930335274	Healthy volunteer
+0.312268431496757	Healthy volunteer
+0.262743115103116	Healthy volunteer
+0.277214939303598	Healthy volunteer
+-0.567651777720604	Healthy volunteer
+-0.478132135916309	Healthy volunteer
+0.153254059805053	Healthy volunteer
+-0.259502689664079	Uterine Fibroids
+-0.254679721080463	Healthy volunteer
+-0.28494174190359	Healthy volunteer
+-0.323283151200456	Healthy volunteer
+-0.451586768621736	Healthy volunteer
+-0.0844159129756592	Endometriosis
+-0.274597121346044	Healthy volunteer
+0.211569569953156	Healthy volunteer
+-0.379721650543771	Healthy volunteer
+-0.0522109816194738	Healthy volunteer
+-0.385326749348871	Healthy volunteer
+-0.731443103114823	Healthy volunteer
+0.88954437359273	Benign adnexal cyst
+-0.0366102591168435	Healthy volunteer
+0.278638532811838	Healthy volunteer
+0.0604934439672088	Healthy volunteer
+0.574993038401107	Healthy volunteer
+0.065748393641733	Healthy volunteer
+-0.403991868881727	Healthy volunteer
+-0.641367422819088	Healthy volunteer
+0.365211437102559	Healthy volunteer
+-0.732225991062564	Healthy volunteer
+-0.434640683394424	Healthy volunteer
+-1.09019380127999	Healthy volunteer
+-0.131477994129874	Healthy volunteer
+0.0767854867068647	Benign adnexal cyst
+0.0738917845514497	Healthy volunteer
+-0.00521169323805777	Healthy volunteer
+-0.786521433181342	Healthy volunteer
+-0.013367339384292	Pelvic floor dysfunction
+0.0778190004101887	Healthy volunteer
+-0.464256523674451	Healthy volunteer
+-0.257555275182805	Uterine Fibroids
+0.919092972317711	Healthy volunteer
+-1.49632255665899	Healthy volunteer
+-0.814086903069808	Healthy volunteer
+-0.875096541743326	Pelvic floor dysfunction
+0.750794830153833	Healthy volunteer
+-0.204317444496935	Healthy volunteer
+-1.31514750371564	Healthy volunteer
+-0.237991647522358	Healthy volunteer
+-1.53150834500034	Healthy volunteer
+-0.00334549629258175	Healthy volunteer
+-0.442222163207109	Healthy volunteer
+-0.252380236176464	Pelvic floor dysfunction
+0.0248886575260189	Healthy volunteer
+0.113262801846543	Pelvic floor dysfunction
+-0.569684892178928	Healthy volunteer
+0.16826881191547	Benign adnexal cyst
+-0.197298060228166	Unspecified gynaecological problems
+-0.0152744973632943	Unspecified gynaecological problems
+-0.125321207041506	Healthy volunteer
+-0.651402464157769	Pelvic floor dysfunction
+-0.399299860206172	Healthy volunteer
+-0.593151234264702	Benign endometrial changes
+-0.184341867819824	Healthy volunteer
+0.457223920370279	Healthy volunteer
+-0.64921578558101	Uterine Fibroids
+0.615594890707416	Healthy volunteer
+0.497933286276048	Healthy volunteer
+0.393030930434972	Healthy volunteer
+0.27470870905896	Healthy volunteer
+-0.634046966733274	Uterine Fibroids
+0.440988347004688	Healthy volunteer
+-0.585093392878137	Unspecified gynaecological problems
+0.0992893695040286	Healthy volunteer
+0.578161740458859	Pelvic floor dysfunction
+0.232144718276475	Healthy volunteer
+-0.202279788316053	Healthy volunteer
+0.555198228322949	Healthy volunteer
+0.562444861009367	Healthy volunteer
+-0.352347655102371	Healthy volunteer
+-0.515047861259032	Benign breast changes
+-1.03957497317253	Benign endometrial changes
+-0.0925468797822283	Healthy volunteer
+0.646576196006771	Healthy volunteer
+-0.157659118951524	Healthy volunteer
+-0.186696612825785	Pelvic floor dysfunction
+0.00213190536709286	Healthy volunteer
+-0.710534855552808	Healthy volunteer
+-1.1305668769203	Healthy volunteer
+-0.511267682734815	Healthy volunteer
+0.121957929969653	Healthy volunteer
+0.484460435541283	Benign adnexal cyst
+-0.859277056435688	Healthy volunteer
+-0.471145790805571	Healthy volunteer
+1.61654341863949	Healthy volunteer
+-1.01703624302223	Healthy volunteer
+0.760569930651689	Healthy volunteer
+0.207153006393948	Healthy volunteer
+-0.775500997571701	Healthy volunteer
+-0.561776265406792	Healthy volunteer
+-0.224599964206712	Ovarian Fibroma
+0.141597645850714	Healthy volunteer
+-0.184087510798444	Healthy volunteer
+0.115080525379773	Healthy volunteer
+0.625169056008832	Ovarian Fibroma
+-0.392417554007568	Healthy volunteer
+-0.239004352366586	Healthy volunteer
+-0.878588318709928	Healthy volunteer
+-0.189456825700819	Healthy volunteer
+-0.490925998547264	Healthy volunteer
+0.23111208855014	Healthy volunteer
+-0.978566284655411	Healthy volunteer
+0.640720621051752	Healthy volunteer
+0.111657909810362	Healthy volunteer
+-0.0210765108045142	Healthy volunteer
+-0.227478131575769	Healthy volunteer
+-1.091446409332	Healthy volunteer
+-0.373401776488614	Healthy volunteer
+-0.107679004486352	Healthy volunteer
+0.0212238088923058	Benign breast changes
+-0.407933143726947	Healthy volunteer
+-0.0536647425920819	Healthy volunteer
+-0.160130672256647	Healthy volunteer
+-0.539663501869694	Healthy volunteer
+-0.285472853630711	Healthy volunteer
+-0.16099740117638	Healthy volunteer
+-0.366069261834361	Ovarian Teratoma
+-0.278932211462047	Healthy volunteer
+-0.534794746168265	Healthy volunteer
+-0.0782980950703662	Healthy volunteer
+-0.368218209264839	Healthy volunteer
+-0.243652006155173	Healthy volunteer
+0.207189498606074	Healthy volunteer
+-0.4434080066427	Healthy volunteer
+0.0951533981024789	Healthy volunteer
+-0.361701213763904	Healthy volunteer
+-0.258984279631421	Healthy volunteer
+0.127194969846988	Healthy volunteer
+0.299121680573701	Healthy volunteer
+-0.0597566391856471	Healthy volunteer
+-0.0783143234188013	Healthy volunteer
+-0.00180806114773298	Uterine Fibroids
+-0.54837288180189	Uterine Fibroids
+-0.0941163123653993	Ovarian Teratoma
+-0.294373598142355	Healthy volunteer
+0.60025036744697	Healthy volunteer
+-0.798636663888287	Healthy volunteer
+-0.200363767796272	Ovarian Fibroma
+-0.789093892952099	Unspecified gynaecological problems
+-0.798667037139339	Healthy volunteer
+-0.621566691430113	Healthy volunteer
+-0.739069551171503	Healthy volunteer
+-0.764219783615614	Pelvic floor dysfunction
+-0.608505272619626	Pelvic floor dysfunction
+-0.809099026858295	Benign adnexal cyst
+-0.861935552339043	Benign endometrial changes
+-0.426784603001436	Healthy volunteer
+-0.45263360048011	Benign adnexal cyst
+-0.361781521332167	Pelvic floor dysfunction
+-0.516644504972459	Healthy volunteer
+-0.567851397410015	Endometriosis
+-0.457185420202218	Unspecified gynaecological problems
+0.340954105250796	Pelvic floor dysfunction
+-0.27945622273359	Pelvic floor dysfunction
+0.0946350619564707	Healthy volunteer
+0.242831172859644	Healthy volunteer
+-0.772416117132466	Healthy volunteer
+-0.409534716738011	Uterine Fibroids
+0.00284083683042109	Healthy volunteer
+-1.01990557332456	Healthy volunteer
+-1.11170089495594	Benign adnexal cyst
+-0.805204137342698	Healthy volunteer
+-0.623566362633326	Healthy volunteer
+-0.127103471422663	Unspecified gynaecological problems
+-0.870528204984338	Healthy volunteer
+-0.799435549636001	Pelvic floor dysfunction
+-1.05348781433004	Uterine Fibroids
+-0.672124679364744	Benign endometrial changes
+-0.800370757299353	Pelvic floor dysfunction
+-0.359455577794845	Healthy volunteer
+-1.03101807860591	Benign adnexal cyst
+-1.17176837988011	Benign endometrial changes
+0.28468643308114	Healthy volunteer
+-0.540407040939235	Uterine Fibroids
+-0.842267095406909	Healthy volunteer
+0.124381907391191	Healthy volunteer
+-0.447088746240826	Healthy volunteer
+-1.33345349862435	Healthy volunteer
+-0.245151307379304	Healthy volunteer
+-0.362804610072337	Healthy volunteer
+-0.336378409651446	Healthy volunteer
+0.541414905881504	Benign endometrial changes
+-0.79163052308189	Healthy volunteer
+-1.04785638250741	Endometriosis
+-0.318756756486488	Pelvic floor dysfunction
+0.010822330614171	Healthy volunteer
+-0.236657816162087	Pelvic floor dysfunction
+0.55565176537153	Benign adnexal cyst
+1.0501201690602	Healthy volunteer
+-0.186380556050657	Healthy volunteer
+0.0124098338045531	Healthy volunteer
+-0.665565644134098	Healthy volunteer
+-1.16626112803231	Healthy volunteer
+-0.728437608665239	Healthy volunteer
+0.244463795284353	Healthy volunteer
+-0.422043526108829	Healthy volunteer
+-0.620495072151053	Pelvic floor dysfunction
+-0.37838395083771	Healthy volunteer
+0.29471200324187	Healthy volunteer
+-0.298313130164006	Healthy volunteer
+-0.262890961496628	Ovarian Fibroma
+0.229671125737377	Unspecified gynaecological problems
+-0.529894336715378	Healthy volunteer
+-0.49369242078417	Healthy volunteer
+0.204902669419634	Healthy volunteer
+-0.84149102968025	Healthy volunteer
+-0.680625158313535	Healthy volunteer
+-0.36829933538823	Healthy volunteer
+-0.409546410941447	Healthy volunteer
+0.959243577135698	Healthy volunteer
+-0.739513710874324	Pelvic floor dysfunction
+0.498422477815776	Healthy volunteer
+-0.487451510192532	Healthy volunteer
+-0.417084923694365	Pelvic floor dysfunction
+0.105242575206256	Healthy volunteer
+-0.0442362941206668	Healthy volunteer
+-0.456854053044462	Healthy volunteer
+-0.150959502630402	Endometriosis
+0.5091702629005	Unspecified gynaecological problems
+0.21609170184699	Healthy volunteer
+-0.281591794227754	Healthy volunteer
+-0.708914722741649	Healthy volunteer
+-0.158938377430944	Pelvic floor dysfunction
+0.0546610347623123	Healthy volunteer
+0.00671109182257911	Pelvic floor dysfunction
+-0.140007048699289	Healthy volunteer
+-0.740702730945822	Endometriosis
+-0.450196957666406	Healthy volunteer
+-0.853272400756767	Pelvic floor dysfunction
+0.0868911291967856	Healthy volunteer
+-0.619416229909323	Ovarian Fibroma
+-1.0151498655126	Healthy volunteer
+0.00750691463509397	Endometriosis
+-0.0941441021459656	Healthy volunteer
+-0.206509334720358	Ovarian Fibroma
+0.0814390342786182	Healthy volunteer
+-0.286395709324848	Benign adnexal cyst
+-0.0220725948243167	Healthy volunteer
+0.261654763167025	Benign endometrial changes
+-0.58356834864617	Uterine Fibroids
+-0.437461502818775	Uterine Fibroids
+-0.641003870535927	Healthy volunteer
+-0.578208396579105	Uterine Fibroids
+0.338065838267753	Healthy volunteer
+-0.906666777188903	Uterine Fibroids
+0.664446270518744	Benign adnexal cyst
+-0.42370795231856	Healthy volunteer
+-0.254864704980818	Benign adnexal cyst
+-0.525700441132021	Healthy volunteer
+-1.42714266735606	Benign adnexal cyst
+-0.449033705558508	Benign adnexal cyst
+-0.13680222279451	Healthy volunteer
+0.199455819830279	Healthy volunteer
+-0.58396769072192	Healthy volunteer
+-0.522254664312944	Healthy volunteer
+-0.952627023822131	Healthy volunteer
+-0.512566271365154	Uterine Fibroids
+0.548478057203914	Healthy volunteer
+-0.100247341417293	Healthy volunteer
+-0.0312390638359914	Healthy volunteer
+0.0299495924696459	Ovarian Fibroma
+-0.497787837453984	Healthy volunteer
+-0.276200738549374	Healthy volunteer
+0.0422045348897261	Healthy volunteer
+0.134797272547807	Uterine Fibroids
+-0.506559703566394	Uterine Fibroids
+0.297256540572118	Uterine Fibroids
+-0.441040220441743	Endometriosis
+0.0861467123413297	Ovarian Fibroma
+-0.581326863918045	Healthy volunteer
+-0.441356740459078	Uterine Fibroids
+-0.904850432604768	Healthy volunteer
+-0.723049916353067	Unspecified gynaecological problems
+-0.39858867981701	Healthy volunteer
+-0.27021734944873	Healthy volunteer
+0.749975935388246	Ovarian Fibroma
+0.0537433608086711	Benign adnexal cyst
+-0.993748760351089	Healthy volunteer
+0.885263528410732	Healthy volunteer
+-0.521561729521858	Ovarian Fibroma
+-0.498265017039676	Healthy volunteer
+-0.597948122380237	Uterine Fibroids
+0.466386979487825	Ovarian Fibroma
+0.00723372770659607	Benign adnexal cyst

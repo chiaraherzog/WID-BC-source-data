@@ -1,0 +1,4 @@
+Component	Proportion
+Epithelial	7.76023088205494
+Immune	2.85283925540075
+Shared	6.7770258357251

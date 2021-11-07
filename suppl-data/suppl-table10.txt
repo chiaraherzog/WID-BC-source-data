@@ -1,0 +1,218 @@
+Age	Menopausal status	Stage	Grade	Histology
+58.47	Post	IA	Grade III	Endometrioid
+68.78	Post	IVB	Grade III	Endometrioid
+62.46	Post	IIIA	Grade II	Endometrioid
+55.44	Post	IB	Grade III	Endometrioid
+65.33	Post	IIIA	Grade II	Endometrioid
+52.79	Post	IIIC-2	Grade III	Endometrioid
+68.52	Post	IB	Grade I	Endometrioid
+74.17	Post	IIIC-1	Grade II	Endometrioid
+59.97	Post	II	Grade I	Endometrioid
+65.99	Post	IA	Grade III	Squamous
+66.09	Post	IIIC-2	Grade III	Serous
+58.26	Post	IB	Grade I	Endometrioid
+58.75	Post	IVA	Grade III	Endometrioid
+76.47	Post	IB	Grade I	Endometrioid
+76.73	Post	IA	NA	Serous
+75.58	Post	IIIC	Grade III	Endometrioid
+66.3	Post	IB	Grade II	Adenocarcinoma NOS
+61.17	Post	IB	Grade I	Squamous
+63.25	Post	II	Grade I	Endometrioid
+67.59	Post	IB	Grade II	Endometrioid
+69.89	Post	IB	Grade I	Serous
+65.29	Post	IA	Grade III	Carcinosarcoma
+61.19	Post	IB	Grade I	Endometrioid
+70.67	Post	IIIA	Grade II	Endometrioid
+67.91	Post	IB	Grade II	Endometrioid
+81.61	Post	II	Grade I	Endometrioid
+78.71	Post	IB	Grade I	Endometrioid
+76.28	Post	IA	Grade III	Endometrioid
+72.51	Post	IIIC	Grade I	Endometrioid
+70.14	Post	IB	Grade III	Squamous
+45.75	Pre	IVA	Grade II	Endometrioid
+57.69	Post	IIIA	Grade III	Endometrioid
+66.22	Post	IVB	Grade III	Serous
+56.98	Pre	IB	Grade I	Endometrioid
+74.3	Post	IB	Grade II	Endometrioid
+62.59	Post	IVA	NA	Serous
+73.53	Post	IB	Grade III	Endometrioid
+70.36	Post	IB	Grade III	Serous
+68	Post	IIIA	Grade I	Endometrioid
+86.26	Post	IB	Grade III	Endometrioid
+58.12	Pre	IVB	Grade III	Endometrioid
+52.05	Post	IB	Grade I	Endometrioid
+62.8	Post	IA	Grade III	Endometrioid
+72.1	Post	IB	Grade I	Endometrioid
+64.76	Post	IIIA	Grade II	Endometrioid
+38.64	Pre	II	Grade I	Endometrioid
+70.93	Post	IB	Grade I	Endometrioid
+68.39	Post	IB	Grade I	Endometrioid
+59.18	Post	IIIB	Grade III	Squamous
+73.81	Post	IB	Grade III	Endometrioid
+52.6	Post	IA	Grade I	Adenocarcinoma NOS
+88.07	Post	IIIB	Grade I	Endometrioid
+73.79	Post	IIIC	Grade II	Endometrioid
+68.9	Post	NA	NA	NA
+45.31	Post	IIIB	Grade II	Endometrioid
+84.13	Post	IIIB	Grade III	Endometrioid
+64.31	Post	IA	NA	Squamous
+53.49	Post	IA	Grade III	Endometrioid
+71.71	Post	IA	NA	Serous
+65.04	Post	IB	Grade I	Endometrioid
+64.47	Post	IA	Grade III	Small Cell
+84.52	Post	IB	Grade I	Serous
+33.71	Pre	IIIA	Grade II	Endometrioid
+62.32	Post	IA	Grade III	Serous
+74.85	Post	IIIC-2	Grade II	Endometrioid
+70.1	Post	IB	Grade II	Endometrioid
+77.35	Post	IB	Grade I	Endometrioid
+57.26	Post	IIIC-2	Grade II	Endometrioid
+72.57	Post	IA	Grade III	Serous
+62.37	Post	II	Grade II	Mucinous
+62.2	Post	II	Grade III	Carcinosarcoma
+73.94	Post	IB	Grade I	Endometrioid
+73.07	Post	IVB	Grade III	Serous
+60.78	Post	IIIB	Grade II	Endometrioid
+81.01	Post	IB	Grade II	Endometrioid
+66.28	Post	IB	Grade I	Endometrioid
+73.43	Post	IB	Grade II	Endometrioid
+54.84	Post	IIIA	Grade II	Endometrioid
+66.46	Post	IVB	Grade III	Serous
+41.17	Pre	IB	Grade III	Endometrioid
+60.63	Post	IB	NA	Undifferentiated
+58.22	Post	IIIC-1	Grade II	Endometrioid
+66.67	Post	II	Grade II	Endometrioid
+71.83	Post	IB	Grade I	Endometrioid Neuroendocrine
+75.68	Post	NA	Grade III	Serous
+68.81	Post	IB	Grade II	Endometrioid
+61.97	Post	IA	Grade III	Endometrioid
+72	Post	IIIA	Grade II	Endometrioid
+65.02	Post	IA	Grade III	Clear Cell
+59.5	Post	IIIA	Grade I	Endometrioid
+66.96	Post	IB	Grade II	Endometrioid
+57.23	Post	IA	Grade III	Carcinosarcoma
+56.42	Post	IB	Grade I	Endometrioid
+29.99	Pre	IA	Grade III	Endometrioid
+76.47	Post	IA	Grade III	Endometrioid
+52.27	Post	IIIA	Grade I	Endometrioid
+56.65	Post	IB	Grade II	Endometrioid
+58.71	Post	IIIB	Grade II	Endometrioid
+69.49	Post	IB	Grade I	Endometrioid
+58.12	Post	IIIC	Grade II	Endometrioid
+63.18	Post	IIIB	Grade III	Endometrioid
+63.12	Post	IB	Grade III	Endometrioid
+68.57	Post	IA	Grade III	Endometrioid
+76.92	Post	IB	Grade II	Endometrioid
+72.16	Post	IB	Grade I	Endometrioid
+64.02	Post	IB	Grade II	Endometrioid
+50.69	Post	IVB	Grade III	Endometrioid
+95.24	Post	IA	Grade III	Endometrioid
+75.19	Post	IA	Grade III	Clear Cell
+74.64	Post	IIIC	Grade III	Serous
+65.39	Post	IA	Grade III	Endometrioid
+74.5	Post	IB	Grade I	Endometrioid
+67.52	Post	IIIB	NA	Serous
+63.1	Post	IIIB	Grade II	Endometrioid
+82.13	Post	IB	Grade II	Endometrioid
+63.05	Post	IIIC-2	Grade III	Endometrioid
+82.85	Post	IIIA	Grade I	Endometrioid
+60.3	Post	II	Grade II	Endometrioid
+72	Post	IB	Grade III	Squamous
+57.61	Post	II	Grade II	Endometrioid
+60.82	Post	IIIA	Grade III	Endometrioid
+57.47	Post	IB	Grade III	Endometrioid
+74.05	Post	IB	Grade II	Endometrioid
+34.31	Pre	IIIC	Grade III	Endometrioid
+72.4	Post	IA	Grade III	Endometrioid
+75.64	Post	IB	Grade II	Endometrioid
+56.22	Post	II	Grade I	Endometrioid
+69.13	Post	IIIB	Grade III	Serous
+74.24	Post	IA	Grade III	Endometrioid
+72.82	Post	IB	Grade I	Endometrioid
+78.24	Post	IB	Grade I	NA
+37.46	Pre	II	Grade I	Endometrioid
+73.95	Post	IB	Grade II	Endometrioid
+63.4	Post	IVB	Grade III	Serous
+65.02	Post	IB	Grade I	Endometrioid
+85.14	Post	IA	Grade III	Adenocarcinoma NOS
+64.15	Post	IB	Grade II	Endometrioid
+59.79	Post	IB	Grade I	Serous
+50.93	Post	IB	Grade III	Endometrioid
+88.93	Post	IA	Grade III	Endometrioid
+57.67	Post	IA	Grade III	Endometrioid
+69.91	Post	IA	NA	Serous
+71.29	Post	IIIB	Grade III	Clear Cell
+86.46	Post	IB	Grade III	Carcinosarcoma
+61.78	Post	IIIC-1	Grade II	Endometrioid
+64.85	Post	IA	Grade III	Serous
+40.01	Pre	IVB	Grade I	Endometrioid
+49.9	Pre	II	Grade II	Endometrioid
+43.21	Pre	IA	Grade III	Adenocarcinoma NOS
+41.42	Post	IB	Grade I	Endometrioid
+61.19	Post	IIIC-1	Grade III	Serous
+60.29	Post	IB	Grade II	Endometrioid
+70.91	Post	IA	Grade III	Serous
+73.32	Post	IIIA	Grade III	Endometrioid
+67.79	Post	IB	Grade I	Endometrioid
+69.55	Post	II	Grade III	Serous
+72.45	Post	NA	Grade III	Sarcoma
+75.78	Post	IB	Grade II	Endometrioid
+77.07	Post	IA	Grade III	Endometrioid
+58.73	Post	IIIB	Grade I	Endometrioid
+69.73	Post	IA	Grade II	Serous
+68.43	Post	IB	Grade II	Adenocarcinoma NOS
+76.04	Post	IB	Grade I	Endometrioid
+72.46	Post	IA	Grade III	Serous
+68.77	Post	IIIC-2	Grade III	Squamous
+65.87	Post	IB	Grade I	Endometrioid
+73.3	Post	IA	Grade III	Serous
+71.4	Post	IIIC	Grade I	Endometrioid
+64.71	Post	IIIC-1	Grade III	Endometrioid
+64.34	Post	IB	Grade II	Endometrioid
+50.52	Pre	IIIC-2	Grade III	Endometrioid
+69.59	Post	IA	Grade III	Endometrioid
+60.2	Post	IB	Grade II	Endometrioid
+70.93	Post	IB	Grade I	Endometrioid
+83.75	Post	IB	Grade III	Serous
+72.49	Post	IVB	Grade III	Serous
+65.8	Post	IIIA	Grade II	Endometrioid
+65.98	Post	IB	Grade I	Endometrioid
+76.76	Post	IA	Grade III	Serous
+57.4	Post	IB	Grade III	Endometrioid
+70.24	Post	IA	Grade III	Serous
+44.06	Pre	IIIC-2	Grade III	Endometrioid
+65.29	Post	IA	Grade III	Adenocarcinoma NOS
+57.7	Post	IIIA	NA	Serous
+87.14	Post	IB	Grade II	Endometrioid
+61	Post	IVA	Grade III	Serous
+69.16	Post	IIIC	Grade III	Clear Cell
+60.23	Post	NA	NA	NA
+67.72	Post	II	Grade III	Endometrioid
+69.41	Post	IB	Grade III	Endometrioid
+78.52	Post	IA	Grade III	Endometrioid
+60.18	Post	IB	Grade II	Endometrioid
+69.35	Post	NA	NA	NA
+78.96	Post	IA	Grade III	Serous
+70.28	Post	IVB	Grade II	Endometrioid
+55.15	Post	NA	NA	NA
+80.15	Post	IB	Grade II	Endometrioid
+72.53	Post	NA	NA	NA
+69.51	Post	IB	Grade II	Endometrioid
+84.8	Post	IIIA	Grade I	Endometrioid
+66.52	Post	II	Grade III	Serous
+79.83	Post	IA	Grade III	Clear Cell
+56.9	Post	IIIC-1	Grade III	Undifferentiated
+68.32	Post	IIIC-1	Grade II	Endometrioid
+67.78	Post	IB	Grade I	Endometrioid
+85.83	Post	IVB	Grade III	Adenocarcinoma NOS
+53.5	Pre	IIIA	Grade I	Endometrioid
+57.38	Post	IB	Grade II	Endometrioid
+70.21	Post	IIIC-2	Grade III	Serous
+61.32	Post	IA	Grade I	Serous
+62.37	Post	IA	Grade III	Serous
+71.36	Post	NA	NA	NA
+42.39	Pre	II	Grade III	Undifferentiated
+69.73	Post	IIIC-1	Grade III	Serous
+57.79	Post	IA	Grade III	Serous
+74.58	Post	II	Grade II	Endometrioid
+70.89	Post	IB	Grade II	Endometrioid
