@@ -1,0 +1,443 @@
+set	Age	Menopausal status	T stage	N stage	Estrogen receptor status	Progesterone receptor status	HER2 status	Grade	Histology
+Discovery set	40.41	Pre	T2	N3	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	44.03	Pre	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	60.38	Post	T2	N0	Pos	Neg	Neg	Grade II	Invasive Lobular
+Discovery set	53.75	Post	T1	N2	Pos	Pos	Neg	Grade III	Invasive Ductal & Lobular
+Discovery set	51.8	Pre	T2	N2	Pos	Pos	Pos	Grade II	Invasive Ductal & Lobular
+Discovery set	60.38	Post	T1	N1	Pos	Pos	NA	Grade I	Invasive Ductal
+Discovery set	55.55	Post	T2	N3	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	72.14	Post	NA	NA	Neg	Neg	Pos	Grade III	Invasive Ductal
+Discovery set	39.28	Pre	T2	N3	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	45.3	Pre	T3	N0	Pos	Pos	Neg	Grade II	Invasive Ductal & Lobular
+Discovery set	55.13	Post	T1	N1	Pos	Pos	Neg	Grade I	Invasive Ductal
+Discovery set	52.86	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	47.79	Pre	Tis	N	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	47.34	Pre	T2	N2	Pos	Pos	Neg	Grade I	Invasive Ductal
+Discovery set	35.34	Pre	T3	N3	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	53.34	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	36.38	Pre	T1	N2	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	50.91	Pre	T1	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	37.64	Pre	T4	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	55.16	Post	T2	N0	Pos	Pos	Neg	Grade II	NOS
+Discovery set	48.32	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	37.6	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	45.41	Pre	T3	N3	Pos	Pos	Pos	Grade II	Invasive Lobular
+Discovery set	34.27	Pre	T2	NA	Pos	Pos	Neg	Grade III	NOS
+Discovery set	46.87	Pre	T2	N0	Pos	Pos	Neg	Grade II	NOS
+Discovery set	49.96	Pre	T3	N3	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	70.01	Post	T2	N0	Neg	Neg	Neg	Grade II	Invasive Ductal
+Discovery set	72.81	Post	T1	N1	Pos	Neg	Neg	Grade I	Invasive Lobular
+Discovery set	35.2	Pre	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	48.51	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	50	Pre	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	49.35	Pre	T1	N1	Pos	Pos	Pos	Grade I	Invasive Ductal
+Discovery set	34.99	Pre	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	62.16	Post	T2	N0	Neg	Neg	Neg	NA	Invasive Lobular
+Discovery set	41.24	Pre	T2	N2	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	40.79	Pre	T1	N2	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	68.8	Post	T2	N1	Neg	Neg	Pos	Grade III	NOS
+Discovery set	54.61	Post	T2	N3	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	65.43	Post	T1	N1	Pos	Pos	Neg	NA	Invasive Ductal
+Discovery set	66.22	Post	T1	N3	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	37.64	Pre	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	46.19	Pre	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	52.88	Post	T2	N0	Pos	Pos	Neg	Grade I	Invasive Ductal
+Discovery set	60.63	Post	T1	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	52.96	Post	T2	N1	Neg	Neg	Pos	Grade III	NOS
+Discovery set	38.8	Pre	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	78.58	Post	T2	N1	Pos	Pos	Neg	Grade I	NOS
+Discovery set	58.5	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	50.58	Post	T1	N1	Neg	Neg	Pos	Grade III	NOS
+Discovery set	60.58	Post	T1	N0	Pos	Pos	Neg	Grade I	Invasive Ductal
+Discovery set	55.88	Pre	T2	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	45.95	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	52.43	Post	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	49.96	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	43.16	Pre	T1	N1	Pos	Neg	Pos	Grade III	Invasive Ductal
+Discovery set	49.44	Pre	T2	N3	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	54.8	Post	T2	N1	Pos	Pos	Neg	Grade II	NOS
+Discovery set	65.78	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	62.59	Post	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	44.24	Pre	T2	N0	Pos	Pos	Neg	Grade II	NOS
+Discovery set	45.06	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	57.66	Post	T2	N0	Pos	NA	Neg	Grade II	NOS
+Discovery set	56.14	Post	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	70.14	Post	T2	N0	Pos	NA	Neg	Grade II	Invasive Ductal
+Discovery set	76.92	Post	T2	N2	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	65.49	Post	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	69	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Lobular
+Discovery set	68.08	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	68.2	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	47.1	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	50.57	Pre	T1	N3	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	50.86	Pre	T1	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	44.4	Pre	T1	N0	Pos	Neg	Pos	Grade III	Invasive Ductal
+Discovery set	37.83	Pre	T2	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	41.97	Pre	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	44.47	Pre	T1	N2	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	63.61	Post	T1	N1	Pos	Neg	Pos	Grade II	Invasive Ductal
+Discovery set	39.18	Pre	T2	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	79.28	Post	T2	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	65.64	Post	T2	N0	Pos	Pos	Pos	Grade II	Invasive Lobular
+Discovery set	61.45	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	70.2	Post	T2	N0	Pos	Pos	Neg	Grade II	NOS
+Discovery set	50.95	Post	T2	N0	Pos	Pos	Neg	Grade II	NOS
+Discovery set	56.33	Post	NA	NA	Pos	Neg	Pos	Grade III	Invasive Ductal
+Discovery set	43.36	Pre	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	66.12	Post	T2	N0	Pos	Pos	Neg	Grade II	NOS
+Discovery set	30.98	Pre	T2	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	55.93	Post	T1	N0	Pos	Pos	Neg	Grade III	NOS
+Discovery set	44.75	Pre	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	43.95	Pre	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	70.69	Post	T1	N0	Pos	Neg	Pos	Grade III	Invasive Ductal
+Discovery set	70.58	Post	T2	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	49.47	Pre	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	49.08	Post	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal & Lobular
+Discovery set	37.48	Pre	T2	N3	Pos	Neg	Pos	Grade II	Invasive Ductal
+Discovery set	81.91	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	38.99	Pre	T2	N2	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	50.73	Post	T2	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	52.15	Pre	T3	N3	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	71.6	Post	T2	N1	Pos	Neg	Pos	Grade III	Invasive Ductal
+Discovery set	72.41	Post	T2	N2	Pos	Pos	Pos	Grade III	Invasive Ductal & Lobular
+Discovery set	66.12	Post	T1	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	52.64	Post	T3	N3	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	50.19	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	59.21	Post	T1	N2	Pos	Neg	Pos	NA	Invasive Ductal
+Discovery set	58.43	Post	T1	NX	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	48.01	Pre	T2	N1	Pos	Neg	Neg	Grade II	Invasive Ductal & Lobular
+Discovery set	63.21	Post	T1	N0	Neg	Neg	Pos	Grade III	Invasive Ductal
+Discovery set	45.94	Pre	T2	N2	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	44.71	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	67.54	Post	T1	N2	Pos	Pos	Neg	Grade III	Invasive Lobular
+Discovery set	63.89	Post	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	58.98	Post	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	63.24	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	50.87	Pre	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	68.8	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	40.48	Pre	T2	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	52.13	Post	T2	N1	Neg	Neg	Pos	Grade III	Invasive Ductal
+Discovery set	26.86	Pre	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	55.47	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	46.41	Pre	T1	NX	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	57.8	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Lobular
+Discovery set	55.43	Post	T2	N0	Neg	Neg	Pos	Grade I	Invasive Ductal
+Discovery set	50.96	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	66.97	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	55.45	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	44.79	Pre	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	47.21	Pre	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	38.6	Pre	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	40.77	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	57.25	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	38.75	Pre	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal & Lobular
+Discovery set	56.21	Post	T2	N3	Neg	Neg	Pos	Grade III	Invasive Ductal
+Discovery set	35.75	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	55.08	Post	T1	N1	Pos	Pos	Neg	Grade I	Invasive Ductal
+Discovery set	67.08	Post	T1	N1	Pos	Pos	NA	Grade III	Invasive Lobular
+Discovery set	63.53	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	56.43	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	39.32	Pre	T1	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	53.41	Post	T2	N1	Pos	Neg	Neg	Grade II	Invasive Ductal
+Discovery set	50.25	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	44.23	Pre	T2	N2	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	65.29	Post	T2	N2	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	55.33	Post	T2	N1	Pos	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	39.02	Pre	T3	N3	Neg	Neg	Neg	Grade III	Invasive Ductal & Lobular
+Discovery set	59.5	Post	T3	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	59.33	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	44.19	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	70.56	Post	T1	N0	Pos	Neg	Neg	Grade II	Invasive Lobular
+Discovery set	51.54	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	72.8	Post	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	62.45	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	54.32	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	63.26	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	51.87	Post	T2	N0	Pos	Neg	Neg	Grade II	Invasive Ductal
+Discovery set	35.78	Pre	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	73.64	Post	T2	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	53.52	Pre	T1	N1	Pos	Neg	Pos	Grade II	Invasive Ductal
+Discovery set	35.86	Pre	T3	N3	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	61.79	Post	T1	N1	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	46.33	Pre	T2	N3	Pos	Pos	Pos	Grade II	Invasive Lobular
+Discovery set	48.26	Pre	T2	N1	Pos	Neg	Neg	Grade II	Invasive Ductal
+Discovery set	53.63	Pre	T2	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	76.68	Post	T2	N1	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	42.22	Pre	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	54.29	Post	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	32.32	Pre	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	45.45	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	74.77	Post	T1	N1	Pos	Neg	Pos	Grade I	Invasive Ductal
+Discovery set	63.2	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	42.78	Pre	T1	N2	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	47.76	Pre	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	57.53	Post	T1	N1	Pos	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	53.25	Pre	T2	N0	Pos	Neg	Neg	Grade I	Invasive Lobular
+Discovery set	52.54	Pre	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	72.08	Post	T2	N2	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	47.4	Pre	T2	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	41.8	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	44.52	Pre	T2	N1	Pos	Neg	Neg	Grade II	Invasive Ductal & Lobular
+Discovery set	58.52	Post	T2	N0	Pos	Pos	Neg	Grade I	Invasive Ductal
+Discovery set	65.16	Post	T2	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	59.76	Pre	T2	N2	Pos	Pos	Neg	Grade II	Invasive Ductal & Lobular
+Discovery set	57.01	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	48.9	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal & Lobular
+Discovery set	44.26	Pre	T3	N0	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	75.82	Post	T1	N0	Pos	Pos	NA	Grade III	Invasive Lobular
+Discovery set	37.58	Pre	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	57.57	Post	T3	N2	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	48.94	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	61.12	Post	T2	N0	Pos	Neg	Pos	Grade III	Invasive Ductal
+Discovery set	62.83	Post	T1	N3	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	49.92	Pre	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	47.32	Pre	T2	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	50.26	Pre	T2	N3	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	65.42	Post	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	56.43	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	76.02	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	37.09	Pre	T2	N0	Neg	Neg	Pos	Grade III	Invasive Ductal
+Discovery set	50.74	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	35.03	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	70.22	Post	T1	N0	Pos	Neg	Neg	Grade III	Invasive Lobular
+Discovery set	51.24	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	32.75	Pre	T2	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	34.09	Pre	T3	N3	Pos	Neg	Neg	Grade II	Invasive Ductal
+Discovery set	57.23	Post	T2	N0	Pos	Pos	Pos	Grade III	Invasive Lobular
+Discovery set	49.72	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	51.1	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	75.3	Post	T2	N2	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	68.9	Post	T2	N1	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	62.25	Post	T2	N0	Pos	Neg	Neg	Grade II	Invasive Lobular
+Discovery set	49.85	Pre	T2	N2	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	64.24	Post	T2	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	45.7	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	64.44	Post	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	42.53	Pre	T2	N1	Neg	Neg	Pos	Grade III	Invasive Ductal
+Discovery set	44.75	Pre	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	62.67	Post	T2	N0	Pos	Pos	Neg	Grade I	Invasive Ductal
+Discovery set	76.93	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	58.65	Post	T3	N0	Pos	Pos	Pos	Grade III	Invasive Lobular
+Discovery set	67.58	Post	T2	N1	Neg	Neg	Neg	Grade III	Invasive Lobular
+Discovery set	53.87	Post	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	59.02	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Lobular
+Discovery set	54.98	Post	T2	N1	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	61.57	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Lobular
+Discovery set	44.89	Pre	T3	N1	Pos	Pos	Neg	Grade III	Invasive Lobular
+Discovery set	67.9	Post	T1	N1	Pos	Neg	Neg	Grade II	Invasive Lobular
+Discovery set	65.1	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	66.11	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	56.44	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	37.05	Pre	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	37.91	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	44.07	Pre	T1	N0	Neg	Neg	Pos	Grade III	Invasive Ductal
+Discovery set	43.35	Pre	T2	N0	Pos	Pos	Pos	Grade III	Invasive Lobular
+Discovery set	43.88	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	45.24	Pre	T2	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	47.94	Pre	T2	NX	Pos	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	61.44	Post	T2	N0	Pos	Pos	Neg	Grade I	Invasive Ductal
+Discovery set	77.59	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	40.94	Pre	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	35.41	Pre	T2	N3	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	50.45	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	43.39	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	56.54	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	72.46	Post	T3	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	51.03	Pre	T2	N0	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	64.45	Post	T4	N0	Pos	Pos	Neg	Grade III	Invasive Lobular
+Discovery set	68.55	Post	T1	N1	NA	NA	Neg	Grade III	NOS
+Discovery set	47.78	Pre	T1	N0	Pos	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	58.89	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	47.05	Pre	T2	NA	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	65.06	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	41.87	Pre	T2	N0	Pos	Pos	Pos	Grade II	NOS
+Discovery set	62.93	Post	T2	N0	Neg	Neg	Pos	Grade III	Invasive Ductal
+Discovery set	49.18	Pre	T2	N1	Neg	Neg	Pos	Grade III	Invasive Ductal
+Discovery set	63.04	Post	T2	N0	Pos	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	52.48	Pre	T2	N0	Pos	Pos	Neg	Grade III	NOS
+Discovery set	60.68	Post	T3	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	38.53	Pre	T2	N0	Neg	Neg	Neg	Grade II	Invasive Ductal
+Discovery set	67.04	Post	T2	N0	Pos	Neg	Neg	Grade II	NOS
+Discovery set	57.02	Post	T2	N2	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	61.09	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	42.38	Pre	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	40.1	Pre	T1	N0	Neg	Neg	Pos	Grade III	Invasive Ductal
+Discovery set	71.88	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	47.83	Pre	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	61.69	Post	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	49.76	Pre	T2	N2	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	52.46	Pre	T2	N0	Pos	Pos	Pos	Grade I	Invasive Lobular
+Discovery set	41.72	Pre	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	68.09	Post	T2	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	66.98	Post	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	51.24	Pre	T3	N2	Pos	Pos	Pos	Grade I	Invasive Lobular
+Discovery set	66.11	Post	T1	N1	Neg	Neg	Pos	Grade II	NOS
+Discovery set	74.16	Post	T1	N1	Pos	Pos	Neg	Grade I	Invasive Lobular
+Discovery set	48.95	Pre	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	57.24	Post	T3	N2	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	45.81	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	50.88	Pre	T3	N2	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	51.63	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	50.1	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	46.47	Pre	T2	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	73.08	Post	T2	N2	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	48.29	Pre	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	45.31	Pre	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	41.8	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	54.77	Post	T1	N2	Pos	Pos	Neg	Grade II	NOS
+Discovery set	50.19	Pre	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	45.87	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	69.46	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	62.79	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Lobular
+Discovery set	47.45	Pre	T2	N0	Pos	Pos	Neg	Grade II	NOS
+Discovery set	64.98	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	46.45	Pre	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	60.03	Post	T3	N0	Pos	Pos	Neg	Grade II	Invasive Lobular
+Discovery set	51.85	Pre	T2	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	40.85	Pre	T1	N2	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	72.43	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	66.87	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	47.92	Pre	T2	N0	Pos	Neg	Neg	Grade I	Invasive Lobular
+Discovery set	48.46	Pre	T2	N1	Neg	Neg	Pos	Grade III	Invasive Ductal
+Discovery set	42.22	Pre	T1	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	53.91	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	25.67	Pre	T2	N1	Neg	Neg	Pos	Grade III	Invasive Ductal
+Discovery set	65.67	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	73.91	Post	T2	N1	Pos	Pos	NA	Grade III	Invasive Ductal
+Discovery set	44.8	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	45.63	Pre	T2	N1	Pos	Pos	Neg	Grade II	NOS
+Discovery set	55.81	Post	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	60.7	Post	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	58.02	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	61.31	Post	T2	N0	Neg	Neg	Pos	Grade III	Invasive Ductal
+Discovery set	20.77	Pre	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	47.85	Pre	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	50.4	Pre	T1	N1	Pos	Pos	Pos	Grade I	Invasive Ductal
+Discovery set	49.51	Post	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	74.83	Post	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+Discovery set	50.52	Pre	T2	N1	Pos	Neg	Neg	Grade II	Invasive Ductal
+Discovery set	46.57	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	67.01	Post	T1	N0	Pos	Neg	Pos	Grade III	Invasive Ductal
+Discovery set	50.58	Pre	T2	N0	Pos	Pos	Neg	Grade I	Invasive Ductal
+Discovery set	60.42	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	71.17	Post	T2	N0	Neg	Neg	Pos	Grade III	Invasive Ductal
+Discovery set	68.94	Post	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	49.58	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	46.21	Pre	T2	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
+Discovery set	34.56	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+Discovery set	44.29	Pre	T2	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
+Discovery set	59.99	Post	T2	N2	Pos	Pos	Neg	Grade III	Invasive Ductal
+Discovery set	48.92	Pre	T1	NX	Pos	Pos	Neg	Grade III	Invasive Ductal
+External validation	58.62966	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+External validation	34.69592	Pre	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+External validation	71.35515	Post	T1	N2	Pos	Pos	Neg	Grade II	Invasive Ductal
+External validation	57.6226	Post	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
+External validation	62.53164	Post	T1	N0	Pos	Neg	Neg	Grade III	Invasive Ductal
+External validation	26.40293	Pre	T2	N0	Neg	Neg	Neg	Grade II	Invasive Ductal
+External validation	51.57415	Post	T1	N0	Neg	Neg	Pos	Grade III	Invasive Ductal
+External validation	60.78201	Post	T3	N3	Pos	Pos	Neg	Grade II	Invasive Lobular
+External validation	49.70747	Pre	T2	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+External validation	44.90771	Pre	T1	N0	Pos	Neg	Pos	Grade III	Invasive Ductal
+External validation	44.03726	Pre	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+External validation	76.53018	Post	T4	N2	Pos	Pos	Neg	Grade II	Invasive Lobular
+External validation	41.23352	Pre	Tis	NX	NA	NA	NA	Grade II	LIN-2
+External validation	43.75275	Pre	T2	N1	Pos	Pos	Pos	Grade III	Invasive Lobular
+External validation	65.07478	Post	T1	N0	Pos	Neg	Pos	Grade III	Invasive Ductal
+External validation	64.79022	Post	T1	N1	Pos	Pos	Pos	Grade I	Invasive Ductal
+External validation	70.62744	Post	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+External validation	68.73782	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+External validation	71.47841	Post	T3	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
+External validation	41.71248	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+External validation	43.94428	Pre	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
+External validation	39.17489	Pre	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+External validation	44.17974	Pre	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
+External validation	45.90178	Pre	T2	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+External validation	63.4761	Post	T3	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
+External validation	50.50375	Post	T1	N1	Neg	Neg	Pos	Grade III	Invasive Ductal
+External validation	56.18234	Post	T1	N1	Pos	Neg	Neg	Grade I	Invasive Ductal
+External validation	46.93402	Pre	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+External validation	27.14201	Pre	T2	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
+External validation	47.84795	Pre	T3	N2	Pos	Pos	Pos	Grade II	Invasive Ductal
+External validation	48.37677	Pre	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
+External validation	31.68144	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+External validation	39.52537	Pre	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+External validation	51.56089	Pre	T2	N1	Pos	Pos	Pos	Grade II	Invasive Ductal & Lobular
+External validation	49.53227	Pre	T2	N0	Neg	Neg	Pos	Grade II	Invasive Ductal
+External validation	51.06774	Post	T2	N0	Pos	Pos	Neg	Grade I	Invasive Ductal
+External validation	50.22721	Pre	T2	N0	Pos	Neg	Pos	Grade III	Invasive Ductal
+External validation	63.51395	Post	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
+External validation	72.85318	Post	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+External validation	50.39969	Pre	T2	N1	Pos	Neg	Pos	Grade III	Invasive Ductal
+External validation	50.41887	Pre	T3	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
+External validation	54.44071	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+External validation	73.51817	Post	T2	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
+External validation	46.00811	Pre	T2	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
+External validation	68.13835	Post	T2	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
+External validation	66.9011	Post	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+External validation	38.05789	Pre	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+External validation	74.21949	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+External validation	67.64534	Post	T2	N3	Pos	Pos	Pos	Grade III	Invasive Ductal
+External validation	31.90859	Pre	T1	N1	Pos	Neg	Neg	Grade III	Invasive Ductal
+External validation	50.99964	Post	T3	NA	Pos	NA	Neg	Grade II	Invasive Ductal & Lobular
+External validation	61.11341	Post	T2	N0	NA	NA	Neg	Grade II	Invasive Ductal
+External validation	58.81627	Post	T3	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+External validation	48.76291	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
+External validation	39.76082	Pre	T2	N2	Pos	Pos	Neg	Grade II	Invasive Ductal
+External validation	38.05803	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+External validation	49.89	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+External validation	44.47806	Pre	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
+External validation	51.39911	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+External validation	64.51922	Post	T2	N1	Neg	Neg	Neg	Grade III	Invasive Ductal
+External validation	67.06765	Post	T2	N1	Pos	Neg	Neg	Grade III	Invasive Ductal
+External validation	51.0733	Pre	T1	N2	Pos	Pos	Neg	Grade III	Invasive Ductal
+External validation	54.32592	Pre	T3	N2	Pos	Pos	Pos	Grade I	Invasive Ductal & Lobular
+External validation	45.26654	Pre	T1	N2	Pos	Neg	Neg	Grade II	Invasive Ductal
+External validation	55.74126	Pre	T2	N0	Pos	Pos	Pos	Grade I	Invasive Ductal
+External validation	43.11197	Pre	T3	N3	Pos	Pos	Pos	Grade II	Invasive Lobular
+External validation	54.93644	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal & Lobular
+External validation	49.09367	Pre	T1	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
+External validation	34.44383	Pre	T1	N2	Pos	Pos	Pos	Grade II	Invasive Ductal
+External validation	53.92635	Post	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+External validation	63.99327	Post	T2	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
+External validation	46.06049	Pre	T1	N1	Pos	Pos	Neg	Grade I	Invasive Ductal
+External validation	63.59882	Post	T2	N3	Pos	Pos	Pos	Grade III	Invasive Ductal
+External validation	42.90634	Pre	T2	N0	Pos	Pos	Neg	Grade I	Invasive Ductal
+External validation	73.56206	Post	T1	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
+External validation	72.71077	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Lobular
+External validation	67.4402	Post	T1	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
+External validation	65.04718	Post	T3	N1	Neg	Neg	Pos	Grade III	Invasive Ductal
+External validation	55.80458	Post	T2	N0	Neg	Neg	Neg	Grade III	METEPLASTIC CARCINOMA
+External validation	71.71928	Post	T1	N0	Pos	Neg	Pos	Grade III	NOS
+External validation	63.07586	Post	T2	N2	Pos	Pos	Neg	Grade II	Invasive Ductal & Lobular
+External validation	45.61705	Pre	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+External validation	56.99834	Post	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
+External validation	58.34487	Post	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
+External validation	51.85106	Pre	T2	N2	Pos	Pos	Neg	Grade II	Invasive Ductal
+External validation	49.06125	Pre	T2	N2	Pos	Pos	Neg	Grade III	Invasive Lobular
+External validation	33.41451	Pre	T2	N2	Pos	Pos	Pos	Grade III	Invasive Ductal
+External validation	64.89971	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+External validation	62.40002	Post	T2	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
+External validation	45.67456	Post	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+External validation	63.71658	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+External validation	43.70889	Pre	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
+External validation	43.26205	Pre	T3	N3	Neg	Neg	Pos	Grade III	Invasive Ductal
+External validation	47.69465	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+External validation	57.23063	Post	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+External validation	64.6668	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
+External validation	53.36477	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+External validation	47.194	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+External validation	69.67437	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Lobular
+External validation	45.73439	Pre	T2	N2	Pos	Pos	Pos	Grade III	Invasive Ductal
+External validation	56.28652	Pre	T2	N1	Pos	Pos	Pos	Grade II	Invasive Ductal & Lobular
+External validation	49.48791	Pre	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
+External validation	24.67	Pre	T2	N0	Pos	NA	Pos	Grade II	Invasive Ductal
+External validation	51.14439	Pre	T3	N0	Pos	Pos	Pos	Grade II	Invasive Lobular
+External validation	47.41819	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+External validation	50.52328	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
+External validation	61.19227	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
+External validation	49.82511	Post	T1	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
+External validation	47.94689	Pre	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
+External validation	84.57955	Post	T2	N0	Pos	Pos	Neg	Grade I	Invasive Ductal
+External validation	75.32521	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Lobular
+External validation	59.71385	Post	T1	N2	Pos	Pos	Neg	Grade III	Invasive Ductal
+External validation	42.13146	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal

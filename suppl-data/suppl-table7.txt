@@ -1,540 +1,218 @@
-type	Age	Age at menarche	Parity	Age at first child live birth	Menopausal status	Age at menopause	Oral contraceptive use	Hormone replacement therapy	Smoking	First degree relatives with ovarian cancer
-Control	39.35	13	2	34	Pre	NA	No	No	No	0
-Control	46.21	14	0	NA	Pre	NA	No	No	No	0
-Control	53.13	13	3	20	Post	52	No	No	No	0
-Control	42.84	13	3	37	Pre	NA	Yes	No	No	0
-Cancer	52.19	11	0	NA	Post	51	No	No	No	0
-Control	53.85	13	0	NA	Post	48	No	No	No	0
-Control	42.28	14	1	43	Pre	NA	No	No	No	0
-Cancer	64.26	13	3	21	Post	53	No	No	No	0
-Control	55.96	11	2	29	Post	53	No	No	No	0
-Cancer	39.46	12	0	NA	Pre	NA	No	No	Yes	0
-Control	60.6	14	4	23	Post	54	No	No	No	0
-Control	42.09	13	3	24	Pre	NA	No	No	No	0
-Control	32.89	13	0	NA	Pre	NA	No	No	No	0
-Control	54.87	14	0	NA	Post	NA	No	No	No	0
-Cancer	46.5	11	0	NA	Pre	NA	No	No	No	0
-Cancer	58.95	14	2	20	Post	48	No	No	No	0
-Cancer	50.47	14	3	29	Post	50	NA	No	No	0
-Control	38.44	15	2	33	Pre	NA	No	No	No	0
-Control	35.86	14	1	34	Pre	NA	No	No	No	0
-Cancer	54.67	12	1	24	Post	54	No	No	No	0
-Cancer	58.63	15	2	21	Post	51	No	No	No	0
-Cancer	72.54	13	1	23	Post	50	No	No	No	0
-Cancer	73.98	15	2	23	Post	50	No	No	No	0
-Cancer	49.87	12	1	39	Pre	NA	No	No	No	0
-Control	63.85	12	3	36	Post	53	No	No	No	0
-Control	65.87	14	2	27	Post	51	Yes	No	No	1
-Cancer	66.98	11	2	25	Post	40	No	No	No	0
-Control	43.04	12	0	NA	Pre	NA	Yes	No	No	0
-Cancer	67.89	15	2	24	Post	50	No	No	No	0
-Control	31.59	14	0	NA	Pre	NA	No	No	No	0
-Control	55.79	18	1	32	Post	53	No	No	No	0
-Cancer	52.91	11	1	28	Post	52	No	No	Yes	0
-Cancer	46.08	13	5	42	Pre	NA	No	No	No	0
-Control	38.78	12	2	35	Pre	NA	No	No	No	0
-Control	39.58	11	2	37	Pre	NA	No	No	No	0
-Cancer	70.59	14	4	22	Post	45	No	No	No	0
-Control	31.01	11	0	NA	Pre	NA	Yes	No	Yes	0
-Cancer	69.64	14	2	23	Post	55	No	No	No	0
-Control	34.25	12	0	NA	Pre	NA	No	No	No	0
-Control	33.84	13	0	NA	Pre	NA	No	No	No	0
-Control	45.38	16	2	41	Pre	NA	No	No	No	0
-Control	40.97	14	3	34	Pre	NA	No	No	No	0
-Control	56.27	13	2	27	Post	54	No	Yes	No	0
-Cancer	52.72	15	2	25	Pre	NA	No	No	No	0
-Control	32.51	14	0	NA	Pre	NA	Yes	No	No	0
-Control	49.74	12	2	32	Post	47	No	No	No	0
-Cancer	78.88	13	3	28	Post	48	No	No	No	0
-Control	36.14	11	0	NA	Pre	NA	Yes	No	No	0
-Control	33.74	14	1	34	Pre	NA	No	No	No	0
-Control	42.33	12	1	35	Pre	NA	No	No	No	0
-Control	63.12	12	3	27	Post	58	No	No	No	1
-Cancer	48.73	12	1	35	Pre	NA	No	No	No	0
-Cancer	44.9	11	0	NA	Pre	NA	No	No	Yes	0
-Control	33.04	14	2	30	Pre	NA	No	No	No	0
-Control	39.52	13	2	35	Pre	NA	No	No	No	0
-Cancer	55.35	13	1	29	Post	49	No	No	No	0
-Control	32.56	11	0	NA	Pre	NA	Yes	No	No	0
-Control	40.74	14	2	34	Pre	NA	Yes	No	No	0
-Cancer	81.99	13	2	23	Post	51	No	No	No	0
-Control	50.75	12	2	27	Post	46	No	No	No	0
-Control	44.11	13	1	NA	Pre	NA	No	No	No	0
-Control	38.94	15	2	33	Pre	NA	No	No	No	0
-Cancer	24.29	12	0	NA	Pre	NA	Yes	No	No	0
-Control	42.68	14	0	NA	Pre	NA	No	No	No	0
-Control	66.98	13	2	24	Post	49	No	No	No	1
-Control	55.89	14	7	30	Post	55.88961	NA	No	No	0
-Cancer	56.55	13	0	NA	Post	51	No	No	No	0
-Control	49.77	11	2	41	Pre	NA	No	No	No	0
-Control	50.6	13	0	NA	Post	49	No	No	Yes	0
-Control	35.83	10	0	NA	Pre	NA	No	No	No	0
-Cancer	52.86	13	0	NA	Pre	NA	No	No	No	0
-Control	31.08	12	0	NA	Pre	NA	Yes	No	No	0
-Cancer	68.74	16	1	21	Post	51	No	No	No	0
-Control	36.2	11	1	35	Pre	NA	No	No	Yes	0
-Cancer	33.61	14	1	35	Pre	NA	No	No	No	0
-Control	51.8	14	3	21	Post	49	No	No	Yes	0
-Control	56.52	11	0	NA	Post	55	No	No	No	0
-Control	72.38	10	1	28	Post	47	No	No	No	0
-Cancer	42.83	12	1	44	Pre	NA	No	No	No	0
-Cancer	62.42	12	2	27	Post	52	No	No	No	0
-Cancer	63.54	15	1	35	Post	43	No	No	No	0
-Control	30.95	14	0	NA	Pre	NA	NA	No	No	0
-Cancer	40.91	13	0	NA	Pre	NA	No	No	No	0
-Cancer	60.88	13	2	NA	Post	50	No	No	No	0
-Cancer	42.65	13	2	21	Pre	NA	No	No	No	0
-Control	42.09	13	0	NA	Pre	NA	No	No	Yes	0
-Cancer	63.68	13	0	NA	Post	50	No	No	Yes	0
-Control	41.11	12	1	40	Pre	NA	No	No	No	0
-Control	35.21	11	1	34	Pre	NA	Yes	No	No	0
-Control	60.34	11	1	33	Post	51	No	No	No	0
-Cancer	69.4	12	3	26	Post	49	No	No	No	0
-Control	50.47	14	2	35	Pre	NA	No	No	No	0
-Cancer	72.22	14	3	24	Post	50	No	No	Yes	0
-Control	43.52	13	1	35	Pre	NA	No	No	No	0
-Control	68.03	14	3	25	Post	50	No	No	No	0
-Control	31.16	13	0	NA	Pre	NA	Yes	No	No	0
-Control	72.57	12	4	22	Post	50	No	No	Yes	0
-Cancer	57	14	2	26	Post	53	No	No	No	0
-Control	43.81	14	1	31	Pre	NA	No	No	No	0
-Cancer	47.22	13	0	NA	Pre	NA	No	No	No	0
-Control	66.13	15	2	27	Post	55	No	No	No	0
-Cancer	64.77	14	2	NA	Post	48	No	No	No	0
-Cancer	44.27	12	2	19	Post	38	No	No	No	0
-Control	63.25	12	3	25	Post	50	No	No	No	0
-Cancer	47.43	13	2	42	Pre	NA	No	No	No	1
-Control	54.71	10	1	25	Post	54	No	No	No	0
-Cancer	26.63	9	NA	NA	Pre	NA	NA	No	No	0
-Cancer	67.01	12	0	NA	Post	NA	No	No	No	0
-Cancer	47.12	12	2	27	Pre	NA	No	No	No	0
-Cancer	19.88	13	0	NA	Pre	NA	Yes	No	No	0
-Cancer	53.38	15	0	NA	Post	52	No	No	No	0
-Control	58.75	12	0	NA	Post	55	No	Yes	No	0
-Cancer	53.89	15	3	32	Post	52	No	No	No	0
-Control	38.08	12	2	25	Pre	NA	No	No	No	0
-Cancer	56.96	13	0	NA	Post	47	No	No	Yes	0
-Control	38.73	13	1	NA	Pre	NA	No	No	Yes	0
-Control	41.79	12	0	NA	Pre	NA	No	No	No	0
-Cancer	43.91	13	3	24	Pre	NA	No	No	No	0
-Control	46.75	11	5	24	Pre	NA	No	No	No	0
-Control	69	13	1	27	Post	55	No	No	No	0
-Control	41.72	13	0	NA	Pre	NA	NA	No	No	0
-Cancer	44.79	15	2	39	Pre	NA	Yes	No	Yes	0
-Cancer	58.13	16	2	30	Post	46	No	No	No	0
-Control	49.3	12	5	44	Post	47	No	No	No	0
-Control	59.84	13	3	26	Post	55	NA	No	No	0
-Cancer	68.82	12	2	27	Post	52	No	No	No	0
-Cancer	61.31	13	2	21	Post	50	No	No	Yes	0
-Cancer	57.72	11	0	NA	Post	47	No	No	No	0
-Control	42.45	12	1	38	Pre	NA	No	No	No	0
-Control	50.24	11	3	47	Pre	NA	No	Yes	No	0
-Cancer	61.17	11	3	27	Post	50	No	No	No	0
-Cancer	60.45	12	1	30	Post	49	No	No	Yes	0
-Control	40.8	13	1	25	Pre	NA	No	No	No	0
-Control	26.02	13	0	NA	Pre	NA	No	No	No	0
-Cancer	73.92	10	2	26	Post	NA	No	No	No	0
-Cancer	71.22	17	3	23	Post	55	No	No	No	0
-Control	61.12	13	2	37	Post	55	No	No	Yes	0
-Control	72.26	10	0	NA	Post	44	No	No	Yes	0
-Control	58.09	13	3	33	Post	53	NA	No	No	0
-Cancer	63.24	14	3	24	Post	53	No	No	No	0
-Cancer	74.46	11	2	27	Post	56	No	No	No	0
-Cancer	58.75	9	3	30	Post	54	No	No	Yes	0
-Cancer	50.72	14	4	23	Pre	NA	No	No	No	0
-Control	60.05	12	1	29	Post	50	No	No	No	0
-Control	70.28	13	2	23	Post	58	No	No	No	0
-Control	45.61	17	1	40	Pre	NA	No	No	No	0
-Control	68.27	13	0	NA	Post	55	No	No	No	0
-Cancer	67.72	16	2	25	Post	52	No	No	No	0
-Cancer	55.6	13	2	25	Post	50	No	No	No	0
-Control	63.14	12	3	21	Post	50	No	Yes	No	0
-Control	40.52	16	0	NA	Pre	NA	NA	No	NA	0
-Cancer	71.66	15	2	24	Post	55	No	No	No	0
-Cancer	47.24	15	0	NA	Post	NA	No	No	No	0
-Control	40.99	11	0	NA	Pre	NA	No	No	No	0
-Cancer	64.77	17	3	23	Post	55	No	No	No	0
-Control	61.3	12	1	36	Post	44	No	Yes	No	0
-Cancer	77.35	15	2	36	Post	50	No	No	No	1
-Control	65.21	12	2	24	Post	48	No	No	Yes	0
-Cancer	60.02	13	3	18	Post	NA	No	No	Yes	0
-Control	67.96	12	2	30	Post	50	No	No	No	0
-Cancer	65.25	15	2	23	Post	50	No	No	No	0
-Cancer	52.81	13	0	NA	Pre	NA	No	No	No	0
-Cancer	58.87	11	2	25	Post	50	No	No	No	1
-Cancer	60.47	13	1	26	Post	39	No	No	No	0
-Control	34.34	11	1	33	Pre	NA	No	No	No	0
-Control	39.33	14	2	30	Pre	NA	No	No	No	0
-Control	53.41	13	0	NA	Post	52	No	Yes	No	0
-Control	49.55	12	0	NA	Post	47	No	No	No	0
-Control	39.21	14	0	NA	Pre	NA	No	No	Yes	0
-Control	53.56	15	2	23	Post	52	No	Yes	No	0
-Cancer	72.04	12	5	24	Post	NA	No	No	Yes	0
-Cancer	51.81	16	0	NA	Post	52	No	No	Yes	0
-Control	37.64	14	0	NA	Pre	NA	No	No	No	0
-Control	73.87	11	3	29	Post	50	No	No	No	0
-Cancer	74.35	14	4	35	Post	53	No	No	No	0
-Cancer	74.78	14	2	33	Post	45	No	No	No	0
-Control	36.31	11	1	36	Pre	NA	No	No	No	0
-Cancer	56.95	10	0	NA	Post	54	No	No	No	0
-Control	42.8	14	0	NA	Pre	NA	No	No	No	0
-Control	40.67	13	0	NA	Pre	NA	No	No	No	0
-Control	43.64	11	2	30	Pre	NA	No	No	No	0
-Cancer	58.49	11	2	19	Post	54	No	No	No	0
-Cancer	74.44	12	3	33	Post	NA	No	No	No	0
-Cancer	69.29	13	2	28	Post	50	No	No	No	0
-Cancer	54.27	14	0	NA	Post	53	No	No	No	0
-Cancer	61.64	13	2	22	Post	53	No	No	No	0
-Cancer	66.53	15	2	27	Post	45	No	No	No	0
-Control	36.03	12	1	34	Pre	NA	No	No	No	0
-Cancer	62.24	14	2	24	Post	50	No	No	No	0
-Control	51.61	14	3	25	Pre	NA	No	No	No	0
-Cancer	55.89	10	3	31	Post	54	No	No	No	1
-Control	36.9	13	1	33	Pre	NA	No	No	No	0
-Cancer	73.72	13	2	24	Post	NA	No	No	No	0
-Cancer	41.51	13	2	38	Pre	NA	No	No	No	0
-Control	40.43	12	1	35	Pre	NA	No	No	No	0
-Control	37.29	13	1	34	Pre	NA	No	No	No	0
-Cancer	52.26	14	2	27	Post	51	No	No	No	0
-Cancer	41.58	10	1	29	Pre	NA	No	No	No	0
-Cancer	59.77	17	0	NA	Post	58	No	No	No	1
-Cancer	51.78	13	2	34	Pre	NA	Yes	No	No	0
-Control	80.77	16	3	21	Post	46	No	No	No	0
-Cancer	72.27	16	3	25	Post	60	No	No	No	0
-Control	37.48	13	2	35	Pre	NA	No	No	No	0
-Control	38.23	11	2	21	Pre	NA	No	No	Yes	0
-Cancer	59.22	11	1	41	Post	52	No	No	Yes	0
-Control	31.13	14	0	NA	Pre	NA	No	No	No	0
-Cancer	60.41	15	2	27	Post	45	No	No	No	0
-Control	41.58	13	1	36	Pre	NA	Yes	No	No	0
-Cancer	86.58	14	1	23	Post	46	No	No	No	0
-Control	40.54	12	1	37	Pre	NA	No	No	No	0
-Control	58.43	14	4	24	Post	56	No	No	No	0
-Control	31.58	12	0	NA	Pre	NA	Yes	No	Yes	0
-Control	70.63	14	0	NA	Post	48	Yes	No	No	0
-Cancer	72.7	14	3	31	Post	48	No	No	No	0
-Control	47.46	14	1	43	Pre	NA	No	No	No	0
-Cancer	48.32	14	3	33	Pre	NA	No	No	No	0
-Control	45.88	9	2	32	Pre	NA	No	Yes	No	0
-Control	32.9	12	0	NA	Pre	NA	No	No	No	0
-Cancer	56.17	12	0	NA	Post	49	No	No	No	0
-Control	34.72	12	0	NA	Pre	NA	No	No	No	0
-Control	35	14	0	NA	Pre	NA	No	No	No	0
-Cancer	60.83	11	1	33	Post	50	No	No	No	0
-Cancer	51.89	NA	NA	NA	Pre	NA	NA	NA	No	0
-Control	29.93	12	1	32	Pre	NA	No	NA	Yes	0
-Cancer	38.9	10	1	40	Pre	NA	No	No	No	1
-Cancer	42.85	13	0	NA	Pre	NA	No	No	No	0
-Cancer	69.64	12	1	23	Post	53	No	No	No	0
-Control	61.08	11	2	31	Post	46	No	No	No	0
-Cancer	58.78	11	3	27	Post	NA	No	No	No	0
-Control	57.26	15	0	NA	Post	NA	No	Yes	No	0
-Control	50.91	14	3	28	Post	NA	No	No	No	0
-Cancer	58.06	12	2	22	Post	45	No	No	No	0
-Control	55.42	14	4	26	Post	NA	No	No	No	0
-Control	46.26	12	2	28	Pre	NA	No	No	No	0
-Cancer	62.46	13	4	26	Post	52	No	No	No	0
-Cancer	61.07	15	2	23	Post	55	No	No	Yes	0
-Cancer	63.78	12	2	28	Post	50	No	No	No	0
-Control	52.79	16	2	28	Post	NA	No	No	No	0
-Cancer	68.06	11	0	NA	Post	42	No	No	Yes	0
-Control	64.29	12	2	29	Post	NA	No	No	No	0
-Control	50.68	15	0	NA	Pre	NA	No	No	No	0
-Control	39.7	13	2	34	Pre	NA	No	No	No	0
-Control	31.07	13	0	NA	Pre	NA	Yes	No	No	0
-Control	50.37	11	2	46	Post	49	No	No	No	0
-Control	62.61	14	3	28	Post	NA	No	No	No	0
-Control	37.3	15	0	NA	Pre	NA	No	No	No	0
-Cancer	58.53	10	0	NA	Post	50	No	No	No	0
-Control	46.94	13	2	41	Pre	NA	No	No	No	0
-Control	42.81	12	2	36	Pre	NA	No	No	No	0
-Control	43.62	11	2	40	Pre	NA	No	No	No	0
-Control	45.19	15	2	39	Pre	NA	No	No	No	0
-Cancer	34.61	12	0	NA	Pre	NA	No	No	No	0
-Cancer	53.02	11	0	NA	Post	51	NA	No	NA	1
-Cancer	73.67	13	1	21	Post	50	No	No	No	0
-Cancer	42.58	13	2	20	Pre	NA	No	No	No	0
-Cancer	73.43	14	3	21	Post	47	No	No	No	0
-Cancer	66.37	12	1	29	Post	42	No	No	No	0
-Cancer	57.02	13	0	NA	Post	54	No	No	No	0
-Control	63.69	14	2	28	Post	NA	No	No	No	0
-Cancer	80.14	14	0	NA	Post	53	No	No	No	0
-Cancer	61.22	13	2	22	Post	50	No	No	No	0
-Cancer	62.31	13	2	27	Post	49	No	No	No	0
-Control	51.91	13	0	NA	Pre	NA	No	No	No	0
-Control	53.13	13	2	34	Pre	NA	No	No	No	0
-Control	61.16	13	2	35	Post	NA	No	No	No	0
-Cancer	78.4	11	2	44	Post	56	No	No	No	0
-Cancer	59.27	16	1	39	Post	54	No	No	No	0
-Control	54.54	11	0	NA	Pre	NA	No	Yes	No	0
-Control	34.38	13	0	NA	Pre	NA	No	No	No	0
-Cancer	65.41	14	2	24	Post	50	No	No	Yes	0
-Cancer	55.09	16	2	23	Post	50	No	No	No	0
-Cancer	30.78	13	0	NA	Pre	NA	No	No	No	0
-Control	41.39	14	0	NA	Pre	NA	No	No	No	0
-Control	34.07	12	2	30	Pre	NA	No	No	No	0
-Control	63.73	14	2	24	Post	NA	No	No	No	0
-Cancer	73.98	13	0	NA	Post	45	No	No	No	0
-Cancer	61.78	13	1	23	Post	50	No	No	No	0
-Control	55.86	11	1	28	Post	NA	No	No	No	0
-Cancer	53.34	17	0	NA	Post	52	No	No	No	0
-Cancer	61.17	14	2	26	Post	52	No	No	No	0
-Cancer	59.85	15	2	25	Post	59	No	No	No	0
-Control	35.85	12	1	36	Pre	NA	No	No	No	0
-Cancer	66.8	14	1	39	Post	40	No	No	No	0
-Cancer	52.07	17	1	42	Post	51	No	No	No	0
-Cancer	51.49	13	0	NA	Pre	NA	Yes	No	No	0
-Cancer	42.36	11	3	37	Pre	NA	No	No	No	1
-Control	70.97	12	2	32	Post	NA	No	No	No	0
-Cancer	64.11	12	1	36	Post	50	No	No	NA	0
-Control	75.59	14	3	24	Post	50	No	No	No	0
-Cancer	65.53	9	2	26	Post	40	Yes	No	No	0
-Cancer	46.28	13	2	27	Pre	NA	No	No	No	0
-Control	55.23	12	2	26	Post	NA	No	No	No	0
-Cancer	56.52	12	0	NA	Post	50	No	No	No	0
-Control	50.58	10	1	24	Post	NA	Yes	No	No	0
-Cancer	60.81	11	3	29	Post	50	No	No	No	0
-Control	75.49	17	2	32	Post	49	No	No	No	0
-Cancer	69.29	14	3	23	Post	45	No	No	No	0
-Control	50.31	13	2	34	Pre	NA	Yes	No	No	0
-Control	50.21	15	2	35	Post	47	No	No	No	0
-Control	50.51	13	0	NA	Pre	NA	No	No	No	0
-Cancer	68.69	11	2	32	Post	50	No	No	No	0
-Cancer	50.28	12	0	NA	Pre	NA	No	No	No	0
-Cancer	61.3	13	4	26	Post	NA	No	No	No	0
-Cancer	70.03	11	3	24	Post	NA	No	No	No	1
-Cancer	64.91	13	2	21	Post	NA	No	No	Yes	0
-Control	56.92	15	2	30	Post	55	No	Yes	No	0
-Cancer	44.98	9	0	NA	Post	46	No	No	No	0
-Cancer	73.99	11	2	24	Post	NA	No	Yes	No	0
-Control	57.78	11	0	NA	Pre	NA	Yes	No	No	0
-Cancer	72.26	16	3	21	Post	50	No	No	Yes	0
-Cancer	49.03	13	2	30	Pre	NA	No	No	Yes	0
-Control	44.03	12	2	39	Pre	NA	No	No	No	0
-Cancer	63.4	14	3	29	Post	NA	No	No	No	0
-Cancer	77.82	13	2	25	Post	NA	No	No	No	0
-Control	65.57	12	3	23	Post	52	No	No	No	0
-Cancer	70.62	11	0	NA	Post	NA	No	No	No	0
-Control	50.58	13	2	43	Pre	NA	No	No	No	0
-Cancer	59.15	12	1	25	Post	NA	No	No	No	0
-Cancer	49.49	13	3	21	Post	NA	No	No	No	0
-Control	46.96	12	0	NA	Pre	NA	No	No	No	0
-Control	33.2	11	0	NA	Pre	NA	Yes	No	No	0
-Cancer	72.71	12	5	24	Post	48	No	No	No	1
-Control	76.32	15	3	34	Post	50	No	No	No	0
-Control	72.69	14	4	24	Post	51	No	No	No	0
-Cancer	65.78	11	2	24	Post	NA	No	No	No	0
-Cancer	52.11	11	0	NA	Post	48	No	No	No	0
-Cancer	70.72	14	2	27	Post	50	No	No	No	0
-Cancer	83.74	12	5	23	Post	NA	No	No	No	0
-Cancer	67.23	13	3	27	Post	NA	No	No	No	0
-Control	62.95	12	0	NA	Post	NA	Yes	Yes	No	0
-Cancer	55.24	13	3	31	Post	NA	No	No	No	0
-Control	61.67	15	3	25	Post	NA	No	No	No	0
-Cancer	22.4	13	0	NA	Pre	NA	No	No	Yes	0
-Control	31.05	14	1	29	Pre	NA	Yes	No	No	0
-Cancer	69	13	2	31	Post	NA	No	No	No	0
-Control	53.83	13	2	22	Pre	NA	No	No	Yes	0
-Cancer	71.44	13	0	NA	Post	NA	No	No	No	0
-Control	54.97	14	1	33	Post	NA	No	No	No	0
-Cancer	69.24	12	2	27	Post	NA	No	No	No	0
-Control	32.07	12	1	25	Pre	NA	Yes	No	No	0
-Control	57.57	14	3	24	Post	45	No	No	No	0
-Cancer	68.31	11	4	18	Post	40	No	No	No	0
-Cancer	76.01	12	2	19	Post	NA	No	No	No	0
-Control	56.77	16	1	27	Post	NA	No	No	No	0
-Cancer	59.58	12	2	23	Post	NA	No	No	No	0
-Cancer	63.74	13	2	25	Post	NA	No	No	No	0
-Control	31.71	16	0	NA	Pre	NA	No	No	No	0
-Control	76.07	14	3	29	Post	50	No	Yes	No	0
-Cancer	80.06	14	3	27	Post	NA	No	No	No	0
-Cancer	63.34	14	0	NA	Post	NA	No	No	No	0
-Control	32	12	0	NA	Pre	NA	No	No	No	0
-Cancer	73.33	10	1	22	Post	NA	No	No	No	0
-Cancer	63.63	14	2	22	Post	50	No	No	No	0
-Cancer	54.12	13	0	NA	Post	48	No	No	No	0
-Cancer	44.05	11	3	26	Pre	NA	No	No	Yes	0
-Control	41.68	14	4	25	Pre	NA	No	No	No	0
-Cancer	76.87	12	2	30	Post	NA	No	No	Yes	0
-Cancer	53.45	11	2	25	Post	NA	No	No	No	0
-Control	38.45	12	0	NA	Pre	NA	No	No	No	0
-Cancer	45.76	14	1	29	Pre	NA	No	No	Yes	0
-Control	40.93	14	2	24	Pre	NA	No	No	No	0
-Cancer	69.27	12	1	26	Post	46	No	No	No	0
-Cancer	47.42	11	4	22	Post	47	No	No	Yes	0
-Control	66.97	13	3	21	Post	48	No	No	No	0
-Cancer	69.26	14	2	24	Post	NA	No	No	No	0
-Control	49.59	12	4	33	Pre	NA	No	No	No	0
-Control	40.18	15	2	30	Pre	NA	No	No	No	0
-Control	34.57	15	1	36	Pre	NA	No	No	No	0
-Cancer	51.03	13	2	34	Post	51	No	No	No	0
-Control	35.89	9	1	33	Pre	NA	No	No	No	0
-Cancer	73.22	12	2	29	Post	50	No	No	No	0
-Cancer	40.94	13	2	34	Post	40	No	No	No	0
-Cancer	55.7	12	2	28	Post	50	No	No	No	0
-Control	71.3	12	4	24	Post	56	No	No	No	0
-Control	71.97	13	3	24	Post	53	No	No	Yes	0
-Control	65.94	11	0	NA	Post	48	No	No	No	1
-Control	40.89	13	1	41	Pre	NA	No	No	No	0
-Cancer	40.2	14	2	37	Pre	NA	No	No	Yes	0
-Cancer	77.65	14	3	28	Post	48	No	No	No	1
-Cancer	57.47	13	2	24	Post	54	No	Yes	No	0
-Cancer	77.64	12	2	27	Post	58	No	No	No	0
-Control	44	15	2	34	Pre	NA	No	Yes	No	0
-Cancer	69.38	13	2	34	Post	46.5479485131949	No	No	No	0
-Control	53.84	11	2	29	Post	53	No	No	No	0
-Control	62.79	15	2	27	Post	50	No	No	No	0
-Cancer	66.8	15	3	21	Post	54	No	No	No	0
-Cancer	51.96	14	1	32	Post	48	No	No	Yes	0
-Control	31.62	13	2	25	Pre	NA	Yes	No	No	0
-Cancer	58.45	12	3	25	Post	NA	No	No	Yes	0
-Control	38.81	15	1	30	Pre	NA	No	No	No	0
-Control	37.08	14	1	33	Pre	NA	No	No	No	0
-Control	40.85	12	2	28	Pre	NA	No	No	No	0
-Control	68.45	12	2	24	Post	52	No	No	No	0
-Cancer	20.3	11	0	NA	Pre	NA	No	No	No	0
-Cancer	55.6	12	1	37	Post	45	No	No	No	0
-Control	50.53	13	3	26	Pre	NA	No	No	No	0
-Control	53.75	13	1	21	Post	48	No	No	No	0
-Cancer	70.27	12	3	24	Post	52	No	No	Yes	0
-Control	80.03	14	2	25	Post	47	No	No	No	0
-Control	55.3	13	0	NA	Pre	NA	No	No	No	0
-Control	53.29	15	2	20	Post	45	No	No	No	0
-Control	40.16	13	0	NA	Pre	NA	No	No	Yes	0
-Control	40.16	10	0	NA	Pre	NA	No	No	No	0
-Control	39.36	14	0	NA	Pre	NA	Yes	No	Yes	0
-Control	33.73	12	1	26	Pre	NA	No	No	Yes	1
-Cancer	57.64	12	3	28	Post	57	No	No	No	1
-Cancer	44.97	11	2	43	Pre	NA	No	No	No	0
-Control	51.1	11	4	26	Pre	NA	No	No	No	0
-Control	42.23	14	2	43	Pre	NA	No	No	No	0
-Control	52.51	13	5	26	Post	40	No	No	No	0
-Control	72.14	11	2	33	Post	55	No	No	No	0
-Control	50.46	11	1	34	Pre	NA	No	No	No	0
-Cancer	59.3	12	1	28	Post	NA	No	No	No	0
-Cancer	65.1	NA	1	24	Post	51	No	No	No	0
-Cancer	69.38	14	1	31	Post	NA	No	No	No	0
-Control	33.53	10	0	NA	Pre	NA	Yes	No	No	0
-Control	40.76	11	0	NA	Pre	NA	No	No	No	0
-Cancer	73.2	15	1	40	Post	NA	No	No	No	0
-Cancer	45.53	11	1	40	Pre	NA	No	No	No	0
-Control	73.73	14	3	33	Post	52	No	No	No	0
-Control	51.16	14	3	23	Post	49	No	No	No	0
-Cancer	47.14	13	0	NA	Pre	NA	No	No	No	0
-Control	39.15	14	0	NA	Pre	NA	No	No	No	0
-Control	44.97	14	3	20	Pre	NA	No	No	No	0
-Control	52.68	17	2	25	Post	52	No	No	Yes	0
-Control	33.76	12	1	33	Pre	NA	Yes	No	Yes	0
-Cancer	64.72	14	0	NA	Post	52	No	No	No	0
-Cancer	49.81	10	2	34	Post	49	No	No	No	0
-Cancer	68.38	14	2	23	Post	53	No	No	No	0
-Control	51.01	14	1	26	Pre	NA	Yes	No	No	0
-Cancer	71.84	13	2	35	Post	50	No	No	No	0
-Control	63.08	15	1	23	Post	58	No	No	No	0
-Control	61.64	12	3	35	Post	48	No	No	No	0
-Cancer	52.79	11	0	NA	Post	47	No	No	No	0
-Control	55.81	14	2	36	Post	48	No	No	No	0
-Cancer	75.06	13	3	17	Post	NA	No	No	No	0
-Control	31.51	15	0	NA	Pre	NA	Yes	No	No	0
-Control	39.57	11	3	34	Pre	NA	No	No	No	0
-Control	44.26	14	0	NA	Pre	NA	No	No	Yes	0
-Control	51.86	15	1	45	Post	46	No	No	No	0
-Control	36.17	13	0	NA	Pre	NA	No	No	Yes	0
-Cancer	46.42	11	1	15	Post	57	No	No	Yes	0
-Cancer	54.24	11	2	16	Post	43	No	No	No	0
-Control	52.36	13	1	34	Pre	NA	No	No	No	0
-Control	39.63	11	2	34	Pre	NA	No	No	No	0
-Control	59.16	13	2	44	Post	49	No	No	No	0
-Control	33.2	13	0	NA	Pre	NA	No	No	No	0
-Control	39.48	11	1	39	Pre	NA	No	No	No	0
-Control	56.38	14	1	35	Post	52	No	No	No	0
-Control	59.21	12	3	29	Post	56	No	No	No	0
-Cancer	83.88	16	3	28	Post	50	No	No	No	0
-Control	42.35	12	0	NA	Pre	NA	No	No	No	0
-Control	79.65	13	3	28	Post	53	No	No	No	0
-Control	32.01	10	1	29	Pre	NA	No	No	No	0
-Cancer	50.7	14	0	NA	Post	50	No	No	No	0
-Control	46.96	12	3	27	Pre	NA	Yes	Yes	No	0
-Cancer	78.85	13	2	26	Post	NA	No	No	No	0
-Cancer	52.08	13	2	24	Pre	NA	No	No	Yes	0
-Control	59.71	14	3	21	Post	46	No	No	Yes	0
-Cancer	62.42	15	1	21	Post	52	No	Yes	No	0
-Control	80.1	15	1	30	Post	50	No	Yes	No	0
-Control	59.51	15	2	24	Post	54	No	No	No	0
-Control	35.09	13	2	25	Pre	NA	No	No	Yes	0
-Control	44.42	11	0	NA	Pre	NA	No	No	No	0
-Control	38.79	13	0	NA	Pre	NA	No	No	Yes	0
-Cancer	61.59	12	5	22	Post	50	No	No	No	1
-Control	64.25	13	2	24	Post	NA	No	No	No	0
-Control	56.58	11	4	26	Post	56	No	No	No	0
-Control	50.82	12	0	NA	Pre	NA	No	No	No	0
-Cancer	65.16	13	2	28	Post	40	NA	No	No	1
-Control	57.16	15	0	NA	Post	51	No	No	No	0
-Control	37.86	12	2	31	Pre	NA	No	No	No	0
-Control	52.42	15	4	19	Post	NA	No	No	No	0
-Cancer	44.41	14	2	21	Pre	NA	No	No	Yes	0
-Cancer	40.13	11	0	NA	Pre	NA	No	No	No	0
-Control	52.06	14	3	23	Post	49	No	No	No	0
-Cancer	70.96	14	3	24	Post	55	No	No	Yes	0
-Cancer	51.66	12	3	23	Post	48	No	Yes	No	0
-Cancer	59.48	11	0	NA	Post	44	No	No	No	0
-Control	51.81	14	1	26	Pre	NA	No	No	Yes	0
-Control	47.32	10	0	NA	Pre	NA	No	No	Yes	0
-Control	39.24	12	0	NA	Pre	NA	No	No	No	0
-Cancer	66.95	13	2	23	Post	51	No	No	No	0
-Cancer	76.16	12	4	21	Post	32	No	No	No	0
-Control	52.49	12	2	46	Post	NA	No	No	No	0
-Control	48.09	12	0	NA	Pre	NA	No	No	No	0
-Control	55.2	10	0	NA	Pre	NA	No	No	No	0
-Control	39.72	13	1	39	Pre	NA	No	No	No	0
-Cancer	44.25	14	0	NA	Pre	NA	No	No	Yes	0
-Control	55.45	13	0	NA	Post	NA	No	No	No	0
-Cancer	51.44	11	3	27	Post	50	No	No	No	0
-Control	38.25	12	2	32	Pre	NA	No	No	No	0
-Cancer	56.74	13	2	23	Post	52	No	No	No	0
-Control	59.75	10	1	33	Post	49	No	No	No	0
-Control	64.01	11	3	22	Post	NA	No	No	No	0
-Control	44.85	13	0	NA	Pre	NA	No	No	No	1
-Control	55.74	11	2	38	Post	NA	No	No	No	0
-Control	51.63	12	2	39	Post	50	No	No	No	0
-Control	57.44	9	3	22	Post	NA	No	No	No	0
-Control	31.06	16	0	NA	Pre	NA	No	No	No	0
-Cancer	68.9	14	3	28	Post	52	No	Yes	Yes	0
-Control	48.49	13	0	NA	Pre	NA	No	No	No	0
-Control	65.15	12	0	NA	Post	54	Yes	No	No	1
-Control	33.04	11	0	NA	Pre	NA	Yes	No	No	0
-Control	64.39	NA	NA	NA	Post	NA	NA	NA	NA	0
-Cancer	64.31	11	0	NA	Post	53	Yes	No	No	0
-Cancer	65.84	12	0	NA	Post	46	No	No	No	0
-Control	46.84	12	0	NA	Post	NA	No	No	No	1
-Control	50.94	12	3	25	Post	NA	No	Yes	No	0
-Control	34.71	11	1	25	Pre	NA	No	No	No	0
-Control	36	11	2	32	Pre	NA	No	No	No	0
-Control	45.04	13	0	NA	Pre	NA	No	Yes	No	0
-Control	46.34	12	1	34	Pre	NA	No	No	No	0
-Cancer	30.81	13	0	NA	Pre	NA	No	No	NA	0
-Control	35	12	0	NA	Pre	NA	No	No	No	0
-Cancer	71.54	11	2	20	Post	52	No	No	Yes	0
-Control	36.24	12	1	33	Pre	NA	Yes	No	No	0
-Cancer	56.55	13	2	25	Post	36	No	Yes	No	0
-Control	39.42	11	2	34	Pre	NA	No	No	No	0
-Control	53.75	12	0	NA	Post	NA	No	No	No	0
-Control	42.41	11	1	28	Pre	NA	No	No	No	0
-Cancer	54.06	13	2	31	Post	49	No	No	No	0
-Control	41.31	13	2	35	Pre	NA	No	No	No	0
-Control	33.97	10	0	NA	Pre	NA	No	No	Yes	0
-Control	50.44	14	0	NA	Post	48	No	Yes	No	0
-Control	37.15	15	0	NA	Pre	NA	No	No	No	0
-Cancer	61.02	12	3	25	Post	50	No	No	Yes	0
-Control	85.51	15	2	28	Post	54	Yes	No	No	0
-Control	44.53	11	1	31	Pre	NA	No	No	No	0
-Control	35.66	11	1	29	Pre	NA	No	No	Yes	0
-Control	46.19	14	0	NA	Pre	NA	No	No	No	0
-Cancer	76.79	13	2	25	Post	50	No	No	Yes	0
-Control	65.31	13	2	25	Post	55	No	No	No	0
-Control	39.25	13	2	33	Pre	NA	No	No	No	0
-Control	47.44	12	3	22	Pre	NA	No	No	Yes	0
-Cancer	60.16	13	3	21	Post	45	No	No	Yes	0
-Control	67.72	13	2	29	Post	48	No	No	No	0
-Control	37.04	13	0	NA	Pre	NA	No	No	No	0
-Cancer	47.48	12	3	20	Post	47	No	No	No	0
+Age	Menopausal status	Stage	Grade	Histology
+58.47	Post	IA	Grade III	Endometrioid
+68.78	Post	IVB	Grade III	Endometrioid
+62.46	Post	IIIA	Grade II	Endometrioid
+55.44	Post	IB	Grade III	Endometrioid
+65.33	Post	IIIA	Grade II	Endometrioid
+52.79	Post	IIIC-2	Grade III	Endometrioid
+68.52	Post	IB	Grade I	Endometrioid
+74.17	Post	IIIC-1	Grade II	Endometrioid
+59.97	Post	II	Grade I	Endometrioid
+65.99	Post	IA	Grade III	Squamous
+66.09	Post	IIIC-2	Grade III	Serous
+58.26	Post	IB	Grade I	Endometrioid
+58.75	Post	IVA	Grade III	Endometrioid
+76.47	Post	IB	Grade I	Endometrioid
+76.73	Post	IA	NA	Serous
+75.58	Post	IIIC	Grade III	Endometrioid
+66.3	Post	IB	Grade II	Adenocarcinoma NOS
+61.17	Post	IB	Grade I	Squamous
+63.25	Post	II	Grade I	Endometrioid
+67.59	Post	IB	Grade II	Endometrioid
+69.89	Post	IB	Grade I	Serous
+65.29	Post	IA	Grade III	Carcinosarcoma
+61.19	Post	IB	Grade I	Endometrioid
+70.67	Post	IIIA	Grade II	Endometrioid
+67.91	Post	IB	Grade II	Endometrioid
+81.61	Post	II	Grade I	Endometrioid
+78.71	Post	IB	Grade I	Endometrioid
+76.28	Post	IA	Grade III	Endometrioid
+72.51	Post	IIIC	Grade I	Endometrioid
+70.14	Post	IB	Grade III	Squamous
+45.75	Pre	IVA	Grade II	Endometrioid
+57.69	Post	IIIA	Grade III	Endometrioid
+66.22	Post	IVB	Grade III	Serous
+56.98	Pre	IB	Grade I	Endometrioid
+74.3	Post	IB	Grade II	Endometrioid
+62.59	Post	IVA	NA	Serous
+73.53	Post	IB	Grade III	Endometrioid
+70.36	Post	IB	Grade III	Serous
+68	Post	IIIA	Grade I	Endometrioid
+86.26	Post	IB	Grade III	Endometrioid
+58.12	Pre	IVB	Grade III	Endometrioid
+52.05	Post	IB	Grade I	Endometrioid
+62.8	Post	IA	Grade III	Endometrioid
+72.1	Post	IB	Grade I	Endometrioid
+64.76	Post	IIIA	Grade II	Endometrioid
+38.64	Pre	II	Grade I	Endometrioid
+70.93	Post	IB	Grade I	Endometrioid
+68.39	Post	IB	Grade I	Endometrioid
+59.18	Post	IIIB	Grade III	Squamous
+73.81	Post	IB	Grade III	Endometrioid
+52.6	Post	IA	Grade I	Adenocarcinoma NOS
+88.07	Post	IIIB	Grade I	Endometrioid
+73.79	Post	IIIC	Grade II	Endometrioid
+68.9	Post	NA	NA	NA
+45.31	Post	IIIB	Grade II	Endometrioid
+84.13	Post	IIIB	Grade III	Endometrioid
+64.31	Post	IA	NA	Squamous
+53.49	Post	IA	Grade III	Endometrioid
+71.71	Post	IA	NA	Serous
+65.04	Post	IB	Grade I	Endometrioid
+64.47	Post	IA	Grade III	Small Cell
+84.52	Post	IB	Grade I	Serous
+33.71	Pre	IIIA	Grade II	Endometrioid
+62.32	Post	IA	Grade III	Serous
+74.85	Post	IIIC-2	Grade II	Endometrioid
+70.1	Post	IB	Grade II	Endometrioid
+77.35	Post	IB	Grade I	Endometrioid
+57.26	Post	IIIC-2	Grade II	Endometrioid
+72.57	Post	IA	Grade III	Serous
+62.37	Post	II	Grade II	Mucinous
+62.2	Post	II	Grade III	Carcinosarcoma
+73.94	Post	IB	Grade I	Endometrioid
+73.07	Post	IVB	Grade III	Serous
+60.78	Post	IIIB	Grade II	Endometrioid
+81.01	Post	IB	Grade II	Endometrioid
+66.28	Post	IB	Grade I	Endometrioid
+73.43	Post	IB	Grade II	Endometrioid
+54.84	Post	IIIA	Grade II	Endometrioid
+66.46	Post	IVB	Grade III	Serous
+41.17	Pre	IB	Grade III	Endometrioid
+60.63	Post	IB	NA	Undifferentiated
+58.22	Post	IIIC-1	Grade II	Endometrioid
+66.67	Post	II	Grade II	Endometrioid
+71.83	Post	IB	Grade I	Endometrioid Neuroendocrine
+75.68	Post	NA	Grade III	Serous
+68.81	Post	IB	Grade II	Endometrioid
+61.97	Post	IA	Grade III	Endometrioid
+72	Post	IIIA	Grade II	Endometrioid
+65.02	Post	IA	Grade III	Clear Cell
+59.5	Post	IIIA	Grade I	Endometrioid
+66.96	Post	IB	Grade II	Endometrioid
+57.23	Post	IA	Grade III	Carcinosarcoma
+56.42	Post	IB	Grade I	Endometrioid
+29.99	Pre	IA	Grade III	Endometrioid
+76.47	Post	IA	Grade III	Endometrioid
+52.27	Post	IIIA	Grade I	Endometrioid
+56.65	Post	IB	Grade II	Endometrioid
+58.71	Post	IIIB	Grade II	Endometrioid
+69.49	Post	IB	Grade I	Endometrioid
+58.12	Post	IIIC	Grade II	Endometrioid
+63.18	Post	IIIB	Grade III	Endometrioid
+63.12	Post	IB	Grade III	Endometrioid
+68.57	Post	IA	Grade III	Endometrioid
+76.92	Post	IB	Grade II	Endometrioid
+72.16	Post	IB	Grade I	Endometrioid
+64.02	Post	IB	Grade II	Endometrioid
+50.69	Post	IVB	Grade III	Endometrioid
+95.24	Post	IA	Grade III	Endometrioid
+75.19	Post	IA	Grade III	Clear Cell
+74.64	Post	IIIC	Grade III	Serous
+65.39	Post	IA	Grade III	Endometrioid
+74.5	Post	IB	Grade I	Endometrioid
+67.52	Post	IIIB	NA	Serous
+63.1	Post	IIIB	Grade II	Endometrioid
+82.13	Post	IB	Grade II	Endometrioid
+63.05	Post	IIIC-2	Grade III	Endometrioid
+82.85	Post	IIIA	Grade I	Endometrioid
+60.3	Post	II	Grade II	Endometrioid
+72	Post	IB	Grade III	Squamous
+57.61	Post	II	Grade II	Endometrioid
+60.82	Post	IIIA	Grade III	Endometrioid
+57.47	Post	IB	Grade III	Endometrioid
+74.05	Post	IB	Grade II	Endometrioid
+34.31	Pre	IIIC	Grade III	Endometrioid
+72.4	Post	IA	Grade III	Endometrioid
+75.64	Post	IB	Grade II	Endometrioid
+56.22	Post	II	Grade I	Endometrioid
+69.13	Post	IIIB	Grade III	Serous
+74.24	Post	IA	Grade III	Endometrioid
+72.82	Post	IB	Grade I	Endometrioid
+78.24	Post	IB	Grade I	NA
+37.46	Pre	II	Grade I	Endometrioid
+73.95	Post	IB	Grade II	Endometrioid
+63.4	Post	IVB	Grade III	Serous
+65.02	Post	IB	Grade I	Endometrioid
+85.14	Post	IA	Grade III	Adenocarcinoma NOS
+64.15	Post	IB	Grade II	Endometrioid
+59.79	Post	IB	Grade I	Serous
+50.93	Post	IB	Grade III	Endometrioid
+88.93	Post	IA	Grade III	Endometrioid
+57.67	Post	IA	Grade III	Endometrioid
+69.91	Post	IA	NA	Serous
+71.29	Post	IIIB	Grade III	Clear Cell
+86.46	Post	IB	Grade III	Carcinosarcoma
+61.78	Post	IIIC-1	Grade II	Endometrioid
+64.85	Post	IA	Grade III	Serous
+40.01	Pre	IVB	Grade I	Endometrioid
+49.9	Pre	II	Grade II	Endometrioid
+43.21	Pre	IA	Grade III	Adenocarcinoma NOS
+41.42	Post	IB	Grade I	Endometrioid
+61.19	Post	IIIC-1	Grade III	Serous
+60.29	Post	IB	Grade II	Endometrioid
+70.91	Post	IA	Grade III	Serous
+73.32	Post	IIIA	Grade III	Endometrioid
+67.79	Post	IB	Grade I	Endometrioid
+69.55	Post	II	Grade III	Serous
+72.45	Post	NA	Grade III	Sarcoma
+75.78	Post	IB	Grade II	Endometrioid
+77.07	Post	IA	Grade III	Endometrioid
+58.73	Post	IIIB	Grade I	Endometrioid
+69.73	Post	IA	Grade II	Serous
+68.43	Post	IB	Grade II	Adenocarcinoma NOS
+76.04	Post	IB	Grade I	Endometrioid
+72.46	Post	IA	Grade III	Serous
+68.77	Post	IIIC-2	Grade III	Squamous
+65.87	Post	IB	Grade I	Endometrioid
+73.3	Post	IA	Grade III	Serous
+71.4	Post	IIIC	Grade I	Endometrioid
+64.71	Post	IIIC-1	Grade III	Endometrioid
+64.34	Post	IB	Grade II	Endometrioid
+50.52	Pre	IIIC-2	Grade III	Endometrioid
+69.59	Post	IA	Grade III	Endometrioid
+60.2	Post	IB	Grade II	Endometrioid
+70.93	Post	IB	Grade I	Endometrioid
+83.75	Post	IB	Grade III	Serous
+72.49	Post	IVB	Grade III	Serous
+65.8	Post	IIIA	Grade II	Endometrioid
+65.98	Post	IB	Grade I	Endometrioid
+76.76	Post	IA	Grade III	Serous
+57.4	Post	IB	Grade III	Endometrioid
+70.24	Post	IA	Grade III	Serous
+44.06	Pre	IIIC-2	Grade III	Endometrioid
+65.29	Post	IA	Grade III	Adenocarcinoma NOS
+57.7	Post	IIIA	NA	Serous
+87.14	Post	IB	Grade II	Endometrioid
+61	Post	IVA	Grade III	Serous
+69.16	Post	IIIC	Grade III	Clear Cell
+60.23	Post	NA	NA	NA
+67.72	Post	II	Grade III	Endometrioid
+69.41	Post	IB	Grade III	Endometrioid
+78.52	Post	IA	Grade III	Endometrioid
+60.18	Post	IB	Grade II	Endometrioid
+69.35	Post	NA	NA	NA
+78.96	Post	IA	Grade III	Serous
+70.28	Post	IVB	Grade II	Endometrioid
+55.15	Post	NA	NA	NA
+80.15	Post	IB	Grade II	Endometrioid
+72.53	Post	NA	NA	NA
+69.51	Post	IB	Grade II	Endometrioid
+84.8	Post	IIIA	Grade I	Endometrioid
+66.52	Post	II	Grade III	Serous
+79.83	Post	IA	Grade III	Clear Cell
+56.9	Post	IIIC-1	Grade III	Undifferentiated
+68.32	Post	IIIC-1	Grade II	Endometrioid
+67.78	Post	IB	Grade I	Endometrioid
+85.83	Post	IVB	Grade III	Adenocarcinoma NOS
+53.5	Pre	IIIA	Grade I	Endometrioid
+57.38	Post	IB	Grade II	Endometrioid
+70.21	Post	IIIC-2	Grade III	Serous
+61.32	Post	IA	Grade I	Serous
+62.37	Post	IA	Grade III	Serous
+71.36	Post	NA	NA	NA
+42.39	Pre	II	Grade III	Undifferentiated
+69.73	Post	IIIC-1	Grade III	Serous
+57.79	Post	IA	Grade III	Serous
+74.58	Post	II	Grade II	Endometrioid
+70.89	Post	IB	Grade II	Endometrioid

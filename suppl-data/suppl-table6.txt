@@ -1,443 +1,515 @@
-set	Age	Menopausal status	T stage	N stage	Estrogen receptor status	Progesterone receptor status	HER2 status	Grade	Histology
-Discovery set	40.41	Pre	T2	N3	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	44.03	Pre	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	60.38	Post	T2	N0	Pos	Neg	Neg	Grade II	Invasive Lobular
-Discovery set	53.75	Post	T1	N2	Pos	Pos	Neg	Grade III	Invasive Ductal & Lobular
-Discovery set	51.8	Pre	T2	N2	Pos	Pos	Pos	Grade II	Invasive Ductal & Lobular
-Discovery set	60.38	Post	T1	N1	Pos	Pos	NA	Grade I	Invasive Ductal
-Discovery set	55.55	Post	T2	N3	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	72.14	Post	NA	NA	Neg	Neg	Pos	Grade III	Invasive Ductal
-Discovery set	39.28	Pre	T2	N3	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	45.3	Pre	T3	N0	Pos	Pos	Neg	Grade II	Invasive Ductal & Lobular
-Discovery set	55.13	Post	T1	N1	Pos	Pos	Neg	Grade I	Invasive Ductal
-Discovery set	52.86	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	47.79	Pre	Tis	N	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	47.34	Pre	T2	N2	Pos	Pos	Neg	Grade I	Invasive Ductal
-Discovery set	35.34	Pre	T3	N3	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	53.34	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	36.38	Pre	T1	N2	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	50.91	Pre	T1	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	37.64	Pre	T4	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	55.16	Post	T2	N0	Pos	Pos	Neg	Grade II	NOS
-Discovery set	48.32	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	37.6	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	45.41	Pre	T3	N3	Pos	Pos	Pos	Grade II	Invasive Lobular
-Discovery set	34.27	Pre	T2	NA	Pos	Pos	Neg	Grade III	NOS
-Discovery set	46.87	Pre	T2	N0	Pos	Pos	Neg	Grade II	NOS
-Discovery set	49.96	Pre	T3	N3	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	70.01	Post	T2	N0	Neg	Neg	Neg	Grade II	Invasive Ductal
-Discovery set	72.81	Post	T1	N1	Pos	Neg	Neg	Grade I	Invasive Lobular
-Discovery set	35.2	Pre	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	48.51	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	50	Pre	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	49.35	Pre	T1	N1	Pos	Pos	Pos	Grade I	Invasive Ductal
-Discovery set	34.99	Pre	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	62.16	Post	T2	N0	Neg	Neg	Neg	NA	Invasive Lobular
-Discovery set	41.24	Pre	T2	N2	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	40.79	Pre	T1	N2	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	68.8	Post	T2	N1	Neg	Neg	Pos	Grade III	NOS
-Discovery set	54.61	Post	T2	N3	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	65.43	Post	T1	N1	Pos	Pos	Neg	NA	Invasive Ductal
-Discovery set	66.22	Post	T1	N3	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	37.64	Pre	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	46.19	Pre	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	52.88	Post	T2	N0	Pos	Pos	Neg	Grade I	Invasive Ductal
-Discovery set	60.63	Post	T1	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	52.96	Post	T2	N1	Neg	Neg	Pos	Grade III	NOS
-Discovery set	38.8	Pre	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	78.58	Post	T2	N1	Pos	Pos	Neg	Grade I	NOS
-Discovery set	58.5	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	50.58	Post	T1	N1	Neg	Neg	Pos	Grade III	NOS
-Discovery set	60.58	Post	T1	N0	Pos	Pos	Neg	Grade I	Invasive Ductal
-Discovery set	55.88	Pre	T2	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	45.95	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	52.43	Post	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	49.96	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	43.16	Pre	T1	N1	Pos	Neg	Pos	Grade III	Invasive Ductal
-Discovery set	49.44	Pre	T2	N3	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	54.8	Post	T2	N1	Pos	Pos	Neg	Grade II	NOS
-Discovery set	65.78	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	62.59	Post	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	44.24	Pre	T2	N0	Pos	Pos	Neg	Grade II	NOS
-Discovery set	45.06	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	57.66	Post	T2	N0	Pos	NA	Neg	Grade II	NOS
-Discovery set	56.14	Post	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	70.14	Post	T2	N0	Pos	NA	Neg	Grade II	Invasive Ductal
-Discovery set	76.92	Post	T2	N2	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	65.49	Post	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	69	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Lobular
-Discovery set	68.08	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	68.2	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	47.1	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	50.57	Pre	T1	N3	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	50.86	Pre	T1	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	44.4	Pre	T1	N0	Pos	Neg	Pos	Grade III	Invasive Ductal
-Discovery set	37.83	Pre	T2	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	41.97	Pre	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	44.47	Pre	T1	N2	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	63.61	Post	T1	N1	Pos	Neg	Pos	Grade II	Invasive Ductal
-Discovery set	39.18	Pre	T2	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	79.28	Post	T2	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	65.64	Post	T2	N0	Pos	Pos	Pos	Grade II	Invasive Lobular
-Discovery set	61.45	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	70.2	Post	T2	N0	Pos	Pos	Neg	Grade II	NOS
-Discovery set	50.95	Post	T2	N0	Pos	Pos	Neg	Grade II	NOS
-Discovery set	56.33	Post	NA	NA	Pos	Neg	Pos	Grade III	Invasive Ductal
-Discovery set	43.36	Pre	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	66.12	Post	T2	N0	Pos	Pos	Neg	Grade II	NOS
-Discovery set	30.98	Pre	T2	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	55.93	Post	T1	N0	Pos	Pos	Neg	Grade III	NOS
-Discovery set	44.75	Pre	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	43.95	Pre	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	70.69	Post	T1	N0	Pos	Neg	Pos	Grade III	Invasive Ductal
-Discovery set	70.58	Post	T2	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	49.47	Pre	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	49.08	Post	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal & Lobular
-Discovery set	37.48	Pre	T2	N3	Pos	Neg	Pos	Grade II	Invasive Ductal
-Discovery set	81.91	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	38.99	Pre	T2	N2	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	50.73	Post	T2	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	52.15	Pre	T3	N3	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	71.6	Post	T2	N1	Pos	Neg	Pos	Grade III	Invasive Ductal
-Discovery set	72.41	Post	T2	N2	Pos	Pos	Pos	Grade III	Invasive Ductal & Lobular
-Discovery set	66.12	Post	T1	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	52.64	Post	T3	N3	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	50.19	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	59.21	Post	T1	N2	Pos	Neg	Pos	NA	Invasive Ductal
-Discovery set	58.43	Post	T1	NX	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	48.01	Pre	T2	N1	Pos	Neg	Neg	Grade II	Invasive Ductal & Lobular
-Discovery set	63.21	Post	T1	N0	Neg	Neg	Pos	Grade III	Invasive Ductal
-Discovery set	45.94	Pre	T2	N2	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	44.71	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	67.54	Post	T1	N2	Pos	Pos	Neg	Grade III	Invasive Lobular
-Discovery set	63.89	Post	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	58.98	Post	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	63.24	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	50.87	Pre	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	68.8	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	40.48	Pre	T2	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	52.13	Post	T2	N1	Neg	Neg	Pos	Grade III	Invasive Ductal
-Discovery set	26.86	Pre	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	55.47	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	46.41	Pre	T1	NX	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	57.8	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Lobular
-Discovery set	55.43	Post	T2	N0	Neg	Neg	Pos	Grade I	Invasive Ductal
-Discovery set	50.96	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	66.97	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	55.45	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	44.79	Pre	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	47.21	Pre	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	38.6	Pre	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	40.77	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	57.25	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	38.75	Pre	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal & Lobular
-Discovery set	56.21	Post	T2	N3	Neg	Neg	Pos	Grade III	Invasive Ductal
-Discovery set	35.75	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	55.08	Post	T1	N1	Pos	Pos	Neg	Grade I	Invasive Ductal
-Discovery set	67.08	Post	T1	N1	Pos	Pos	NA	Grade III	Invasive Lobular
-Discovery set	63.53	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	56.43	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	39.32	Pre	T1	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	53.41	Post	T2	N1	Pos	Neg	Neg	Grade II	Invasive Ductal
-Discovery set	50.25	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	44.23	Pre	T2	N2	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	65.29	Post	T2	N2	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	55.33	Post	T2	N1	Pos	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	39.02	Pre	T3	N3	Neg	Neg	Neg	Grade III	Invasive Ductal & Lobular
-Discovery set	59.5	Post	T3	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	59.33	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	44.19	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	70.56	Post	T1	N0	Pos	Neg	Neg	Grade II	Invasive Lobular
-Discovery set	51.54	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	72.8	Post	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	62.45	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	54.32	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	63.26	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	51.87	Post	T2	N0	Pos	Neg	Neg	Grade II	Invasive Ductal
-Discovery set	35.78	Pre	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	73.64	Post	T2	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	53.52	Pre	T1	N1	Pos	Neg	Pos	Grade II	Invasive Ductal
-Discovery set	35.86	Pre	T3	N3	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	61.79	Post	T1	N1	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	46.33	Pre	T2	N3	Pos	Pos	Pos	Grade II	Invasive Lobular
-Discovery set	48.26	Pre	T2	N1	Pos	Neg	Neg	Grade II	Invasive Ductal
-Discovery set	53.63	Pre	T2	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	76.68	Post	T2	N1	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	42.22	Pre	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	54.29	Post	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	32.32	Pre	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	45.45	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	74.77	Post	T1	N1	Pos	Neg	Pos	Grade I	Invasive Ductal
-Discovery set	63.2	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	42.78	Pre	T1	N2	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	47.76	Pre	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	57.53	Post	T1	N1	Pos	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	53.25	Pre	T2	N0	Pos	Neg	Neg	Grade I	Invasive Lobular
-Discovery set	52.54	Pre	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	72.08	Post	T2	N2	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	47.4	Pre	T2	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	41.8	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	44.52	Pre	T2	N1	Pos	Neg	Neg	Grade II	Invasive Ductal & Lobular
-Discovery set	58.52	Post	T2	N0	Pos	Pos	Neg	Grade I	Invasive Ductal
-Discovery set	65.16	Post	T2	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	59.76	Pre	T2	N2	Pos	Pos	Neg	Grade II	Invasive Ductal & Lobular
-Discovery set	57.01	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	48.9	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal & Lobular
-Discovery set	44.26	Pre	T3	N0	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	75.82	Post	T1	N0	Pos	Pos	NA	Grade III	Invasive Lobular
-Discovery set	37.58	Pre	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	57.57	Post	T3	N2	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	48.94	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	61.12	Post	T2	N0	Pos	Neg	Pos	Grade III	Invasive Ductal
-Discovery set	62.83	Post	T1	N3	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	49.92	Pre	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	47.32	Pre	T2	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	50.26	Pre	T2	N3	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	65.42	Post	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	56.43	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	76.02	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	37.09	Pre	T2	N0	Neg	Neg	Pos	Grade III	Invasive Ductal
-Discovery set	50.74	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	35.03	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	70.22	Post	T1	N0	Pos	Neg	Neg	Grade III	Invasive Lobular
-Discovery set	51.24	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	32.75	Pre	T2	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	34.09	Pre	T3	N3	Pos	Neg	Neg	Grade II	Invasive Ductal
-Discovery set	57.23	Post	T2	N0	Pos	Pos	Pos	Grade III	Invasive Lobular
-Discovery set	49.72	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	51.1	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	75.3	Post	T2	N2	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	68.9	Post	T2	N1	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	62.25	Post	T2	N0	Pos	Neg	Neg	Grade II	Invasive Lobular
-Discovery set	49.85	Pre	T2	N2	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	64.24	Post	T2	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	45.7	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	64.44	Post	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	42.53	Pre	T2	N1	Neg	Neg	Pos	Grade III	Invasive Ductal
-Discovery set	44.75	Pre	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	62.67	Post	T2	N0	Pos	Pos	Neg	Grade I	Invasive Ductal
-Discovery set	76.93	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	58.65	Post	T3	N0	Pos	Pos	Pos	Grade III	Invasive Lobular
-Discovery set	67.58	Post	T2	N1	Neg	Neg	Neg	Grade III	Invasive Lobular
-Discovery set	53.87	Post	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	59.02	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Lobular
-Discovery set	54.98	Post	T2	N1	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	61.57	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Lobular
-Discovery set	44.89	Pre	T3	N1	Pos	Pos	Neg	Grade III	Invasive Lobular
-Discovery set	67.9	Post	T1	N1	Pos	Neg	Neg	Grade II	Invasive Lobular
-Discovery set	65.1	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	66.11	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	56.44	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	37.05	Pre	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	37.91	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	44.07	Pre	T1	N0	Neg	Neg	Pos	Grade III	Invasive Ductal
-Discovery set	43.35	Pre	T2	N0	Pos	Pos	Pos	Grade III	Invasive Lobular
-Discovery set	43.88	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	45.24	Pre	T2	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	47.94	Pre	T2	NX	Pos	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	61.44	Post	T2	N0	Pos	Pos	Neg	Grade I	Invasive Ductal
-Discovery set	77.59	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	40.94	Pre	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	35.41	Pre	T2	N3	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	50.45	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	43.39	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	56.54	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	72.46	Post	T3	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	51.03	Pre	T2	N0	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	64.45	Post	T4	N0	Pos	Pos	Neg	Grade III	Invasive Lobular
-Discovery set	68.55	Post	T1	N1	NA	NA	Neg	Grade III	NOS
-Discovery set	47.78	Pre	T1	N0	Pos	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	58.89	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	47.05	Pre	T2	NA	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	65.06	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	41.87	Pre	T2	N0	Pos	Pos	Pos	Grade II	NOS
-Discovery set	62.93	Post	T2	N0	Neg	Neg	Pos	Grade III	Invasive Ductal
-Discovery set	49.18	Pre	T2	N1	Neg	Neg	Pos	Grade III	Invasive Ductal
-Discovery set	63.04	Post	T2	N0	Pos	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	52.48	Pre	T2	N0	Pos	Pos	Neg	Grade III	NOS
-Discovery set	60.68	Post	T3	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	38.53	Pre	T2	N0	Neg	Neg	Neg	Grade II	Invasive Ductal
-Discovery set	67.04	Post	T2	N0	Pos	Neg	Neg	Grade II	NOS
-Discovery set	57.02	Post	T2	N2	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	61.09	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	42.38	Pre	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	40.1	Pre	T1	N0	Neg	Neg	Pos	Grade III	Invasive Ductal
-Discovery set	71.88	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	47.83	Pre	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	61.69	Post	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	49.76	Pre	T2	N2	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	52.46	Pre	T2	N0	Pos	Pos	Pos	Grade I	Invasive Lobular
-Discovery set	41.72	Pre	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	68.09	Post	T2	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	66.98	Post	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	51.24	Pre	T3	N2	Pos	Pos	Pos	Grade I	Invasive Lobular
-Discovery set	66.11	Post	T1	N1	Neg	Neg	Pos	Grade II	NOS
-Discovery set	74.16	Post	T1	N1	Pos	Pos	Neg	Grade I	Invasive Lobular
-Discovery set	48.95	Pre	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	57.24	Post	T3	N2	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	45.81	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	50.88	Pre	T3	N2	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	51.63	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	50.1	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	46.47	Pre	T2	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	73.08	Post	T2	N2	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	48.29	Pre	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	45.31	Pre	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	41.8	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	54.77	Post	T1	N2	Pos	Pos	Neg	Grade II	NOS
-Discovery set	50.19	Pre	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	45.87	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	69.46	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	62.79	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Lobular
-Discovery set	47.45	Pre	T2	N0	Pos	Pos	Neg	Grade II	NOS
-Discovery set	64.98	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	46.45	Pre	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	60.03	Post	T3	N0	Pos	Pos	Neg	Grade II	Invasive Lobular
-Discovery set	51.85	Pre	T2	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	40.85	Pre	T1	N2	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	72.43	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	66.87	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	47.92	Pre	T2	N0	Pos	Neg	Neg	Grade I	Invasive Lobular
-Discovery set	48.46	Pre	T2	N1	Neg	Neg	Pos	Grade III	Invasive Ductal
-Discovery set	42.22	Pre	T1	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	53.91	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	25.67	Pre	T2	N1	Neg	Neg	Pos	Grade III	Invasive Ductal
-Discovery set	65.67	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	73.91	Post	T2	N1	Pos	Pos	NA	Grade III	Invasive Ductal
-Discovery set	44.8	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	45.63	Pre	T2	N1	Pos	Pos	Neg	Grade II	NOS
-Discovery set	55.81	Post	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	60.7	Post	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	58.02	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	61.31	Post	T2	N0	Neg	Neg	Pos	Grade III	Invasive Ductal
-Discovery set	20.77	Pre	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	47.85	Pre	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	50.4	Pre	T1	N1	Pos	Pos	Pos	Grade I	Invasive Ductal
-Discovery set	49.51	Post	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	74.83	Post	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-Discovery set	50.52	Pre	T2	N1	Pos	Neg	Neg	Grade II	Invasive Ductal
-Discovery set	46.57	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	67.01	Post	T1	N0	Pos	Neg	Pos	Grade III	Invasive Ductal
-Discovery set	50.58	Pre	T2	N0	Pos	Pos	Neg	Grade I	Invasive Ductal
-Discovery set	60.42	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	71.17	Post	T2	N0	Neg	Neg	Pos	Grade III	Invasive Ductal
-Discovery set	68.94	Post	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	49.58	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	46.21	Pre	T2	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
-Discovery set	34.56	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-Discovery set	44.29	Pre	T2	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
-Discovery set	59.99	Post	T2	N2	Pos	Pos	Neg	Grade III	Invasive Ductal
-Discovery set	48.92	Pre	T1	NX	Pos	Pos	Neg	Grade III	Invasive Ductal
-External validation	58.62966	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-External validation	34.69592	Pre	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-External validation	71.35515	Post	T1	N2	Pos	Pos	Neg	Grade II	Invasive Ductal
-External validation	57.6226	Post	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
-External validation	62.53164	Post	T1	N0	Pos	Neg	Neg	Grade III	Invasive Ductal
-External validation	26.40293	Pre	T2	N0	Neg	Neg	Neg	Grade II	Invasive Ductal
-External validation	51.57415	Post	T1	N0	Neg	Neg	Pos	Grade III	Invasive Ductal
-External validation	60.78201	Post	T3	N3	Pos	Pos	Neg	Grade II	Invasive Lobular
-External validation	49.70747	Pre	T2	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-External validation	44.90771	Pre	T1	N0	Pos	Neg	Pos	Grade III	Invasive Ductal
-External validation	44.03726	Pre	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-External validation	76.53018	Post	T4	N2	Pos	Pos	Neg	Grade II	Invasive Lobular
-External validation	41.23352	Pre	Tis	NX	NA	NA	NA	Grade II	LIN-2
-External validation	43.75275	Pre	T2	N1	Pos	Pos	Pos	Grade III	Invasive Lobular
-External validation	65.07478	Post	T1	N0	Pos	Neg	Pos	Grade III	Invasive Ductal
-External validation	64.79022	Post	T1	N1	Pos	Pos	Pos	Grade I	Invasive Ductal
-External validation	70.62744	Post	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-External validation	68.73782	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-External validation	71.47841	Post	T3	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
-External validation	41.71248	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-External validation	43.94428	Pre	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
-External validation	39.17489	Pre	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-External validation	44.17974	Pre	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
-External validation	45.90178	Pre	T2	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-External validation	63.4761	Post	T3	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
-External validation	50.50375	Post	T1	N1	Neg	Neg	Pos	Grade III	Invasive Ductal
-External validation	56.18234	Post	T1	N1	Pos	Neg	Neg	Grade I	Invasive Ductal
-External validation	46.93402	Pre	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-External validation	27.14201	Pre	T2	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
-External validation	47.84795	Pre	T3	N2	Pos	Pos	Pos	Grade II	Invasive Ductal
-External validation	48.37677	Pre	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
-External validation	31.68144	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-External validation	39.52537	Pre	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-External validation	51.56089	Pre	T2	N1	Pos	Pos	Pos	Grade II	Invasive Ductal & Lobular
-External validation	49.53227	Pre	T2	N0	Neg	Neg	Pos	Grade II	Invasive Ductal
-External validation	51.06774	Post	T2	N0	Pos	Pos	Neg	Grade I	Invasive Ductal
-External validation	50.22721	Pre	T2	N0	Pos	Neg	Pos	Grade III	Invasive Ductal
-External validation	63.51395	Post	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
-External validation	72.85318	Post	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-External validation	50.39969	Pre	T2	N1	Pos	Neg	Pos	Grade III	Invasive Ductal
-External validation	50.41887	Pre	T3	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
-External validation	54.44071	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-External validation	73.51817	Post	T2	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
-External validation	46.00811	Pre	T2	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
-External validation	68.13835	Post	T2	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
-External validation	66.9011	Post	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-External validation	38.05789	Pre	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-External validation	74.21949	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-External validation	67.64534	Post	T2	N3	Pos	Pos	Pos	Grade III	Invasive Ductal
-External validation	31.90859	Pre	T1	N1	Pos	Neg	Neg	Grade III	Invasive Ductal
-External validation	50.99964	Post	T3	NA	Pos	NA	Neg	Grade II	Invasive Ductal & Lobular
-External validation	61.11341	Post	T2	N0	NA	NA	Neg	Grade II	Invasive Ductal
-External validation	58.81627	Post	T3	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-External validation	48.76291	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
-External validation	39.76082	Pre	T2	N2	Pos	Pos	Neg	Grade II	Invasive Ductal
-External validation	38.05803	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-External validation	49.89	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-External validation	44.47806	Pre	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
-External validation	51.39911	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-External validation	64.51922	Post	T2	N1	Neg	Neg	Neg	Grade III	Invasive Ductal
-External validation	67.06765	Post	T2	N1	Pos	Neg	Neg	Grade III	Invasive Ductal
-External validation	51.0733	Pre	T1	N2	Pos	Pos	Neg	Grade III	Invasive Ductal
-External validation	54.32592	Pre	T3	N2	Pos	Pos	Pos	Grade I	Invasive Ductal & Lobular
-External validation	45.26654	Pre	T1	N2	Pos	Neg	Neg	Grade II	Invasive Ductal
-External validation	55.74126	Pre	T2	N0	Pos	Pos	Pos	Grade I	Invasive Ductal
-External validation	43.11197	Pre	T3	N3	Pos	Pos	Pos	Grade II	Invasive Lobular
-External validation	54.93644	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal & Lobular
-External validation	49.09367	Pre	T1	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
-External validation	34.44383	Pre	T1	N2	Pos	Pos	Pos	Grade II	Invasive Ductal
-External validation	53.92635	Post	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-External validation	63.99327	Post	T2	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
-External validation	46.06049	Pre	T1	N1	Pos	Pos	Neg	Grade I	Invasive Ductal
-External validation	63.59882	Post	T2	N3	Pos	Pos	Pos	Grade III	Invasive Ductal
-External validation	42.90634	Pre	T2	N0	Pos	Pos	Neg	Grade I	Invasive Ductal
-External validation	73.56206	Post	T1	N1	Pos	Pos	Pos	Grade III	Invasive Ductal
-External validation	72.71077	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Lobular
-External validation	67.4402	Post	T1	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
-External validation	65.04718	Post	T3	N1	Neg	Neg	Pos	Grade III	Invasive Ductal
-External validation	55.80458	Post	T2	N0	Neg	Neg	Neg	Grade III	METEPLASTIC CARCINOMA
-External validation	71.71928	Post	T1	N0	Pos	Neg	Pos	Grade III	NOS
-External validation	63.07586	Post	T2	N2	Pos	Pos	Neg	Grade II	Invasive Ductal & Lobular
-External validation	45.61705	Pre	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-External validation	56.99834	Post	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
-External validation	58.34487	Post	T1	N1	Pos	Pos	Pos	Grade II	Invasive Ductal
-External validation	51.85106	Pre	T2	N2	Pos	Pos	Neg	Grade II	Invasive Ductal
-External validation	49.06125	Pre	T2	N2	Pos	Pos	Neg	Grade III	Invasive Lobular
-External validation	33.41451	Pre	T2	N2	Pos	Pos	Pos	Grade III	Invasive Ductal
-External validation	64.89971	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-External validation	62.40002	Post	T2	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
-External validation	45.67456	Post	T1	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-External validation	63.71658	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-External validation	43.70889	Pre	T2	N0	Pos	Pos	Neg	Grade II	Invasive Ductal
-External validation	43.26205	Pre	T3	N3	Neg	Neg	Pos	Grade III	Invasive Ductal
-External validation	47.69465	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-External validation	57.23063	Post	T2	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-External validation	64.6668	Post	T1	N0	Pos	Pos	Pos	Grade III	Invasive Ductal
-External validation	53.36477	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-External validation	47.194	Pre	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-External validation	69.67437	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Lobular
-External validation	45.73439	Pre	T2	N2	Pos	Pos	Pos	Grade III	Invasive Ductal
-External validation	56.28652	Pre	T2	N1	Pos	Pos	Pos	Grade II	Invasive Ductal & Lobular
-External validation	49.48791	Pre	T2	N0	Neg	Neg	Neg	Grade III	Invasive Ductal
-External validation	24.67	Pre	T2	N0	Pos	NA	Pos	Grade II	Invasive Ductal
-External validation	51.14439	Pre	T3	N0	Pos	Pos	Pos	Grade II	Invasive Lobular
-External validation	47.41819	Pre	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
-External validation	50.52328	Pre	T2	N1	Pos	Pos	Neg	Grade II	Invasive Lobular
-External validation	61.19227	Post	T1	N0	Pos	Pos	Neg	Grade III	Invasive Ductal
-External validation	49.82511	Post	T1	N1	Pos	Pos	Neg	Grade III	Invasive Ductal
-External validation	47.94689	Pre	T2	N0	Pos	Pos	Pos	Grade II	Invasive Ductal
-External validation	84.57955	Post	T2	N0	Pos	Pos	Neg	Grade I	Invasive Ductal
-External validation	75.32521	Post	T2	N0	Pos	Pos	Neg	Grade II	Invasive Lobular
-External validation	59.71385	Post	T1	N2	Pos	Pos	Neg	Grade III	Invasive Ductal
-External validation	42.13146	Post	T1	N1	Pos	Pos	Neg	Grade II	Invasive Ductal
+type	Age	Age at menarche	Parity	Age at first child live birth	Menopausal status	Age at menopause	Oral contraceptive use	Hormone replacement therapy	Smoking	First degree relatives with endometrial cancer
+Control	39.35	13	2	34	Pre	NA	No	No	No	0
+Cancer	58.47	14	2	23	Post	55	No	No	Yes	0
+Cancer	68.78	9	2	26	Post	53	No	No	No	0
+Control	46.21	14	0	NA	Pre	NA	No	No	No	0
+Control	53.13	13	3	20	Post	52	No	No	No	0
+Control	42.84	13	3	37	Pre	NA	Yes	No	No	0
+Control	53.85	13	0	NA	Post	48	No	No	No	0
+Cancer	62.46	16	4	27	Post	53	No	No	No	0
+Cancer	55.44	15	3	20	Post	54	No	No	No	0
+Control	42.28	14	1	43	Pre	NA	No	No	No	0
+Control	55.96	11	2	29	Post	53	No	No	No	0
+Control	60.6	14	4	23	Post	54	No	No	No	0
+Control	42.09	13	3	24	Pre	NA	No	No	No	0
+Control	32.89	13	0	NA	Pre	NA	No	No	No	0
+Control	54.87	14	0	NA	Post	NA	No	No	No	0
+Cancer	65.33	12	2	23	Post	43	No	No	Yes	0
+Cancer	52.79	13	2	35	Post	48	No	No	No	0
+Control	38.44	15	2	33	Pre	NA	No	No	No	0
+Control	35.86	14	1	34	Pre	NA	No	No	No	0
+Cancer	68.52	14	5	21	Post	46	No	No	No	0
+Cancer	74.17	13	0	NA	Post	50	No	No	No	0
+Control	63.85	12	3	36	Post	53	No	No	No	0
+Control	65.87	14	2	27	Post	51	Yes	No	No	0
+Control	43.04	12	0	NA	Pre	NA	Yes	No	No	0
+Control	31.59	14	0	NA	Pre	NA	No	No	No	0
+Control	55.79	18	1	32	Post	53	No	No	No	0
+Cancer	59.97	10	2	26	Post	59	No	No	No	0
+Control	38.78	12	2	35	Pre	NA	No	No	No	0
+Cancer	65.99	11	6	23	Post	54	No	No	No	0
+Cancer	66.09	10	1	33	Post	51	No	No	No	0
+Control	39.58	11	2	37	Pre	NA	No	No	No	1
+Control	31.01	11	0	NA	Pre	NA	Yes	No	Yes	0
+Cancer	58.26	10	0	NA	Post	NA	No	No	No	0
+Control	34.25	12	0	NA	Pre	NA	No	No	No	0
+Control	33.84	13	0	NA	Pre	NA	No	No	No	0
+Control	45.38	16	2	41	Pre	NA	No	No	No	0
+Control	40.97	14	3	34	Pre	NA	No	No	No	0
+Control	56.27	13	2	27	Post	54	No	Yes	No	0
+Control	32.51	14	0	NA	Pre	NA	Yes	No	No	0
+Cancer	58.75	12	0	NA	Post	53	No	No	Yes	0
+Control	49.74	12	2	32	Post	47	No	No	No	0
+Control	36.14	11	0	NA	Pre	NA	Yes	No	No	0
+Cancer	76.47	11	3	22	Post	52	No	No	No	0
+Control	33.74	14	1	34	Pre	NA	No	No	No	0
+Control	42.33	12	1	35	Pre	NA	No	No	No	0
+Control	63.12	12	3	27	Post	58	No	No	No	0
+Cancer	76.73	13	3	25	Post	53	No	No	No	0
+Control	33.04	14	2	30	Pre	NA	No	No	No	0
+Control	39.52	13	2	35	Pre	NA	No	No	No	0
+Control	32.56	11	0	NA	Pre	NA	Yes	No	No	0
+Control	40.74	14	2	34	Pre	NA	Yes	No	No	0
+Cancer	75.58	10	2	36	Post	54	No	No	No	0
+Cancer	66.3	13	2	24	Post	50	No	No	No	0
+Control	50.75	12	2	27	Post	46	No	No	No	0
+Control	44.11	13	1	NA	Pre	NA	No	No	No	0
+Cancer	61.17	NA	0	NA	Post	NA	No	No	No	0
+Cancer	63.25	13	0	NA	Post	44	No	No	No	0
+Control	38.94	15	2	33	Pre	NA	No	No	No	0
+Cancer	67.59	12	1	21	Post	50	No	No	No	0
+Control	42.68	14	0	NA	Pre	NA	No	No	No	0
+Cancer	69.89	12	0	NA	Post	52	No	No	No	0
+Control	66.98	13	2	24	Post	49	No	No	No	0
+Cancer	65.29	12	2	27	Post	56	No	No	No	0
+Control	55.89	14	7	30	Post	55.88961	NA	No	No	0
+Control	49.77	11	2	41	Pre	NA	No	No	No	1
+Control	50.6	13	0	NA	Post	49	No	No	Yes	0
+Control	35.83	10	0	NA	Pre	NA	No	No	No	0
+Control	31.08	12	0	NA	Pre	NA	Yes	No	No	0
+Cancer	61.19	14	0	NA	Post	55	No	No	No	0
+Control	36.2	11	1	35	Pre	NA	No	No	Yes	0
+Control	51.8	14	3	21	Post	49	No	No	Yes	0
+Cancer	70.67	11	2	31	Post	52	No	No	No	0
+Control	56.52	11	0	NA	Post	55	No	No	No	0
+Control	72.38	10	1	28	Post	47	No	No	No	0
+Cancer	67.91	13	2	25	Post	60	No	No	No	0
+Cancer	81.61	11	2	26	Post	51	No	No	No	0
+Cancer	78.71	14	2	30	Post	53	No	No	No	0
+Cancer	76.28	15	3	21	Post	52	No	No	No	0
+Control	30.95	14	0	NA	Pre	NA	NA	No	No	0
+Cancer	72.51	15	1	25	Post	55	No	No	No	0
+Cancer	70.14	14	0	NA	Post	42	No	No	No	0
+Control	42.09	13	0	NA	Pre	NA	No	No	Yes	0
+Cancer	45.75	11	2	25	Pre	NA	No	No	No	0
+Cancer	57.69	15	2	36	Post	55	No	No	No	0
+Control	41.11	12	1	40	Pre	NA	No	No	No	0
+Control	35.21	11	1	34	Pre	NA	Yes	No	No	0
+Cancer	66.22	14	2	23	Post	57	No	No	No	0
+Control	60.34	11	1	33	Post	51	No	No	No	0
+Cancer	56.98	11	0	NA	Pre	NA	No	No	No	0
+Cancer	74.3	12	1	24	Post	48	No	No	No	0
+Cancer	62.59	12	3	36	Post	50	No	No	No	0
+Control	50.47	14	2	35	Pre	NA	No	No	No	0
+Cancer	73.53	12	3	23	Post	50	No	No	No	1
+Cancer	70.36	15	0	NA	Post	55	No	No	No	0
+Control	43.52	13	1	35	Pre	NA	No	No	No	0
+Cancer	68	14	0	NA	Post	NA	No	No	No	0
+Control	68.03	14	3	25	Post	50	No	No	No	0
+Control	31.16	13	0	NA	Pre	NA	Yes	No	No	0
+Cancer	86.26	11	1	50	Post	48	No	No	No	0
+Cancer	58.12	12	0	NA	Pre	NA	No	No	No	0
+Control	72.57	12	4	22	Post	50	No	No	Yes	0
+Control	43.81	14	1	31	Pre	NA	No	No	No	0
+Cancer	52.05	13	0	NA	Post	51	No	No	No	0
+Control	66.13	15	2	27	Post	55	No	No	No	0
+Control	63.25	12	3	25	Post	50	No	No	No	0
+Cancer	62.8	13	2	25	Post	52	No	No	No	0
+Control	54.71	10	1	25	Post	54	No	No	No	0
+Control	58.75	12	0	NA	Post	55	No	Yes	No	0
+Cancer	72.1	13	1	31	Post	57	No	No	No	1
+Control	38.08	12	2	25	Pre	NA	No	No	No	0
+Cancer	64.76	12	3	26	Post	60	No	No	No	0
+Control	38.73	13	1	NA	Pre	NA	No	No	Yes	0
+Control	41.79	12	0	NA	Pre	NA	No	No	No	0
+Cancer	38.64	9	0	NA	Pre	NA	No	No	No	0
+Cancer	70.93	14	3	19	Post	55	No	No	No	0
+Cancer	68.39	14	2	26	Post	50	No	No	No	0
+Cancer	59.18	14	2	33	Post	51	No	No	No	0
+Control	46.75	11	5	24	Pre	NA	No	No	No	0
+Cancer	73.81	13	0	NA	Post	NA	No	No	No	0
+Control	69	13	1	27	Post	55	No	No	No	0
+Control	41.72	13	0	NA	Pre	NA	NA	No	No	0
+Cancer	52.6	13	1	24	Post	51	No	No	No	0
+Cancer	88.07	17	2	27	Post	50	No	No	No	0
+Cancer	73.79	12	1	26	Post	50	No	No	No	0
+Control	49.3	12	5	44	Post	47	No	No	No	0
+Control	59.84	13	3	26	Post	55	NA	No	No	0
+Cancer	68.9	12	2	26	Post	54	No	No	No	0
+Control	42.45	12	1	38	Pre	NA	No	No	No	0
+Control	50.24	11	3	47	Pre	NA	No	Yes	No	0
+Control	40.8	13	1	25	Pre	NA	No	No	No	0
+Control	26.02	13	0	NA	Pre	NA	No	No	No	0
+Control	61.12	13	2	37	Post	55	No	No	Yes	0
+Cancer	45.31	13	1	22	Post	37	No	No	Yes	0
+Control	72.26	10	0	NA	Post	44	No	No	Yes	0
+Control	58.09	13	3	33	Post	53	NA	No	No	0
+Cancer	84.13	14	2	32	Post	45	No	No	No	0
+Cancer	64.31	11	3	37	Post	55	No	No	No	0
+Control	60.05	12	1	29	Post	50	No	No	No	0
+Control	70.28	13	2	23	Post	58	No	No	No	0
+Control	45.61	17	1	40	Pre	NA	No	No	No	0
+Control	68.27	13	0	NA	Post	55	No	No	No	0
+Cancer	53.49	15	3	27	Post	NA	No	No	No	0
+Control	63.14	12	3	21	Post	50	No	Yes	No	0
+Control	40.52	16	0	NA	Pre	NA	NA	No	NA	0
+Control	40.99	11	0	NA	Pre	NA	No	No	No	0
+Control	61.3	12	1	36	Post	44	No	Yes	No	0
+Cancer	71.71	12	3	24	Post	54	No	No	No	0
+Control	65.21	12	2	24	Post	48	No	No	Yes	0
+Cancer	65.04	12	2	29	Post	56	No	No	No	0
+Control	67.96	12	2	30	Post	50	No	No	No	0
+Control	34.34	11	1	33	Pre	NA	No	No	No	0
+Cancer	64.47	11	2	19	Post	57	No	No	No	0
+Control	39.33	14	2	30	Pre	NA	No	No	No	0
+Control	53.41	13	0	NA	Post	52	No	Yes	No	0
+Control	49.55	12	0	NA	Post	47	No	No	No	0
+Cancer	84.52	13	4	26	Post	45	Yes	No	No	0
+Control	39.21	14	0	NA	Pre	NA	No	No	Yes	0
+Cancer	33.71	11	0	NA	Pre	NA	No	No	No	0
+Control	53.56	15	2	23	Post	52	No	Yes	No	0
+Cancer	62.32	12	2	23	Post	51	No	No	No	0
+Control	37.64	14	0	NA	Pre	NA	No	No	No	0
+Cancer	74.85	14	2	21	Post	57	No	No	No	0
+Control	73.87	11	3	29	Post	50	No	No	No	0
+Control	36.31	11	1	36	Pre	NA	No	No	No	0
+Control	42.8	14	0	NA	Pre	NA	No	No	No	0
+Control	40.67	13	0	NA	Pre	NA	No	No	No	0
+Control	43.64	11	2	30	Pre	NA	No	No	No	0
+Cancer	70.1	16	3	24	Post	58	No	No	No	0
+Control	36.03	12	1	34	Pre	NA	No	No	No	0
+Cancer	77.35	16	3	29	Post	50	No	No	No	0
+Cancer	57.26	12	0	NA	Post	45	No	No	Yes	0
+Cancer	72.57	13	2	18	Post	52	No	No	No	0
+Control	51.61	14	3	25	Pre	NA	No	No	No	0
+Control	36.9	13	1	33	Pre	NA	No	No	No	0
+Cancer	62.37	12	2	23	Post	48	No	No	No	0
+Cancer	62.2	13	0	NA	Post	52	No	No	No	0
+Cancer	73.94	14	0	NA	Post	56	No	No	No	0
+Cancer	73.07	11	2	27	Post	55	No	No	No	0
+Control	40.43	12	1	35	Pre	NA	No	No	No	0
+Control	37.29	13	1	34	Pre	NA	No	No	No	0
+Cancer	60.78	12	1	30	Post	54	No	No	No	0
+Cancer	81.01	14	2	21	Post	51	No	No	No	0
+Control	80.77	16	3	21	Post	46	No	No	No	0
+Cancer	66.28	10	3	23	Post	52	No	No	No	0
+Cancer	73.43	13	0	NA	Post	51	No	No	No	0
+Cancer	54.84	11	2	30	Post	48	No	No	No	0
+Control	37.48	13	2	35	Pre	NA	No	No	No	0
+Control	38.23	11	2	21	Pre	NA	No	No	Yes	0
+Cancer	66.46	14	2	26	Post	50	No	No	No	0
+Control	31.13	14	0	NA	Pre	NA	No	No	No	0
+Control	41.58	13	1	36	Pre	NA	Yes	No	No	0
+Cancer	41.17	13	0	NA	Pre	NA	No	No	No	0
+Control	40.54	12	1	37	Pre	NA	No	No	No	0
+Control	58.43	14	4	24	Post	56	No	No	No	0
+Control	31.58	12	0	NA	Pre	NA	Yes	No	Yes	0
+Cancer	60.63	12	1	33	Post	59	No	No	No	0
+Cancer	58.22	14	2	21	Post	57	No	No	Yes	0
+Cancer	66.67	12	1	22	Post	48	No	No	Yes	0
+Control	70.63	14	0	NA	Post	48	Yes	No	No	0
+Cancer	71.83	12	1	29	Post	53	No	No	No	0
+Control	47.46	14	1	43	Pre	NA	No	No	No	0
+Control	45.88	9	2	32	Pre	NA	No	Yes	No	0
+Cancer	75.68	13	2	26	Post	51	No	No	No	0
+Cancer	68.81	14	0	NA	Post	50	No	No	No	0
+Control	32.9	12	0	NA	Pre	NA	No	No	No	0
+Control	34.72	12	0	NA	Pre	NA	No	No	No	0
+Control	35	14	0	NA	Pre	NA	No	No	No	0
+Cancer	61.97	12	1	29	Post	57	No	No	No	0
+Cancer	72	16	2	28	Post	50	No	No	No	0
+Cancer	65.02	14	4	28	Post	53	No	No	No	0
+Control	29.93	12	1	32	Pre	NA	No	NA	Yes	0
+Cancer	59.5	13	0	NA	Post	56	No	No	No	0
+Control	61.08	11	2	31	Post	46	No	No	No	0
+Cancer	66.96	13	2	30	Post	45	No	No	No	0
+Control	57.26	15	0	NA	Post	NA	No	Yes	No	0
+Control	50.91	14	3	28	Post	NA	No	No	No	0
+Control	55.42	14	4	26	Post	NA	No	No	No	0
+Control	46.26	12	2	28	Pre	NA	No	No	No	0
+Control	52.79	16	2	28	Post	NA	No	No	No	0
+Control	64.29	12	2	29	Post	NA	No	No	No	0
+Cancer	57.23	10	2	26	Post	50	No	No	No	0
+Control	50.68	15	0	NA	Pre	NA	No	No	No	0
+Cancer	56.42	15	1	24	Post	48	No	No	No	0
+Control	39.7	13	2	34	Pre	NA	No	No	No	0
+Control	31.07	13	0	NA	Pre	NA	Yes	No	No	0
+Cancer	29.99	13	3	26	Pre	NA	No	No	No	0
+Cancer	76.47	12	0	NA	Post	49	No	No	No	0
+Cancer	52.27	14	0	NA	Post	46	No	No	No	0
+Control	50.37	11	2	46	Post	49	No	No	No	0
+Cancer	56.65	12	1	31	Post	53	No	No	No	0
+Cancer	58.71	11	0	NA	Post	52	No	No	No	0
+Cancer	69.49	13	2	39	Post	54	No	No	Yes	0
+Control	62.61	14	3	28	Post	NA	No	No	No	0
+Cancer	58.12	15	0	NA	Post	54	No	No	No	0
+Control	37.3	15	0	NA	Pre	NA	No	No	No	0
+Control	46.94	13	2	41	Pre	NA	No	No	No	0
+Control	42.81	12	2	36	Pre	NA	No	No	No	0
+Control	43.62	11	2	40	Pre	NA	No	No	No	0
+Control	45.19	15	2	39	Pre	NA	No	No	No	0
+Cancer	63.18	11	0	NA	Post	54	No	No	No	0
+Cancer	63.12	15	2	31	Post	55	No	No	No	0
+Control	63.69	14	2	28	Post	NA	No	No	No	0
+Control	51.91	13	0	NA	Pre	NA	No	No	No	0
+Control	53.13	13	2	34	Pre	NA	No	No	No	0
+Control	61.16	13	2	35	Post	NA	No	No	No	0
+Control	54.54	11	0	NA	Pre	NA	No	Yes	No	1
+Control	34.38	13	0	NA	Pre	NA	No	No	No	0
+Cancer	68.57	14	1	21	Post	55	No	No	No	0
+Control	41.39	14	0	NA	Pre	NA	No	No	No	0
+Cancer	76.92	12	0	NA	Post	50	No	No	No	0
+Cancer	72.16	11	0	NA	Post	55	No	No	No	0
+Control	34.07	12	2	30	Pre	NA	No	No	No	0
+Cancer	64.02	13	2	21	Post	52	No	No	No	0
+Control	63.73	14	2	24	Post	NA	No	No	No	0
+Control	55.86	11	1	28	Post	NA	No	No	No	0
+Cancer	50.69	15	2	30	Post	50	No	No	No	0
+Cancer	95.24	16	0	NA	Post	30	No	No	No	0
+Control	35.85	12	1	36	Pre	NA	No	No	No	0
+Cancer	75.19	15	2	26	Post	51	No	No	NA	0
+Cancer	74.64	13	2	28	Post	53	No	No	No	0
+Control	70.97	12	2	32	Post	NA	No	No	No	0
+Cancer	65.39	10	2	28	Post	52	No	No	No	0
+Control	75.59	14	3	24	Post	50	No	No	No	0
+Control	55.23	12	2	26	Post	NA	No	No	No	0
+Control	50.58	10	1	24	Post	NA	Yes	No	No	0
+Cancer	74.5	14	2	29	Post	50	No	No	No	0
+Control	75.49	17	2	32	Post	49	No	No	No	0
+Control	50.31	13	2	34	Pre	NA	Yes	No	No	0
+Cancer	67.52	15	4	21	Post	NA	No	No	No	0
+Control	50.21	15	2	35	Post	47	No	No	No	0
+Control	50.51	13	0	NA	Pre	NA	No	No	No	0
+Cancer	63.1	12	3	26	Post	NA	No	No	No	0
+Cancer	82.13	14	2	31	Post	49	No	No	No	0
+Cancer	63.05	12	1	29	Post	NA	No	No	No	0
+Control	56.92	15	2	30	Post	55	No	Yes	No	0
+Control	57.78	11	0	NA	Pre	NA	Yes	No	No	0
+Control	44.03	12	2	39	Pre	NA	No	No	No	0
+Cancer	82.85	12	6	29	Post	NA	No	No	No	0
+Cancer	60.3	15	2	24	Post	NA	No	No	No	0
+Control	65.57	12	3	23	Post	52	No	No	No	0
+Control	50.58	13	2	43	Pre	NA	No	No	No	0
+Control	46.96	12	0	NA	Pre	NA	No	No	No	0
+Cancer	72	12	3	23	Post	NA	No	No	No	0
+Control	33.2	11	0	NA	Pre	NA	Yes	No	No	0
+Cancer	57.61	12	2	33	Post	NA	No	No	No	0
+Control	76.32	15	3	34	Post	50	No	No	No	0
+Control	72.69	14	4	24	Post	51	No	No	No	0
+Cancer	60.82	13	3	28	Post	NA	No	No	No	0
+Control	62.95	12	0	NA	Post	NA	Yes	Yes	No	0
+Control	61.67	15	3	25	Post	NA	No	No	No	0
+Cancer	57.47	13	2	21	Post	NA	No	No	No	0
+Cancer	74.05	11	4	22	Post	NA	No	No	No	0
+Cancer	34.31	11	1	24	Pre	NA	No	No	Yes	0
+Control	31.05	14	1	29	Pre	NA	Yes	No	No	0
+Cancer	72.4	15	5	28	Post	NA	No	No	No	0
+Cancer	75.64	12	1	22	Post	NA	No	No	Yes	0
+Cancer	56.22	12	3	24	Post	NA	No	No	No	0
+Cancer	69.13	11	2	26	Post	NA	No	No	No	0
+Control	53.83	13	2	22	Pre	NA	No	No	Yes	0
+Cancer	74.24	10	2	27	Post	NA	No	No	No	0
+Control	54.97	14	1	33	Post	NA	No	No	No	0
+Control	32.07	12	1	25	Pre	NA	Yes	No	No	0
+Cancer	72.82	13	2	32	Post	NA	No	No	No	0
+Control	57.57	14	3	24	Post	45	No	No	No	0
+Cancer	78.24	13	2	23	Post	55	No	No	No	0
+Cancer	37.46	13	0	NA	Pre	NA	No	No	Yes	0
+Control	56.77	16	1	27	Post	NA	No	No	No	0
+Cancer	73.95	13	3	20	Post	50	No	No	No	0
+Cancer	63.4	12	0	NA	Post	NA	No	No	No	0
+Control	31.71	16	0	NA	Pre	NA	No	No	No	0
+Control	76.07	14	3	29	Post	50	No	Yes	No	0
+Control	32	12	0	NA	Pre	NA	No	No	No	0
+Cancer	65.02	13	3	28	Post	NA	No	No	No	0
+Control	41.68	14	4	25	Pre	NA	No	No	No	1
+Cancer	85.14	13	4	33	Post	NA	No	No	No	0
+Control	38.45	12	0	NA	Pre	NA	No	No	No	0
+Control	40.93	14	2	24	Pre	NA	No	No	No	0
+Cancer	64.15	13	0	NA	Post	55	No	No	No	0
+Cancer	59.79	10	0	NA	Post	50	No	No	Yes	0
+Control	66.97	13	3	21	Post	48	No	No	No	0
+Control	49.59	12	4	33	Pre	NA	No	No	No	0
+Cancer	50.93	12	0	NA	Post	NA	No	No	Yes	0
+Control	40.18	15	2	30	Pre	NA	No	No	No	0
+Cancer	88.93	13	4	22	Post	NA	No	No	No	0
+Cancer	57.67	16	0	NA	Post	NA	No	No	No	0
+Control	34.57	15	1	36	Pre	NA	No	No	No	0
+Cancer	69.91	18	3	22	Post	52	No	No	No	0
+Cancer	71.29	16	2	28	Post	55	No	No	No	0
+Control	35.89	9	1	33	Pre	NA	No	No	No	0
+Cancer	86.46	12	3	22	Post	NA	No	No	No	0
+Cancer	61.78	13	0	NA	Post	NA	No	No	No	0
+Cancer	64.85	15	2	32	Post	55	No	No	No	0
+Control	71.3	12	4	24	Post	56	No	No	No	0
+Control	71.97	13	3	24	Post	53	No	No	Yes	0
+Control	65.94	11	0	NA	Post	48	No	No	No	0
+Cancer	40.01	13	2	35	Pre	NA	No	No	No	0
+Control	40.89	13	1	41	Pre	NA	No	No	No	0
+Cancer	49.9	12	2	42	Pre	NA	No	No	No	0
+Control	44	15	2	34	Pre	NA	No	Yes	No	0
+Control	53.84	11	2	29	Post	53	No	No	No	0
+Control	62.79	15	2	27	Post	50	No	No	No	1
+Cancer	43.21	13	2	27	Pre	NA	No	No	No	1
+Cancer	41.42	13	0	NA	Post	40	No	No	No	0
+Cancer	61.19	13	2	25	Post	50	No	No	No	0
+Cancer	60.29	12	2	26	Post	NA	No	No	No	0
+Control	31.62	13	2	25	Pre	NA	Yes	No	No	0
+Cancer	70.91	12	2	22	Post	NA	No	No	No	0
+Cancer	73.32	13	3	25	Post	NA	No	No	No	0
+Control	38.81	15	1	30	Pre	NA	No	No	No	0
+Control	37.08	14	1	33	Pre	NA	No	No	No	0
+Control	40.85	12	2	28	Pre	NA	No	No	No	0
+Cancer	67.79	14	2	26	Post	42	No	No	No	0
+Cancer	69.55	13	2	30	Post	NA	No	No	No	0
+Control	68.45	12	2	24	Post	52	No	No	No	0
+Control	50.53	13	3	26	Pre	NA	No	No	No	0
+Control	53.75	13	1	21	Post	48	No	No	No	0
+Control	80.03	14	2	25	Post	47	No	No	No	0
+Cancer	72.45	11	3	26	Post	53	No	No	No	0
+Control	55.3	13	0	NA	Pre	NA	No	No	No	0
+Control	53.29	15	2	20	Post	45	No	No	No	0
+Cancer	75.78	12	2	26	Post	59	No	No	No	0
+Control	40.16	13	0	NA	Pre	NA	No	No	Yes	0
+Cancer	77.07	13	0	NA	Post	NA	No	No	No	0
+Cancer	58.73	11	3	24	Post	50	No	No	No	1
+Control	40.16	10	0	NA	Pre	NA	No	No	No	0
+Cancer	69.73	14	0	NA	Post	NA	No	No	No	0
+Cancer	68.43	14	3	25	Post	56	No	No	No	0
+Control	39.36	14	0	NA	Pre	NA	Yes	No	Yes	0
+Cancer	76.04	13	3	27	Post	NA	No	No	No	0
+Control	33.73	12	1	26	Pre	NA	No	No	Yes	0
+Cancer	72.46	16	4	21	Post	NA	No	No	No	0
+Control	51.1	11	4	26	Pre	NA	No	No	No	0
+Control	42.23	14	2	43	Pre	NA	No	No	No	0
+Cancer	68.77	14	2	24	Post	54	No	No	No	0
+Control	52.51	13	5	26	Post	40	No	No	No	0
+Control	72.14	11	2	33	Post	55	No	No	No	0
+Control	50.46	11	1	34	Pre	NA	No	No	No	0
+Cancer	65.87	13	3	35	Post	45	No	No	No	0
+Control	33.53	10	0	NA	Pre	NA	Yes	No	No	0
+Cancer	73.3	14	3	27	Post	53	No	No	No	0
+Control	40.76	11	0	NA	Pre	NA	No	No	No	0
+Cancer	71.4	12	3	19	Post	40	No	No	No	1
+Control	73.73	14	3	33	Post	52	No	No	No	0
+Control	51.16	14	3	23	Post	49	No	No	No	0
+Cancer	64.71	13	2	20	Post	NA	No	No	No	1
+Control	39.15	14	0	NA	Pre	NA	No	No	No	0
+Control	44.97	14	3	20	Pre	NA	No	No	No	0
+Cancer	64.34	11	2	28	Post	NA	No	No	No	0
+Control	52.68	17	2	25	Post	52	No	No	Yes	0
+Control	33.76	12	1	33	Pre	NA	Yes	No	Yes	0
+Cancer	50.52	12	2	28	Pre	NA	No	No	No	0
+Cancer	69.59	15	2	22	Post	52	No	No	No	0
+Control	51.01	14	1	26	Pre	NA	Yes	No	No	0
+Control	63.08	15	1	23	Post	58	No	No	No	0
+Control	61.64	12	3	35	Post	48	No	No	No	0
+Control	55.81	14	2	36	Post	48	No	No	No	0
+Cancer	60.2	12	0	NA	Post	44	No	No	No	0
+Cancer	70.93	NA	NA	NA	Post	NA	NA	NA	No	0
+Control	31.51	15	0	NA	Pre	NA	Yes	No	No	0
+Control	39.57	11	3	34	Pre	NA	No	No	No	0
+Cancer	83.75	14	2	36	Post	49	No	No	No	0
+Cancer	72.49	14	2	27	Post	52	No	No	No	0
+Control	44.26	14	0	NA	Pre	NA	No	No	Yes	0
+Control	51.86	15	1	45	Post	46	No	No	No	0
+Control	36.17	13	0	NA	Pre	NA	No	No	Yes	0
+Cancer	65.8	16	2	27	Post	55	No	No	No	0
+Control	52.36	13	1	34	Pre	NA	No	No	No	0
+Cancer	65.98	12	2	25	Post	54	No	No	No	0
+Control	39.63	11	2	34	Pre	NA	No	No	No	0
+Control	59.16	13	2	44	Post	49	No	No	No	0
+Cancer	76.76	12	2	26	Post	50	No	No	Yes	0
+Control	33.2	13	0	NA	Pre	NA	No	No	No	0
+Cancer	57.4	13	2	19	Post	50	No	No	No	0
+Control	39.48	11	1	39	Pre	NA	No	No	No	0
+Cancer	70.24	13	0	NA	Post	55	No	Yes	No	0
+Control	56.38	14	1	35	Post	52	No	No	No	0
+Cancer	44.06	13	1	30	Pre	NA	No	No	No	0
+Control	59.21	12	3	29	Post	56	No	No	No	0
+Control	42.35	12	0	NA	Pre	NA	No	No	No	0
+Cancer	65.29	15	2	23	Post	53	No	No	No	0
+Control	79.65	13	3	28	Post	53	No	No	No	0
+Control	32.01	10	1	29	Pre	NA	No	No	No	0
+Cancer	57.7	12	1	38	Post	57.70166	No	No	No	0
+Control	46.96	12	3	27	Pre	NA	Yes	Yes	No	0
+Control	59.71	14	3	21	Post	46	No	No	Yes	0
+Control	80.1	15	1	30	Post	50	No	Yes	No	0
+Control	59.51	15	2	24	Post	54	No	No	No	0
+Cancer	87.14	12	2	27	Post	45	No	No	No	0
+Cancer	61	12	2	29	Post	50	No	No	No	0
+Control	35.09	13	2	25	Pre	NA	No	No	Yes	0
+Cancer	69.16	12	2	20	Post	53	No	No	No	0
+Control	44.42	11	0	NA	Pre	NA	No	No	No	0
+Control	38.79	13	0	NA	Pre	NA	No	No	Yes	0
+Cancer	60.23	13	0	NA	Post	54	No	No	No	0
+Control	64.25	13	2	24	Post	NA	No	No	No	0
+Control	56.58	11	4	26	Post	56	No	No	No	0
+Cancer	67.72	14	2	37	Post	67.72255	No	No	No	0
+Control	50.82	12	0	NA	Pre	NA	No	No	No	0
+Control	57.16	15	0	NA	Post	51	No	No	No	0
+Control	37.86	12	2	31	Pre	NA	No	No	No	0
+Control	52.42	15	4	19	Post	NA	No	No	No	0
+Control	52.06	14	3	23	Post	49	No	No	No	0
+Control	51.81	14	1	26	Pre	NA	No	No	Yes	0
+Cancer	69.41	15	2	19	Post	42	No	No	No	0
+Cancer	78.52	12	3	22	Post	61	No	No	No	0
+Control	47.32	10	0	NA	Pre	NA	No	No	Yes	0
+Cancer	60.18	12	2	23	Post	53	No	No	No	0
+Control	39.24	12	0	NA	Pre	NA	No	No	No	0
+Control	52.49	12	2	46	Post	NA	No	No	No	0
+Control	48.09	12	0	NA	Pre	NA	No	No	No	0
+Control	55.2	10	0	NA	Pre	NA	No	No	No	0
+Cancer	69.35	14	2	27	Post	55	No	No	No	0
+Cancer	78.96	16	4	23	Post	52	No	No	No	0
+Control	39.72	13	1	39	Pre	NA	No	No	No	0
+Cancer	70.28	12	0	NA	Post	50	No	No	No	0
+Control	55.45	13	0	NA	Post	NA	No	No	No	0
+Cancer	55.15	13	2	25	Post	51	No	No	Yes	0
+Control	38.25	12	2	32	Pre	NA	No	No	No	0
+Control	59.75	10	1	33	Post	49	No	No	No	0
+Cancer	80.15	12	1	46	Post	56	No	No	No	0
+Control	64.01	11	3	22	Post	NA	No	No	No	0
+Control	44.85	13	0	NA	Pre	NA	No	No	No	0
+Cancer	72.53	13	2	31	Post	55	No	No	No	0
+Control	55.74	11	2	38	Post	NA	No	No	No	0
+Control	51.63	12	2	39	Post	50	No	No	No	0
+Control	57.44	9	3	22	Post	NA	No	No	No	0
+Cancer	69.51	15	0	NA	Post	56	No	No	No	0
+Control	31.06	16	0	NA	Pre	NA	No	No	No	0
+Control	48.49	13	0	NA	Pre	NA	No	No	No	0
+Control	65.15	12	0	NA	Post	54	Yes	No	No	0
+Control	33.04	11	0	NA	Pre	NA	Yes	No	No	0
+Cancer	84.8	13	0	NA	Post	58	No	No	No	0
+Cancer	66.52	15	6	18	Post	45	No	No	No	0
+Control	64.39	NA	NA	NA	Post	NA	NA	NA	NA	0
+Control	46.84	12	0	NA	Post	NA	No	No	No	0
+Control	50.94	12	3	25	Post	NA	No	Yes	No	0
+Control	34.71	11	1	25	Pre	NA	No	No	No	0
+Cancer	79.83	9	1	32	Post	50	No	No	No	0
+Control	36	11	2	32	Pre	NA	No	No	No	0
+Cancer	56.9	12	2	24	Post	50	No	No	No	0
+Control	45.04	13	0	NA	Pre	NA	No	Yes	No	0
+Control	46.34	12	1	34	Pre	NA	No	No	No	0
+Control	35	12	0	NA	Pre	NA	No	No	No	0
+Control	36.24	12	1	33	Pre	NA	Yes	No	No	0
+Cancer	68.32	13	0	NA	Post	52	No	No	No	0
+Cancer	67.78	10	5	21	Post	53	No	No	No	1
+Control	39.42	11	2	34	Pre	NA	No	No	No	0
+Control	53.75	12	0	NA	Post	NA	No	No	No	0
+Control	42.41	11	1	28	Pre	NA	No	No	No	0
+Control	41.31	13	2	35	Pre	NA	No	No	No	0
+Cancer	85.83	15	5	22	Post	53	No	No	No	0
+Control	33.97	10	0	NA	Pre	NA	No	No	Yes	0
+Cancer	53.5	11	2	19	Pre	NA	No	No	No	0
+Cancer	57.38	13	0	NA	Post	43	No	No	No	0
+Control	50.44	14	0	NA	Post	48	No	Yes	No	0
+Control	37.15	15	0	NA	Pre	NA	No	No	No	0
+Cancer	70.21	12	9	25	Post	NA	No	No	No	0
+Control	85.51	15	2	28	Post	54	Yes	No	No	0
+Cancer	61.32	16	3	31	Post	50	No	No	No	0
+Control	44.53	11	1	31	Pre	NA	No	No	No	0
+Cancer	62.37	13	2	27	Post	55	No	No	No	0
+Cancer	71.36	13	2	23	Post	51	No	No	No	0
+Control	35.66	11	1	29	Pre	NA	No	No	Yes	0
+Cancer	42.39	15	0	NA	Pre	NA	No	No	No	0
+Control	46.19	14	0	NA	Pre	NA	No	No	No	0
+Cancer	69.73	12	3	30	Post	51	No	No	No	0
+Control	65.31	13	2	25	Post	55	No	No	No	0
+Cancer	57.79	14	1	24	Post	49	No	No	Yes	0
+Cancer	74.58	11	3	30	Post	52	No	No	No	0
+Control	39.25	13	2	33	Pre	NA	No	No	No	0
+Cancer	70.89	11	3	31	Post	56	No	No	No	0
+Control	47.44	12	3	22	Pre	NA	No	No	Yes	0
+Control	67.72	13	2	29	Post	48	No	No	No	0
+Control	37.04	13	0	NA	Pre	NA	No	No	No	0

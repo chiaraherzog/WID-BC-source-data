@@ -1,339 +1,243 @@
-type	Age	Age at menarche	Parity	Age at first child live birth	Menopausal status	Age at menopause	Oral contraceptive use	Hormone replacement therapy	Smoking	First degree relatives with breast cancer
-Control	45.73761	14	0	NA	Pre	NA	No	No	No	0
-Control	55.50576	13	1	26	Post	54	Yes	No	No	0
-Cancer	58.62966	10	2	34	Post	56	No	No	No	0
-Control	55.44025	13	2	26	Post	55	Yes	No	No	0
-Cancer	34.69592	14	0	NA	Pre	NA	Yes	No	No	0
-Cancer	71.35515	13	2	34	Post	52	No	No	No	0
-Control	84.46	14	2	33	Post	52	No	No	No	0
-Cancer	57.6226	13	2	30	Post	56	Yes	No	Yes	0
-Control	56.10641	15	2	22	Post	52	Yes	No	No	1
-Control	45.63351	13	0	NA	Pre	NA	No	No	No	0
-Cancer	62.53164	14	2	23	Post	56	No	No	Yes	0
-Control	69.62793	12	4	24	Post	53	No	No	No	0
-Cancer	26.40293	14	0	NA	Pre	NA	Yes	No	No	0
-Control	59.95205	14	0	NA	Post	49	No	No	No	0
-Cancer	51.57415	10	2	28	Post	NA	Yes	No	Yes	0
-Control	39.41578	14	0	NA	Pre	NA	No	No	No	0
-Cancer	60.78201	14	0	NA	Post	55	Yes	No	No	1
-Cancer	49.70747	10	1	43	Pre	NA	No	No	No	0
-Control	71.50899	13	2	31	Post	53	No	No	No	0
-Control	48.5243	13	2	37	Pre	NA	Yes	No	No	0
-Control	51.77968	13	3	NA	Post	51	Yes	No	No	0
-Control	33.12425	13	1	31	Pre	NA	Yes	No	No	0
-Cancer	44.90771	14	2	33	Pre	NA	Yes	No	Yes	0
-Cancer	44.03726	10	1	41	Pre	NA	Yes	No	No	0
-Control	42.80758	10	2	23	Pre	NA	Yes	No	No	0
-Cancer	76.53018	14	1	28	Post	49	No	No	No	0
-Control	59.1421	11	2	31	Post	52	No	No	No	0
-Cancer	41.23352	12	2	34	Pre	NA	No	No	No	1
-Control	45.32682	17	0	NA	Post	42	Yes	No	No	0
-Control	53.08033	13	1	28	Post	45	Yes	No	No	0
-Cancer	43.75275	12	1	38	Pre	NA	Yes	No	No	1
-Control	40.99016	16	1	31	Pre	NA	Yes	No	No	0
-Cancer	65.07478	16	1	22	Post	54	No	No	No	0
-Cancer	64.79022	15	2	26	Post	55	Yes	No	Yes	0
-Control	64.10259	17	2	31	Post	55	No	Yes	No	0
-Control	54.19486	13	0	NA	Post	53	No	No	Yes	0
-Cancer	70.62744	13	2	21	Post	46	No	No	No	0
-Control	71.0025	15	1	30	Post	49	No	No	No	0
-Cancer	68.73782	12	0	NA	Post	52	No	No	No	0
-Control	38.90349	12	0	NA	Pre	NA	Yes	No	No	0
-Cancer	71.47841	12	6	24	Post	50	No	No	No	1
-Control	64.54339	14	3	25	Post	50	No	No	No	0
-Cancer	41.71248	11	2	40	Pre	NA	Yes	No	No	0
-Control	50.06898	11	0	NA	Post	49	Yes	Yes	No	0
-Cancer	43.94428	13	0	NA	Pre	NA	Yes	No	No	0
-Control	57.33607	9	2	24	Post	44	Yes	No	No	1
-Cancer	39.17489	14	2	36	Pre	NA	Yes	No	No	0
-Cancer	44.17974	14	2	34	Pre	NA	No	No	No	0
-Control	72.49151	15	2	40	Post	NA	Yes	Yes	No	0
-Cancer	45.90178	9	3	33	Pre	NA	Yes	No	No	0
-Control	57.78396	11	2	31	Post	54	Yes	No	No	1
-Control	55.41542	13	0	NA	Post	55.41542	Yes	No	No	0
-Cancer	63.4761	14	0	NA	Post	48	Yes	No	Yes	0
-Cancer	50.50375	13	2	41	Post	45	Yes	Yes	No	0
-Cancer	56.18234	11	2	27	Post	51	Yes	No	No	0
-Control	52.25081	16	2	24	Post	49	Yes	Yes	Yes	0
-Control	52.11132	12	0	NA	Post	50	No	Yes	Yes	1
-Cancer	46.93402	15	2	38	Pre	NA	Yes	No	No	0
-Control	53.3128	11	3	31	Pre	NA	Yes	No	Yes	0
-Cancer	27.14201	15	0	NA	Pre	NA	Yes	No	No	0
-Control	37.4638	10	2	34	Pre	NA	Yes	No	No	0
-Cancer	47.84795	13	2	38	Pre	NA	No	No	No	0
-Control	39.59069	13	2	24	Pre	NA	Yes	No	No	0
-Cancer	48.37677	12	2	36	Pre	NA	No	No	No	1
-Control	38.7751	15	0	NA	Pre	NA	Yes	No	No	0
-Cancer	31.68144	12	1	27	Pre	NA	Yes	No	Yes	0
-Control	38.76656	12	3	26	Pre	NA	No	No	No	0
-Cancer	39.52537	15	0	NA	Pre	NA	Yes	No	No	0
-Control	72.40703	12	0	NA	Post	50	No	No	No	0
-Control	50.67381	12	0	NA	Post	42	Yes	No	No	0
-Cancer	51.56089	9	0	NA	Pre	NA	Yes	No	No	1
-Control	57.31325	11	5	25	Post	47	Yes	No	No	0
-Control	42.02516	11	1	23	Post	30	No	No	Yes	0
-Cancer	49.53227	13	1	34	Pre	NA	No	No	No	0
-Control	70.41324	14	0	NA	Post	60	No	No	No	0
-Cancer	51.06774	12	1	28	Post	47	Yes	No	No	0
-Cancer	50.22721	15	2	29	Pre	NA	Yes	No	No	0
-Control	40.90215	13	0	NA	Pre	NA	Yes	No	No	0
-Cancer	63.51395	11	1	35	Post	NA	No	No	No	0
-Control	48.25	14	2	26	Post	36	Yes	No	No	1
-Cancer	72.85318	11	0	NA	Post	58	No	Yes	No	0
-Control	46.526	14	1	36	Pre	NA	No	No	No	0
-Cancer	50.39969	12	0	NA	Pre	NA	Yes	No	No	0
-Control	74.07972	14	1	28	Post	53	Yes	Yes	No	0
-Cancer	50.41887	12	2	32	Pre	NA	Yes	No	No	0
-Cancer	54.44071	10	2	36	Post	51	No	No	Yes	0
-Control	69.03087	13	1	27	Post	50	Yes	Yes	No	0
-Cancer	73.51817	13	2	30	Post	58	Yes	No	No	0
-Control	59.14209	11	2	25	Post	51	Yes	No	No	1
-Cancer	46.00811	14	1	46	Pre	NA	Yes	No	No	1
-Control	52.2097	13	0	NA	Pre	NA	Yes	Yes	No	0
-Control	52.95715	13	3	21	Pre	NA	Yes	No	No	0
-Control	70.1151	14	4	19	Post	40	Yes	Yes	No	0
-Control	53.36522	12	3	22	Pre	NA	No	No	No	1
-Control	61.3405	13	2	33	Post	56	No	No	Yes	0
-Control	60.57928	14	3	24	Post	54	No	No	No	0
-Control	41.77577	12	2	32	Pre	NA	Yes	No	No	0
-Control	46.96131	10	3	20	Pre	NA	No	No	No	1
-Control	59.48979	11	0	NA	Post	54	No	No	No	0
-Control	49.41158	14	0	NA	Pre	NA	No	No	Yes	0
-Control	74.61319	14	2	25	Post	45	Yes	No	No	0
-Control	46.04151	11	0	NA	Pre	NA	No	Yes	No	0
-Control	74.69545	13	1	26	Post	61	No	No	No	0
-Control	73.03671	12	0	NA	Post	50	No	No	No	0
-Control	55.38036	13	0	NA	Post	49	No	No	No	0
-Control	59.57424	11	2	30	Post	54	No	No	No	1
-Control	54.88166	12	1	43	Post	52	No	No	No	0
-Control	55.57748	13	0	NA	Post	52	No	No	No	0
-Control	55.205	13	3	34	Post	54	Yes	No	No	0
-Control	76.46989	16	1	36	Post	52	No	No	No	0
-Control	81.09976	15	2	20	Post	53	No	No	No	0
-Control	38.34796	12	3	25	Pre	NA	Yes	No	No	0
-Control	54.4549	12	0	NA	Post	51	Yes	No	No	1
-Control	57.95661	11	2	30	Post	57.95661	No	Yes	No	0
-Control	64.09759	14	3	24	Post	55	No	No	No	0
-Control	52.62002	14	1	28	Pre	NA	No	Yes	No	0
-Control	72.09174	11	3	26	Post	48	No	Yes	No	0
-Control	58.09574	15	0	NA	Post	52	Yes	Yes	No	0
-Control	61.00376	12	2	NA	Post	NA	No	No	No	1
-Control	72.26138	14	3	27	Post	52	Yes	Yes	No	1
-Control	40.09224	13	0	NA	Pre	NA	Yes	No	No	0
-Control	65.36516	11	0	NA	Post	55	Yes	Yes	No	0
-Control	67.70032	13	3	24	Post	45	Yes	No	No	0
-Control	49.08863	11	2	27	Pre	NA	No	No	No	0
-Control	71.69208	14	2	24	Post	53	Yes	Yes	No	1
-Cancer	68.13835	11	2	30	Post	53	No	No	No	0
-Control	37.59472	12	2	19	Pre	NA	No	No	No	0
-Control	53.21162	13	2	31	Post	47	Yes	Yes	No	0
-Cancer	66.9011	15	0	NA	Post	50	Yes	Yes	No	0
-Control	55.39671	14	2	29	Post	48	No	No	No	0
-Control	48.76302	12	4	19	Pre	NA	No	Yes	No	1
-Cancer	38.05789	12	2	31	Pre	NA	Yes	No	No	0
-Cancer	74.21949	13	0	NA	Post	50	Yes	No	No	0
-Control	59.35833	12	3	34	Post	48	Yes	No	No	0
-Cancer	67.64534	15	2	23	Post	51	No	No	Yes	1
-Cancer	31.90859	13	0	NA	Pre	NA	Yes	No	No	0
-Control	70.233	11	1	30	Post	44	No	No	No	0
-Cancer	50.99964	13	2	33	Post	50	Yes	No	No	0
-Control	43.81024	13	2	44	Pre	NA	Yes	No	No	0
-Cancer	61.11341	14	2	22	Post	53	No	No	No	0
-Control	51.99033	14	1	37	Post	50	Yes	No	No	0
-Cancer	58.81627	12	3	NA	Post	55	No	No	No	0
-Control	47.57985	14	0	NA	Post	47	No	No	No	0
-Control	38.8377	13	1	39	Pre	NA	No	No	No	0
-Cancer	48.76291	12	0	NA	Pre	NA	Yes	No	No	0
-Control	57.34046	14	5	NA	Post	51	No	No	No	0
-Cancer	39.76082	10	2	39	Pre	NA	Yes	No	No	0
-Control	66.75599	13	1	48	Post	50	Yes	No	No	0
-Cancer	38.05803	14	0	NA	Pre	NA	Yes	No	No	1
-Control	30.22223	16	2	27	Pre	NA	No	No	No	0
-Control	47.71945	16	2	25	Pre	NA	Yes	No	No	0
-Control	60.54606	12	2	24	Post	56	Yes	No	No	0
-Control	68.42039	14	2	22	Post	50	No	Yes	No	0
-Control	25.95104	14	0	NA	Pre	NA	Yes	No	Yes	0
-Control	31.93832	12	1	31	Pre	NA	Yes	No	Yes	0
-Control	79.64302	13	5	22	Post	55	No	No	No	0
-Control	25.92092	15	0	NA	Pre	NA	Yes	No	No	0
-Control	48.46188	13	2	26	Post	48	No	No	Yes	1
-Cancer	49.89	11	2	24	Pre	NA	No	No	No	0
-Control	66.89809	13	3	20	Post	52	Yes	No	No	0
-Cancer	44.47806	12	2	34	Pre	NA	No	No	No	0
-Control	58.33714	12	0	NA	Post	51	Yes	No	No	0
-Control	67.35527	12	2	21	Post	52	Yes	Yes	Yes	0
-Cancer	51.39911	12	2	32	Pre	NA	Yes	No	No	0
-Cancer	64.51922	12	3	24	Post	53	No	No	No	0
-Cancer	67.06765	12	0	NA	Post	50	Yes	No	No	0
-Cancer	51.0733	14	2	31	Pre	NA	No	No	No	0
-Control	37.439	13	1	37	Pre	NA	Yes	No	No	0
-Cancer	54.32592	11	2	17	Pre	NA	No	No	No	0
-Cancer	45.26654	13	3	34	Pre	NA	Yes	No	No	0
-Control	73.24976	13	1	42	Post	55	No	No	No	0
-Control	26.48193	10	0	NA	Pre	NA	Yes	No	No	1
-Control	60.29703	11	0	NA	Post	50	No	Yes	No	0
-Cancer	55.74126	12	0	NA	Pre	NA	Yes	No	No	0
-Control	28.78473	16	0	NA	Pre	NA	Yes	No	Yes	0
-Control	59.15253	12	1	38	Post	50	Yes	Yes	No	0
-Control	38.2275	15	2	22	Pre	NA	No	No	Yes	0
-Cancer	43.11197	11	0	NA	Pre	NA	Yes	No	No	0
-Cancer	54.93644	11	1	32	Post	50	Yes	No	No	0
-Control	28.18746	15	0	NA	Pre	NA	Yes	No	No	0
-Cancer	49.09367	12	3	33	Pre	NA	No	No	No	0
-Control	50.1207	13	1	28	Pre	NA	Yes	No	No	0
-Cancer	34.44383	11	0	NA	Pre	NA	Yes	No	No	0
-Control	66.84098	14	3	18	Post	52	Yes	Yes	No	0
-Control	50.78338	13	2	30	Post	50	Yes	No	No	0
-Control	54.01655	10	2	28	Post	52	Yes	No	No	1
-Cancer	53.92635	11	0	NA	Post	49	Yes	No	No	0
-Control	40.43661	13	0	NA	Pre	NA	No	No	No	1
-Control	63.82373	12	1	34	Post	58	Yes	Yes	No	0
-Control	69.30769	13	1	33	Post	55	Yes	No	No	0
-Control	46.40299	12	0	NA	Pre	NA	No	No	No	0
-Control	67.18861	12	3	28	Post	57	Yes	Yes	No	0
-Control	58.21662	13	2	24	Post	56	No	No	No	1
-Control	52.80493	11	0	NA	Post	46	No	No	No	0
-Control	43.45434	13	1	32	Pre	NA	Yes	No	No	0
-Control	37.27986	13	2	30	Pre	NA	Yes	No	No	0
-Control	61.90976	15	3	23	Post	48	Yes	No	No	0
-Control	70.02999	13	2	27	Post	41	No	No	No	0
-Control	47.15042	12	2	41	Pre	NA	Yes	No	No	0
-Control	40.03431	14	1	32	Pre	NA	No	No	No	0
-Control	49.28528	13	3	25	Pre	NA	Yes	No	No	0
-Control	37.6172	13	1	27	Pre	NA	Yes	No	No	0
-Control	59.62668	12	0	NA	Post	54	No	No	No	0
-Cancer	63.99327	10	1	24	Post	48	No	Yes	No	0
-Cancer	46.06049	10	1	40	Pre	NA	Yes	No	No	0
-Control	60.86107	10	2	30	Post	42	Yes	No	Yes	0
-Control	49.88528	15	0	NA	Pre	NA	NA	No	NA	0
-Cancer	63.59882	12	3	35	Post	NA	No	Yes	No	2
-Cancer	42.90634	15	1	33	Pre	NA	No	No	No	0
-Control	57.8548	10	0	NA	Post	52	Yes	No	No	0
-Control	62.93628	14	3	22	Post	53	No	No	No	0
-Control	30.17282	12	0	NA	Pre	NA	Yes	No	No	0
-Cancer	73.56206	11	2	34	Post	48	Yes	No	No	0
-Control	56.09459	11	2	23	Post	50	Yes	No	No	1
-Cancer	72.71077	13	1	33	Post	48	Yes	No	No	0
-Control	79.51164	13	1	38	Post	49	No	Yes	No	0
-Control	48.51638	12	1	35	Post	39	No	No	No	0
-Control	52.45961	12	2	24	Post	48	No	No	Yes	0
-Control	49.0749	13	1	33	Pre	NA	No	No	Yes	1
-Cancer	67.4402	14	1	36	Post	54	Yes	No	Yes	0
-Control	56.43428	12	1	41	Post	48	Yes	No	No	0
-Cancer	65.04718	14	0	NA	Post	54	No	No	No	0
-Cancer	55.80458	15	1	22	Post	55	Yes	No	No	0
-Cancer	71.71928	16	2	35	Post	45	No	No	No	0
-Cancer	63.07586	12	0	NA	Post	NA	Yes	Yes	No	0
-Cancer	45.61705	13	1	38	Pre	NA	Yes	No	No	0
-Cancer	56.99834	10	1	31	Post	48	No	No	No	0
-Control	76.08931	12	2	23	Post	45	No	No	No	0
-Control	42.88461	14	0	NA	Pre	NA	No	No	No	0
-Control	53.29394	14	3	34	Post	46	No	No	No	0
-Control	44.57077	15	2	27	Pre	NA	No	No	Yes	0
-Cancer	58.34487	11	0	NA	Post	NA	Yes	Yes	No	0
-Cancer	51.85106	13	1	47	Pre	NA	Yes	No	No	0
-Cancer	49.06125	10	2	34	Pre	NA	Yes	No	No	0
-Cancer	33.41451	15	0	NA	Pre	NA	Yes	No	No	0
-Control	37.68566	16	2	34	Pre	NA	Yes	No	No	1
-Control	53.02044	12	2	27	Pre	NA	Yes	No	No	1
-Cancer	64.89971	12	0	NA	Post	52	Yes	No	Yes	1
-Control	37.44699	18	1	35	Pre	NA	Yes	No	No	0
-Control	68.38466	14	2	28	Post	55	Yes	No	No	1
-Cancer	62.40002	15	1	35	Post	49	Yes	No	No	1
-Cancer	45.67456	13	2	31	Post	45	Yes	No	No	0
-Control	53.25844	15	0	NA	Post	51	Yes	No	No	0
-Cancer	63.71658	12	1	27	Post	52	Yes	No	No	0
-Control	59.27605	12	2	27	Post	54	No	No	Yes	0
-Control	66.09363	14	1	32	Post	57	Yes	Yes	No	0
-Control	55.66483	17	2	30	Post	45	No	No	No	0
-Control	51.41039	13	1	32	Post	52	No	No	Yes	0
-Control	45.9975	13	0	NA	Pre	NA	No	No	No	0
-Cancer	43.70889	12	2	31	Pre	NA	Yes	No	No	0
-Control	43.3009	12	0	NA	Pre	NA	Yes	Yes	No	0
-Cancer	43.26205	14	2	40	Pre	NA	Yes	No	No	0
-Cancer	47.69465	14	0	NA	Pre	NA	Yes	No	No	0
-Cancer	57.23063	10	2	21	Post	50	Yes	No	No	0
-Control	45.19812	13	2	31	Pre	NA	Yes	No	No	0
-Control	51.85936	13	2	20	Post	47	No	No	No	1
-Control	57.89353	15	0	NA	Post	54	No	Yes	No	2
-Control	61.94559	16	3	20	Post	NA	No	No	Yes	0
-Cancer	64.6668	13	3	21	Post	45	Yes	Yes	No	1
-Cancer	53.36477	11	2	27	Post	53	Yes	No	No	0
-Cancer	47.194	15	0	NA	Pre	NA	No	No	No	0
-Control	58.8683	11	2	24	Post	50	No	Yes	No	1
-Control	43.09288	13	1	30	Pre	NA	Yes	No	No	0
-Control	57.67997	12	0	NA	Post	48	No	Yes	No	0
-Cancer	69.67437	13	2	23	Post	50	Yes	No	No	0
-Cancer	45.73439	14	0	NA	Pre	NA	Yes	No	No	0
-Control	58.55072	13	2	31	Post	48	Yes	No	Yes	1
-Control	51.95537	13	2	27	Post	50	Yes	No	Yes	0
-Cancer	56.28652	12	2	36	Pre	NA	Yes	No	Yes	0
-Cancer	49.48791	11	0	NA	Pre	NA	Yes	No	Yes	0
-Control	51.56373	14	0	NA	Post	49	Yes	No	No	0
-Control	73.77037	14	2	28	Post	50	Yes	Yes	No	0
-Cancer	24.67	11	0	NA	Pre	NA	Yes	No	No	1
-Control	59.19972	12	1	41	Post	52	Yes	No	No	0
-Control	58.17844	12	2	NA	Post	45	Yes	No	No	0
-Cancer	51.14439	13	2	44	Pre	NA	Yes	No	No	0
-Control	54.40554	13	3	33	Post	50	No	No	No	0
-Control	26.40562	14	1	28	Pre	NA	No	No	No	0
-Cancer	47.41819	13	1	35	Pre	NA	No	No	No	0
-Cancer	50.52328	14	2	32	Pre	NA	No	No	No	0
-Control	24.68845	13	0	NA	Pre	NA	Yes	No	No	0
-Cancer	61.19227	15	1	34	Post	52	Yes	No	No	0
-Control	77.41432	13	0	NA	Post	55	No	No	No	0
-Cancer	49.82511	12	2	27	Post	45	Yes	No	No	0
-Control	43.1285	12	1	30	Post	41	No	No	No	0
-Cancer	47.94689	11	1	44	Pre	NA	Yes	No	No	1
-Cancer	84.57955	11	1	27	Post	45	No	No	No	0
-Control	27.59376	15	1	29	Pre	NA	Yes	No	No	0
-Cancer	75.32521	16	0	NA	Post	50	Yes	Yes	No	0
-Control	68.57124	13	2	32	Post	40	Yes	No	No	0
-Cancer	59.71385	12	2	36	Post	51	No	No	No	0
-Control	60.96229	12	2	31	Post	42	No	Yes	No	0
-Control	49.61259	12	1	41	Post	47	No	No	Yes	0
-Control	37.21419	10	2	25	Pre	NA	Yes	No	No	0
-Control	61.23387	12	2	41	Post	56	No	No	No	0
-Control	50.59413	13	3	19	Post	42	No	No	No	0
-Control	50.86293	13	2	33	Pre	NA	No	No	Yes	0
-Control	58.53711	12	2	20	Post	58	Yes	No	No	0
-Control	47.75818	12	2	32	Pre	NA	Yes	No	Yes	0
-Control	25.4279	11	0	NA	Pre	NA	Yes	No	No	0
-Control	72.31669	14	2	24	Post	45	Yes	Yes	No	0
-Control	73.70198	14	5	26	Post	52	No	No	No	0
-Control	68.31624	10	10	17	Post	59	No	No	No	0
-Control	52.97643	13	2	30	Post	51	No	No	No	0
-Control	66.1564	11	3	16	Post	50	Yes	No	No	0
-Control	63.76863	13	5	21	Post	54	No	No	Yes	0
-Control	54.92039	13	3	23	Post	50	Yes	No	No	0
-Control	67.61017	13	2	34	Post	54	Yes	Yes	No	0
-Control	38.44	14	2	30	Pre	NA	Yes	No	No	0
-Control	66.07694	15	1	41	Post	NA	Yes	Yes	No	0
-Control	52.08942	13	2	20	Post	37	Yes	No	Yes	0
-Control	38.88435	14	2	34	Pre	NA	Yes	No	No	1
-Control	53.15715	13	0	NA	Post	51	No	No	No	0
-Control	40.53525	13	2	31	Pre	NA	Yes	No	No	0
-Control	61.17861	11	3	24	Post	51	Yes	No	No	1
-Control	70.32353	13	0	NA	Post	43	Yes	Yes	No	0
-Control	52.91579	13	3	19	Post	49	No	No	No	0
-Control	57.71843	15	2	39	Post	52	Yes	No	No	0
-Control	30.23	14	1	30	Pre	NA	Yes	No	No	0
-Control	54.66786	12	3	28	Post	46	Yes	No	No	0
-Control	61.97258	12	0	NA	Post	45	Yes	No	No	0
-Control	57.39261	12	2	24	Post	52	Yes	No	No	0
-Control	39.24055	14	0	NA	Pre	NA	Yes	No	No	0
-Control	54.78837	13	1	25	Post	50	Yes	No	Yes	0
-Control	36.13304	14	0	NA	Pre	NA	No	No	Yes	0
-Control	55.38566	12	2	18	Post	50	No	No	Yes	0
-Control	64.17498	14	0	NA	Post	50	No	No	No	2
-Control	53.84165	13	2	26	Post	52	No	No	No	0
-Control	38.5946	9	2	23	Pre	NA	Yes	No	No	0
-Control	43.00479	12	1	41	Pre	NA	Yes	No	Yes	0
-Control	38.41063	12	0	NA	Pre	NA	Yes	No	No	0
-Control	40.23	12	2	22	Pre	NA	No	No	No	1
-Control	56.39553	14	1	41	Post	53	Yes	No	No	0
-Control	60.54649	10	1	28	Post	NA	Yes	No	No	0
-Control	52.21	13	0	NA	Post	48	No	No	Yes	0
-Control	39.86495	16	1	NA	Pre	NA	No	No	Yes	0
-Control	55.49794	13	2	23	Post	51	No	No	Yes	0
-Cancer	42.13146	13	2	35	Post	35	No	Yes	No	0
+Age	Menopausal status	T stage	Grade	Histology
+52.19	Post	T1	Grade I	Endometrioid
+64.26	Post	T2	NA	Clear Cell
+39.46	Pre	T1	Grade III	Mucinous
+46.5	Pre	T1	Grade I	Endometrioid
+58.95	Post	T1	Grade I	Endometrioid
+50.47	Post	T3	Grade III	Serous – High Grade
+54.67	Post	T4	Grade III	Serous – High Grade
+58.63	Post	T3	Grade III	Serous - High Grade
+72.54	Post	T4	Grade III	Adenocarcinoma
+73.98	Post	T3	Grade III	Serous – High Grade
+49.87	Pre	T3	Grade III	Serous – High Grade
+66.98	Post	T1	Grade III	Clear Cell
+67.89	Post	T3	Grade III	Serous - High Grade
+52.91	Post	T3	Grade III	Serous – High Grade
+46.08	Pre	T3	Grade III	Serous - High Grade
+70.59	Post	T1	Grade III	Serous – High Grade
+69.64	Post	T2	Grade III	Serous – High Grade
+52.72	Pre	T2	Grade III	Serous - High Grade
+78.88	Post	T1	NA	Clear Cell
+48.73	Pre	T3	Grade III	Serous – High Grade
+44.9	Pre	T3	Grade III	Serous – High Grade
+55.35	Post	T2	Grade III	Serous - High Grade
+81.99	Post	T1	Grade II	Mucinous
+24.29	Pre	T1	Grade III	Clear Cell
+56.55	Post	T3	Grade III	Serous – High Grade
+52.86	Pre	T4	NA	Clear Cell
+68.74	Post	T2	Grade III	Serous – High Grade
+33.61	Pre	T2	Grade III	Clear Cell
+42.83	Pre	T1	Grade III	Clear Cell
+62.42	Post	T4	Grade III	Serous – High Grade
+63.54	Post	T4	Grade III	Serous – High Grade
+40.91	Pre	T3	Grade III	Serous - High Grade
+60.88	Post	T4	Grade III	Serous – High Grade
+42.65	Pre	T3	Grade III	Serous - High Grade
+63.68	Post	T3	Grade III	Serous – High Grade
+69.4	Post	T3	Grade III	Serous – High Grade
+72.22	Post	T4	Grade III	Serous – High Grade
+57	Post	T3	Grade III	Serous – High Grade
+47.22	Pre	T1	Grade I	Serous – Low Grade
+64.77	Post	T3	Grade III	Serous - High Grade
+44.27	Post	T4	Grade III	Serous - High Grade
+47.43	Pre	T3	Grade III	Serous – High Grade
+26.63	Pre	T1	Grade I	Serous – Low Grade
+67.01	Post	T4	Grade III	Serous – High Grade
+47.12	Pre	T3	Grade III	Serous – High Grade
+19.88	Pre	T4	Grade I	Serous – Low Grade
+53.38	Post	T1	Grade I	Clear Cell
+53.89	Post	T2	Grade II	Serous – High Grade
+56.96	Post	T3	Grade III	Serous - High Grade
+43.91	Pre	T3	Grade III	Serous – High Grade
+44.79	Pre	T4	Grade III	Serous - High Grade
+58.13	Post	T3	Grade III	Serous – High Grade
+68.82	Post	T3	Grade III	Serous - High Grade
+61.31	Post	T3	Grade III	Serous – High Grade
+57.72	Post	T4	Grade III	Serous - High Grade
+61.17	Post	T1	Grade II	Endometrioid
+60.45	Post	T3	Grade III	Serous – High Grade
+73.92	Post	T4	Grade III	Serous – High Grade
+71.22	Post	T3	Grade III	Serous – High Grade
+63.24	Post	T3	Grade I	Serous – Low Grade
+74.46	Post	T3	Grade III	Clear Cell
+58.75	Post	T4	Grade III	Serous – High Grade
+50.72	Pre	T3	Grade III	Serous – High Grade
+67.72	Post	T3	Grade III	Serous – High Grade
+55.6	Post	T4	Grade III	Serous – High Grade
+71.66	Post	T3	Grade III	Clear Cell
+47.24	Post	T1	Grade III	Serous – High Grade
+64.77	Post	T4	Grade I	Serous – Low Grade
+77.35	Post	T3	Grade III	Serous – High Grade
+60.02	Post	T3	Grade I	Serous – Low Grade
+65.25	Post	T3	Grade III	Serous - High Grade
+52.81	Pre	T2	Grade III	Endometrioid
+58.87	Post	T3	Grade I	Serous – Low Grade
+60.47	Post	T3	Grade III	Serous – High Grade
+72.04	Post	T4	Grade III	Serous – High Grade
+51.81	Post	T3	Grade I	Serous – Low Grade
+74.35	Post	T3	Grade III	Serous – High Grade
+74.78	Post	T4	Grade III	Serous – High Grade
+56.95	Post	T1	Grade II	Endometrioid
+58.49	Post	T4	Grade III	Serous – High Grade
+74.44	Post	T3	Grade III	Serous – High Grade
+69.29	Post	T3	Grade III	Serous - High Grade
+54.27	Post	T3	Grade III	Serous - High Grade
+61.64	Post	T3	Grade III	Serous - High Grade
+66.53	Post	T3	Grade III	Serous – High Grade
+62.24	Post	T3	Grade III	Serous - High Grade
+55.89	Post	T3	Grade III	Serous – High Grade
+73.72	Post	T1	Grade III	Endometrioid
+41.51	Pre	T3	Grade III	Serous – High Grade
+52.26	Post	T3	Grade I	Serous – Low Grade
+41.58	Pre	T4	Grade III	Serous – High Grade
+59.77	Post	T2	Grade III	Serous – High Grade
+51.78	Pre	T3	Grade III	Serous – High Grade
+72.27	Post	T3	Grade III	Serous – High Grade
+59.22	Post	T3	Grade III	Serous – High Grade
+60.41	Post	T3	Grade III	Serous – High Grade
+86.58	Post	T1	Grade I	Endometrioid
+72.7	Post	T3	Grade III	Serous – High Grade
+48.32	Pre	T3	Grade III	Serous – High Grade
+56.17	Post	T3	Grade III	Serous - High Grade
+60.83	Post	T3	Grade III	Serous – High Grade
+51.89	Pre	T4	Grade III	Serous – High Grade
+38.9	Pre	T1	NA	Clear Cell
+42.85	Pre	T1	Grade II	Mucinous
+69.64	Post	T4	Grade III	Serous – High Grade
+58.78	Post	T1	Grade III	Serous – High Grade
+58.06	Post	T3	Grade III	Serous – High Grade
+62.46	Post	T3	Grade III	Serous – High Grade
+61.07	Post	T2	Grade III	Serous - High Grade
+63.78	Post	T3	Grade III	Serous – High Grade
+68.06	Post	T3	Grade III	Serous – High Grade
+58.53	Post	T3	NA	Seromucinous
+34.61	Pre	T1	Grade I	Endometrioid borderline
+53.02	Post	T4	Grade III	Serous – High Grade
+73.67	Post	NA	Grade III	Serous - High Grade
+42.58	Pre	T3	Grade III	Serous – High Grade
+73.43	Post	T3	Grade III	Serous - High Grade
+66.37	Post	T3	Grade III	Serous – High Grade
+57.02	Post	T1	Grade II	Mucinous
+80.14	Post	T3	Grade III	Serous – High Grade
+61.22	Post	T3	Grade III	Serous - High Grade
+62.31	Post	T2	Grade III	Serous - High Grade
+78.4	Post	T1	Grade III	Clear Cell
+59.27	Post	T3	Grade III	Serous – High Grade
+65.41	Post	T3	Grade III	Serous – High Grade
+55.09	Post	T4	Grade III	Serous – High Grade
+30.78	Pre	T1	Grade I	Serous – Low Grade
+73.98	Post	T3	Grade III	Squamous cell carcinoma
+61.78	Post	T3	Grade III	Serous – High Grade
+53.34	Post	T2	Grade III	Endometrioid
+61.17	Post	T3	Grade III	Serous – High Grade
+59.85	Post	T3	Grade III	Serous - High Grade
+66.8	Post	T3	Grade III	Serous - High Grade
+52.07	Post	T3	Grade III	Serous – High Grade
+51.49	Pre	T4	Grade III	Serous – High Grade
+42.36	Pre	T3	Grade III	Serous - High Grade
+64.11	Post	T3	Grade III	Serous – High Grade
+65.53	Post	T1	Grade II	Clear Cell
+46.28	Pre	T2	Grade III	Serous – High Grade
+56.52	Post	T3	Grade III	Serous – High Grade
+60.81	Post	T1	Grade I	Mucinous
+69.29	Post	T2	Grade III	Endometrioid
+68.69	Post	T1	Grade III	Mucinous
+50.28	Pre	T4	Grade III	Serous – High Grade
+61.3	Post	T2	Grade III	Serous – High Grade
+70.03	Post	T2	Grade II	Serous – High Grade
+64.91	Post	T2	Grade III	Serous - High Grade
+44.98	Post	T3	NA	Clear Cell
+73.99	Post	T3	Grade I	Serous – Low Grade
+72.26	Post	T1	Grade II	Endometrioid
+49.03	Pre	T3	Grade I	Mucinous
+63.4	Post	T3	Grade III	Serous – High Grade
+77.82	Post	T2	Grade III	Serous – High Grade
+70.62	Post	T2	Grade III	Clear Cell
+59.15	Post	T3	Grade III	Serous – High Grade
+49.49	Post	T1	Grade I	Mucinous
+72.71	Post	T3	Grade III	Serous – High Grade
+65.78	Post	T3	Grade III	Serous – High Grade
+52.11	Post	T1	Grade I	Endometrioid
+70.72	Post	T4	Grade III	Serous – High Grade
+83.74	Post	T3	Grade III	Serous – High Grade
+67.23	Post	T1	Grade II	Endometrioid
+55.24	Post	T2	Grade III	Serous – High Grade
+22.4	Pre	T3	Grade III	Serous – High Grade
+69	Post	T2	Grade III	Serous – High Grade
+71.44	Post	T2	Grade I	Serous - Low Grade
+69.24	Post	T3	Grade III	Serous – High Grade
+68.31	Post	T3	Grade III	Serous – High Grade
+76.01	Post	T3	Grade III	Serous – High Grade
+59.58	Post	T3	Grade III	Carcinosarcoma
+63.74	Post	T2	Grade III	Serous – High Grade
+80.06	Post	T1	Grade I	Serous – Low Grade
+63.34	Post	T3	Grade III	Serous - High Grade
+73.33	Post	NA	NA	Borderline Mucinous
+63.63	Post	T3	Grade III	Serous – High Grade
+54.12	Post	T3	Grade III	Serous – High Grade
+44.05	Pre	T3	Grade III	Serous - High Grade
+76.87	Post	T3	Grade III	Serous – High Grade
+53.45	Post	T1	Grade II	Serous – High Grade
+45.76	Pre	T3	Grade III	Serous – High Grade
+69.27	Post	T3	Grade III	Carcinosarcomas
+47.42	Post	T1	Grade I	Mucinous
+69.26	Post	T3	Grade III	Serous - High Grade
+51.03	Post	T1	Grade II	Endometrioid
+73.22	Post	T3	Grade III	Serous – High Grade
+40.94	Post	T4	Grade III	Serous – High Grade
+55.7	Post	T3	Grade II	Serous – High Grade
+40.2	Pre	T1	Grade III	Clear Cell
+77.65	Post	T3	Grade III	Serous – High Grade
+57.47	Post	T3	Grade I	Serous – Low Grade
+77.64	Post	T3	Grade III	Serous – High Grade
+69.38	Post	T3	Grade III	Serous – High Grade
+66.8	Post	T2	Grade III	Serous – High Grade
+51.96	Post	T1	Grade I	Endometrioid
+58.45	Post	T3	Grade III	Serous – High Grade
+20.3	Pre	T1	Grade II	Mucinous
+55.6	Post	T3	Grade III	Serous – High Grade
+70.27	Post	T3	Grade III	Serous – High Grade
+57.64	Post	T1	Grade III	Serous – High Grade
+44.97	Pre	T3	Grade III	Serous – High Grade
+59.3	Post	T2	Grade III	Serous – High Grade
+65.1	Post	T3	Grade III	Serous - High Grade
+69.38	Post	T3	Grade III	Serous – High Grade
+73.2	Post	T3	Grade III	Serous – High Grade
+45.53	Pre	T3	Grade III	Serous – High Grade
+47.14	Pre	T2	Grade III	Clear Cell
+64.72	Post	T1	Grade III	Clear Cell
+49.81	Post	T2	Grade III	Serous – Low Grade
+68.38	Post	T3	Grade III	Serous – High Grade
+71.84	Post	T4	Grade III	Serous – High Grade
+52.79	Post	T3	Grade III	Serous – High Grade
+75.06	Post	T3	Grade III	Serous – High Grade
+46.42	Post	T3	Grade III	Serous – High Grade
+54.24	Post	T4	Grade III	Serous – High Grade
+83.88	Post	T1	Grade III	Serous – High Grade
+50.7	Post	T2	Grade III	Serous – High Grade
+78.85	Post	T3	Grade III	Endometrioid
+52.08	Pre	T2	Grade I	Serous - Low Grade
+62.42	Post	T3	Grade III	Serous – High Grade
+61.59	Post	T3	Grade III	Serous – High Grade
+65.16	Post	T4	Grade III	Serous – High Grade
+44.41	Pre	T4	Grade I	Serous – Low Grade
+40.13	Pre	T3	Grade III	Serous – High Grade
+70.96	Post	T1	Grade III	Serous – High Grade
+51.66	Post	T1	Grade I	Serous – Low Grade
+59.48	Post	T1	Grade I	Serous – Low Grade
+66.95	Post	T1	Grade III	Serous - High Grade
+76.16	Post	T2	Grade I	Serous – Low Grade
+44.25	Pre	T1	Grade III	Endometrioid
+51.44	Post	T1	Grade I	Serous – High Grade
+56.74	Post	T3	Grade III	Serous - High Grade
+68.9	Post	T3	Grade III	Serous – High Grade
+64.31	Post	T1	Grade III	Clear Cell
+65.84	Post	T3	Grade III	Serous – High Grade
+30.81	Pre	T1	Grade I	Mucinous
+71.54	Post	T3	Grade III	Serous – High Grade
+56.55	Post	T3	Grade III	Serous – High Grade
+54.06	Post	T3	Grade III	Serous – High Grade
+61.02	Post	T3	Grade III	Serous – High Grade
+76.79	Post	T2	Grade III	Serous - High Grade
+60.16	Post	T3	Grade III	Serous - High Grade
+47.48	Post	T1	Grade I	Mucinous
